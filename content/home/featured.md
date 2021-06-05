@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
-subtitle: ""
+title: Books
+subtitle: "In Statu Nascendi"
 
 content:
   # Page type to display. E.g. post, talk, publication...
