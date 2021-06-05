@@ -10,6 +10,7 @@ education:
     year: 1968
   - course: BS in Psychology
     institution: Leiden University
+    year: 1965
 email: "jan@deleeuwpdx.net"
 highlight_name: false
 interests:
