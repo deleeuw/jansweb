@@ -9,13 +9,13 @@ education:
     institution: Leiden University
     year: 1968
   - course: BS in Psychology
-    institution: Massachusetts Institute of Technology
-    year: 1965
+    institution: Leien University
 email: "jan@deleeuwpdx.net"
 highlight_name: false
 interests:
 - Computational Statistics
 - Multivariate Analysis
+- Multidimensional Scaling
 - Optimization
 organizations:
 - name: University of California Los Angeles
