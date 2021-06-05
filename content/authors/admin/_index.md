@@ -44,5 +44,5 @@ superuser: true
 title: Jan de Leeuw
 ---
 
-Jan de Leeuw is a retired, but not finished, distinguished professor of statistics, the founding chair of the UCLA Department of Statistics, the founding editor of the Journal of Statistical Software, a long-time editor of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the RoyalNetherlands Academy of Sciences. 
+Jan de Leeuw is a retired, but not finished, distinguished professor of statistics, the founding chair of the UCLA Department of Statistics, the founding editor of the Journal of Statistical Software, a long-time editor of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences. 
 
