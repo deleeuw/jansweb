@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: University of California Los Angeles
   url: https://www.ucla.edu/
-role: Distinguished Professor Emiritus of Statistics
+role: Distinguished Professor Emeritus of Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,5 +44,5 @@ superuser: true
 title: Jan de Leeuw
 ---
 
-Jan de Leeuw is a retired, but not finished, distinguished professor of statistics, the founding chair of the UCLA Department of Statistics, the founding editor of the Journal of Statistical Software, a long-time editor of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences. 
+Jan de Leeuw is a retired, but not finished, distinguished professor of statistics, founding chair of the UCLA Department of Statistics, founding editor of the Journal of Statistical Software, long-time editor of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences. 
 
