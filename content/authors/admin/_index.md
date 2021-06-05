@@ -2,15 +2,15 @@
 bio: My research interests include multivariate analysis, multidimensional scaling, optimization, R and C programming
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Psychometrics
+    institution: Leiden University
+    year: 1973
+  - course: MS in Psychometrics
+    institution: Leiden University
+    year: 1968
+  - course: BSc in Psychology
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 1965
 email: "jan@deleeuwpdx.net"
 highlight_name: false
 interests:
@@ -19,8 +19,8 @@ interests:
 - Optimization
 organizations:
 - name: University of California Los Angeles
-  url: https://www.stanford.edu/
-role: Dintinguished Emiritus Professor of Statistics
+  url: https://www.ucla.edu/
+role: Distinguished Professor Emiritus of Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,13 +30,13 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/deleeuwpdx
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/deleeuw
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -46,7 +46,7 @@ title: Jan de Leeuw
 
 Jan de Leeuw is a retired, but not finished, distinguished professor of statistics, the founding chair of the UCLA Department
 of Statistics, the founding editor of the Journal of Statistical Software, a long-time editor of the Journal of Multivariate
-Analysis, felow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal
+Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal
 Netherlands Academy of Sciences. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
