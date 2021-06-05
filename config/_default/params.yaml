@@ -32,7 +32,6 @@ address:
 coordinates:
   latitude: '45.5746'
   longitude: '-122.6722'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -48,7 +47,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
