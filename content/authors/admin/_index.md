@@ -8,7 +8,7 @@ education:
   - course: MS in Psychometrics
     institution: Leiden University
     year: 1968
-  - course: BSc in Psychology
+  - course: BS in Psychology
     institution: Massachusetts Institute of Technology
     year: 1965
 email: "jan@deleeuwpdx.net"
@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/deleeuwpdx
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Ccp--gIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/deleeuw
