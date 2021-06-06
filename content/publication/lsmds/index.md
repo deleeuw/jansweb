@@ -1,5 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet.
+abstract: Least Squares Multidimensional Scaling
 authors:
 - admin
 date: "2021-06-05T00:00:00Z"
