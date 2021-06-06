@@ -5,7 +5,7 @@
     <link>http://jansweb.netlify.app/</link>
       <atom:link href="http://jansweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -108,10 +108,26 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Block Relaxation Methods in Statistics</title>
+      <link>http://jansweb.netlify.app/publication/brasbook/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/brasbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gifi Analysis of Multivariate Data</title>
+      <link>http://jansweb.netlify.app/publication/gifibook/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/gifibook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Least Squares Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/lsmdsbook/</link>
-      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/lsmdsbook/</guid>
+      <link>http://jansweb.netlify.app/publication/stressbook/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/stressbook/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -222,14 +238,6 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Gifi Analysis of Multivariate Data</title>
-      <link>http://jansweb.netlify.app/publication/gifibook/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/gifibook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Least Squares Absolute Value Regression</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-e-20-b/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -273,7 +281,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-284795316&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-246978153&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -283,7 +291,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-284795316&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-246978153&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1068,14 +1076,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-e-16-n/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Block Relaxation Methods in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/brasbook/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/brasbook/</guid>
       <description></description>
     </item>
     

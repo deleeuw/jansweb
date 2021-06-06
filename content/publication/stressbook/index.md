@@ -2,7 +2,7 @@
 abstract: Least Squares Multidimensional Scaling
 authors:
 - admin
-date: "2021-06-05T00:00:00Z"
+date: "2021-06-06T00:00:00Z"
 doi: ""
 featured: true
 links:
@@ -14,7 +14,7 @@ publication:
 publication_short: 
 publication_types:
 - "5"
-publishDate: "2021-06-05T00:00:00Z"
+publishDate: "2021-06-06T00:00:00Z"
 slides: example
 summary: 
 tags:
