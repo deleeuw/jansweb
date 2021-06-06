@@ -18,6 +18,8 @@ interests:
 - Multivariate Analysis
 - Multidimensional Scaling
 - Optimization
+- R/C Programming
+- Open Source / Open Access
 organizations:
 - name: University of California Los Angeles
   url: https://www.ucla.edu/
