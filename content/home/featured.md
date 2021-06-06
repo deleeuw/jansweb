@@ -19,9 +19,9 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Jan de Leeuw"
     category: ""
-    publication_type: ""
+    publication_type: "5"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
