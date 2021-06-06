@@ -1,5 +1,5 @@
 ---
-bio: My research interests include multivariate analysis, multidimensional scaling, optimization, R and C programming
+bio: My research interests include multivariate analysis, multidimensional scaling, optimization, R and C programming, open source, open access
 education:
   courses:
   - course: PhD in Psychometrics
@@ -45,5 +45,5 @@ superuser: true
 title: Jan de Leeuw
 ---
 
-Jan de Leeuw is a retired (but not finished) distinguished professor of statistics, founding chair of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor of the Journal of Statistical Software, long-time editor of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences. 
+Jan de Leeuw is a retired (but not finished) distinguished professor of statistics, former chair of the Department of Data Theory at Leiden University, founding chair of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor-in-chief of the Journal of Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences. 
 
