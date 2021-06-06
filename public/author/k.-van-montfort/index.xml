@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Van Montfort | Academic</title>
+    <link>http://jansweb.netlify.app/author/k.-van-montfort/</link>
+      <atom:link href="http://jansweb.netlify.app/author/k.-van-montfort/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Van Montfort</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>K. Van Montfort</title>
+      <link>http://jansweb.netlify.app/author/k.-van-montfort/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of Simultaneous Equation Models with Measurement Error</title>
+      <link>http://jansweb.netlify.app/publication/vanmontfort-deleeuw-u-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanmontfort-deleeuw-u-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor Analysis of Non-Normal Variables by Fitting Characteristic Functions</title>
+      <link>http://jansweb.netlify.app/publication/vanmontfort-deleeuw-r-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanmontfort-deleeuw-r-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Variables, State Spaces, and Mixing</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mixing Approach as a Unifying Framework for Dynamic Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mixing Approach as a Unifying Framework for Dynamic Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-r-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-r-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Regression Coefficients with the Help of Characteristic Functions</title>
+      <link>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-89/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression with Errors in Variables: Estimators based on Third-Order Moments</title>
+      <link>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-87/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

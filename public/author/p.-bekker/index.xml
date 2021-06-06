@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Bekker | Academic</title>
+    <link>http://jansweb.netlify.app/author/p.-bekker/</link>
+      <atom:link href="http://jansweb.netlify.app/author/p.-bekker/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Bekker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1988 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Bekker</title>
+      <link>http://jansweb.netlify.app/author/p.-bekker/</link>
+    </image>
+    
+    <item>
+      <title>Relation between Variants of Nonlinear Principal Component Analysis</title>
+      <link>http://jansweb.netlify.app/publication/bekker-deleeuw-c-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bekker-deleeuw-c-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rank of Reduced Dispersion Matrices</title>
+      <link>http://jansweb.netlify.app/publication/bekker-deleeuw-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bekker-deleeuw-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rank of Reduced Dispersion Matrices</title>
+      <link>http://jansweb.netlify.app/publication/bekker-deleeuw-r-85/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bekker-deleeuw-r-85/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

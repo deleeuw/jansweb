@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Dijksterhuis | Academic</title>
+    <link>http://jansweb.netlify.app/author/g.-dijksterhuis/</link>
+      <atom:link href="http://jansweb.netlify.app/author/g.-dijksterhuis/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Dijksterhuis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 1994 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Dijksterhuis</title>
+      <link>http://jansweb.netlify.app/author/g.-dijksterhuis/</link>
+    </image>
+    
+    <item>
+      <title>OVERALS. Nonlinear Canonical Correlation with k Sets of Variables</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-dijksterhuis-a-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-dijksterhuis-a-94/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

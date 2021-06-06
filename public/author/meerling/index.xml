@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Meerling | Academic</title>
+    <link>http://jansweb.netlify.app/author/meerling/</link>
+      <atom:link href="http://jansweb.netlify.app/author/meerling/index.xml" rel="self" type="application/rss+xml" />
+    <description> Meerling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1981 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title> Meerling</title>
+      <link>http://jansweb.netlify.app/author/meerling/</link>
+    </image>
+    
+    <item>
+      <title>Methoden en Technieken van Psychologisch Onderzoek, deel II Dataanalyse en Psychometrie</title>
+      <link>http://jansweb.netlify.app/publication/meerling-b-81/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/meerling-b-81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methoden en Technieken van Psychologisch Onderzoek, deel I, Model, Observatie en Beslissing [Methods and Techniques of Psychological Research, volume I, Model, Observation, and Decision]</title>
+      <link>http://jansweb.netlify.app/publication/meerling-b-80/</link>
+      <pubDate>Tue, 01 Jan 1980 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/meerling-b-80/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

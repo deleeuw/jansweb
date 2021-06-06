@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Mair | Academic</title>
+    <link>http://jansweb.netlify.app/author/p.-mair/</link>
+      <atom:link href="http://jansweb.netlify.app/author/p.-mair/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Mair</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Mair</title>
+      <link>http://jansweb.netlify.app/author/p.-mair/</link>
+    </image>
+    
+    <item>
+      <title>More on Multidimensional Scaling in R: smacof Version 2</title>
+      <link>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiability of rStress at a Local Minimum</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-dimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing qStress for small q</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing rStress Using Majorization</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More on Inverse Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Derivatives of rStress, with Applications</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singularities and Zero Distances in Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Scaling: SMACOF in R</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-groenen-u-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-groenen-u-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Unfolding</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-wurzer-c-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-wurzer-c-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shepard Diagram</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-c-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-c-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-c-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-c-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Permutation Tests in MDS</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-borg-u-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-borg-u-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Framework for Multivariate Analysis with Optimal Scaling: The R Package aspect</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-a-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-a-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Framework for Multivariate Analysis with Optimal Scaling: The R Package aspect</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-r-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-r-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogeneity Analysis in R: the Package homals</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotone Optimization in R: Pool-Adjacent-Violators Algorithm (PAVA) and Active Set Methods</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-a-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-a-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotone Optimization in R: Pool-Adjacent-Violators Algorithm (PAVA) and Active Set Methods</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-r-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-r-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Scaling in R: SMACOF</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-lienbacher-u-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-lienbacher-u-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Scaling Using Majorization: SMACOF in R</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-c/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank and Set Restrictions for Homogeneity Analysis in R: the homals Package</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-c-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-c-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple and Canonical Correspondence Analysis Using the R Package anacor</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Scaling Using Majorization: SMACOF in R</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-r-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-r-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank and Set Restrictions for Homogeneity Analysis in R: the homals Package</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-r-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-r-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to the Special Volume on \&#34;Psychometrics in R\&#34;</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogeneity Analysis in R: the Package homals</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-r-07-b/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-r-07-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple and Canonical Correspondence Analysis Using the R Package anacor</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-r-07-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-r-07-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
