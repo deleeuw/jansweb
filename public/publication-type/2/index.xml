@@ -5,12 +5,20 @@
     <link>http://jansweb.netlify.app/publication-type/2/</link>
       <atom:link href="http://jansweb.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>http://jansweb.netlify.app/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>More on Multidimensional Scaling in R: smacof Version 2</title>
+      <link>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example journal article</title>
@@ -29,6 +37,1238 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Two-stage Procedure for Analyzing a Brand Switching Matrix</title>
+      <link>http://jansweb.netlify.app/publication/hoffman-deleeuw-a-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/hoffman-deleeuw-a-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor Analysis via Components Analysis</title>
+      <link>http://jansweb.netlify.app/publication/bentler-deleeuw-a-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bentler-deleeuw-a-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Framework for Multivariate Analysis with Optimal Scaling: The R Package aspect</title>
+      <link>http://jansweb.netlify.app/publication/mair-deleeuw-a-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-a-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogeneity Analysis in R: the Package homals</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotone Optimization in R: Pool-Adjacent-Violators Algorithm (PAVA) and Active Set Methods</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-a-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-a-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking Back and Forging Ahead: Thirty Years of Social Network Research on the World-System</title>
+      <link>http://jansweb.netlify.app/publication/lloyd-mahutga-deleeuw-a-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/lloyd-mahutga-deleeuw-a-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Scaling Using Majorization: SMACOF in R</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-c/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of C. Ritz and J.C. Streibig: Nonlinear Regression with R</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-09-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-09-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of R. Gentleman: R Programming for Bioinformatics</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-09-c/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-09-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of R.D. Peng and F. Dominici: Statistical Methods for Environmental Epedemiology with R</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-09-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-09-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharp Quadratic Majorization in One Dimension</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-lange-a-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-lange-a-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple and Canonical Correspondence Analysis Using the R Package anacor</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-09-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Journal of Statistical Software</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrophysiological Consequences of Acute Regional Ischemia/Reperfusion in Neonatal Rat Ventricular Myocyte Monolayers</title>
+      <link>http://jansweb.netlify.app/publication/dediego-pai-chen-xie-deleeuw-weiss-valderrabano-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/dediego-pai-chen-xie-deleeuw-weiss-valderrabano-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to the Special Volume on \&#34;Psychometrics in R\&#34;</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-mair-a-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-mair-a-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of G.H. Givens and J.A. Hoeting: Computational Statistics</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comments on Pardoe and Weitner: Sentencing Convicted Felons in the United States: a Bayesian Analysis Using Multilevel Covariates</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-06-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-06-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis of Binary Data by Iterated Singular Value Decomposition</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-06-b/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-06-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic and Cubic Majorization</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-06-c/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-06-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of J. Jureckova and J. Picel: Robust Statistical Methods with R</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Majorization Techniques</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-06-d/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-06-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Predictive Density Aapproach to Predicting a Future Observable in Multilevel Models</title>
+      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-05-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-05-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposition of Prediction Error in Multilevel Models</title>
+      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-05-c/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-05-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogeneity Analysis Using Absolute Deviations</title>
+      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Abandoning XLISP-STAT</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction in Multilevel Models</title>
+      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-05-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-05-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of B.S. Everitt: An R and S-PLUS Companion to Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-05-c/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-05-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of F. Murtagh: Correspondence Analysis and Data Coding with Java and R</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-05-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-05-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of I. Borg and P.J.F. Groenen: Modern Multidimensional Scaling (second edition)</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-05-a/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-05-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Obsidian Blade Sequence at El Ujuxte, a Late Preclassic Site on the South Cost of Guatemala</title>
+      <link>http://jansweb.netlify.app/publication/nance-deleeuw-a-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/nance-deleeuw-a-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Application of Multilevel Model Prediction to NELS-88</title>
+      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-a-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of J. Hox, Multilevel Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weber Correspondence Analysis: The One-dimensional Case</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-a-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-a-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization through Graph Drawing</title>
+      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porting R to Darwin/X11 and Mac OS X</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Majorization Methods in Statistics</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-a-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-a-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel Homogeneity Analysis with Differential Weighting</title>
+      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evaluation of California&#39;s Inmate Classification System using a Generalized Regression Discontinuity Design</title>
+      <link>http://jansweb.netlify.app/publication/berk-deleeuw-a-99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/berk-deleeuw-a-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Gifi system for Descriptive Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-98/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverse Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-a-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-a-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Variables, State Spaces, and Mixing</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Fisher and Molenaar: Rasch Models</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-97-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-97-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of P. Verboon: A Robust Approach to Nonlinear Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-97-b/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-97-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server-side Statistics Scripting in PHP/FI</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-97-b/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-97-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The UCLA Electronic Statistics Textbook</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-97-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-97-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review of Two Different Approaches for the Analysis of Growth Data using Longitudinal Mixed Linear Models</title>
+      <link>http://jansweb.netlify.app/publication/vanderleeden-vrijburg-deleeuw-a-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderleeden-vrijburg-deleeuw-a-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mixing Approach as a Unifying Framework for Dynamic Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Component Analysis with Different Sets of Constraints on Different Dimensions</title>
+      <link>http://jansweb.netlify.app/publication/takane-kiers-deleeuw-a-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/takane-kiers-deleeuw-a-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not Much Disagreement, It Seems</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-kreft-a-95-b/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-kreft-a-95-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Scaling of HIV-Related Sexual Risk Behaviors in Ethnically Diverse Homosexually Active Men</title>
+      <link>http://jansweb.netlify.app/publication/cochran-deleeuw-mays-a-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/cochran-deleeuw-mays-a-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questioning Multilevel Models</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-kreft-a-95-a/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-kreft-a-95-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of H. Goldstein: Multilevel Statistical Models</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-95-a/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-95-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Different Forms of Centering in Hierarchical Linear Models</title>
+      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-aiken-a-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-aiken-a-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OVERALS. Nonlinear Canonical Correlation with k Sets of Variables</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-dijksterhuis-a-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-dijksterhuis-a-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Five Multilevel Analysis Programs: BMDP-5V, GENMOD, HLM, ML3, VARCL</title>
+      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-vanderleeden-a-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-vanderleeden-a-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Gender Income Gap</title>
+      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-a-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-a-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Lisp-Stat Statistical Environment</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of M. Jambu: Exploratory and Multivariate Data Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-93/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Standard International Socio-Economic Index of Occupational Status</title>
+      <link>http://jansweb.netlify.app/publication/ganzeboom-degraaf-treiman-deleeuw-a-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/ganzeboom-degraaf-treiman-deleeuw-a-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained Latent Budget Analysis</title>
+      <link>http://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-a-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-a-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussion of S. Leurgans and R.T. Ross: Multilinear Models: Applications in Spectroscopy</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-92-a/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-92-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussion of Wermuth: On Block Recursive Linear Regression Equations</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-92-b/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-92-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equality Constraints in Multiple Correspondence Analysis</title>
+      <link>http://jansweb.netlify.app/publication/vanbuuren-deleeuw-a-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanbuuren-deleeuw-a-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreting Multiple Correspondence Analysis as a Multidimensional Scaling Method</title>
+      <link>http://jansweb.netlify.app/publication/hoffman-deleeuw-a-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/hoffman-deleeuw-a-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced Rank Regression as an Approach to Factor Analysis with Fixed Factors</title>
+      <link>http://jansweb.netlify.app/publication/vanderleeden-mooijaart-deleeuw-a-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderleeden-mooijaart-deleeuw-a-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of L.M. Collins and J.L. Horn (eds): Best Methods for the Analysis of Change</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richness Curves for Evaluating Market Segmentation</title>
+      <link>http://jansweb.netlify.app/publication/novak-deleeuw-macevoy-a-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/novak-deleeuw-macevoy-a-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Results about the Importance of Knot Selection in Nonlinear Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-a-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-a-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Imputation Method for Dealing with Missing Data in Regression</title>
+      <link>http://jansweb.netlify.app/publication/cooper-deleeuw-sogomonian-a-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/cooper-deleeuw-sogomonian-a-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitting Longitudinal Reduced-Rank Regression Models by Alternating Least Squares</title>
+      <link>http://jansweb.netlify.app/publication/bijleveld-deleeuw-a-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bijleveld-deleeuw-a-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Based Ranking of Schools</title>
+      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-a-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-a-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced Rank Models for Contingency Tables</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generalization of Takane&#39;s Algorithm for DEDICOM</title>
+      <link>http://jansweb.netlify.app/publication/kiers-tenberge-takane-deleeuw-a-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kiers-tenberge-takane-deleeuw-a-90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Latent Time-Budget Model</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheiden-verboon-a-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheiden-verboon-a-90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotone Correlation and Monotone Disjunct Pieces</title>
+      <link>http://jansweb.netlify.app/publication/chhetry-deleeuw-sampson-a-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/chhetry-deleeuw-sampson-a-90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Redundancy Analysis</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of David J. Bartholomew: Latent Variable Models and Factor Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-90-b/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-90-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of G. de Soete et al: New Developments in Psychological Choice Modeling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-90-c/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-90-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of U. Küsters: Hierarchische Mittelwert- und Kovarianzstrukturmodelle mit nichtmetrischen endogenen Variablen</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-90-a/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-90-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Combined Approach to Contingency Table Analysis with Correspondence Analysis and Log-Linear Analysis (with Discussion)</title>
+      <link>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correspondence Analysis with Special Attention to the Analysis of Panel Data and Event History Data</title>
+      <link>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-89/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Regression Coefficients with the Help of Characteristic Functions</title>
+      <link>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-89/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kwantificeren en meten in de sociale en gedragswetenschappen [Quantification and Measurement in the Social and Behavioral Sciences]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-89/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of B.F. Schriever: Order Dependence</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-89-b/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-89-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Y. Sakamoto, M. Ishiguro, and G. Kitagawa: Akaike Information Criterion Statistics</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-89-a/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-89-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of the Majorization Method for Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-88-b/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-88-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correspondence Analysis of Incomplete Contingency Tables</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Candecomp/Parafac Solutions for a Contrived $2x2x2$ Array of Rank Three</title>
+      <link>http://jansweb.netlify.app/publication/tenberge-kiers-deleeuw-a-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/tenberge-kiers-deleeuw-a-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogeneity Analysis with K Sets of Variables: an Alternating Least Squares Approach with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-a-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-a-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Sample Properties of Method of Moment Estimators under Different Data-Generating Assumptions</title>
+      <link>http://jansweb.netlify.app/publication/vanpraag-kloek-deleeuw-a-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanpraag-kloek-deleeuw-a-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models and Techniques</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-88-c/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-88-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Analysis with Linearizable Regressions</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-88-a/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-88-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of the Multinomial Jackknife and Bootstrap in Generalized Nonlinear Canonical Correlation Analysis</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution to the Discussion ``French verses English Methods of Data Analysis&#39;&#39;</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Relationship between Item Response Theory and Factor Analysis of Discreticized Variables</title>
+      <link>http://jansweb.netlify.app/publication/takane-deleeuw-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/takane-deleeuw-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-correspondence Analysis of Scientometric Transaction Matrices</title>
+      <link>http://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression with Errors in Variables: Estimators based on Third-Order Moments</title>
+      <link>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanmontfort-mooijaart-deleeuw-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of J.B. Kadane (ed): Robustness of Bayesian Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-87-a/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-87-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Additional Results on Principal Components Analysis of Three-Mode Data by Means of Alternating Least Squares Algorithms</title>
+      <link>http://jansweb.netlify.app/publication/tenberge-deleeuw-kroonenberg-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/tenberge-deleeuw-kroonenberg-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rank of Reduced Dispersion Matrices</title>
+      <link>http://jansweb.netlify.app/publication/bekker-deleeuw-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bekker-deleeuw-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Latent Markov Model to Correct for Measurement Error</title>
+      <link>http://jansweb.netlify.app/publication/vanderpol-deleeuw-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderpol-deleeuw-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Special Jackknife for Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-meulman-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-meulman-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Upper Bound for SSTRESS</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bettonvil-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bettonvil-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of Intelligence and Educational Level in Fathers and Sons </title>
+      <link>http://jansweb.netlify.app/publication/vroon-deleeuw-meester-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vroon-deleeuw-meester-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum Likelihood Estimation in Generalized Rasch Models</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-verhelst-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-verhelst-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Coefficient Models for Multilevel Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-kreft-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-kreft-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of H.G. Law et al. (eds.): Research Methods for Multimode Data Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-86-b/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-86-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of L. Narens: Abstract Measurement Theory</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-86-a/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-86-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Population-Sample Decomposition Approach to Multivariate Estimation Methods</title>
+      <link>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boekbespreking van W. Saris &amp; H. Stronkhorst, Causal Modelling in Nonexperimental Research [Review of W. Saris and H. Stronkhorst, Causal Modelling in Nonexperimental Research]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-85-d/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-85-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correspondence Analysis used Complimentary to Loglinear Analysis</title>
+      <link>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-85/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Regressie van Intelligentiescores op Schoolloopbaanvariabelen onder Constanthouding van Sociale Achtergrond en Geslacht [The Regression of Intelligencetest Scores on Schoolcareer Variables while Controlling for Social Background and Sex]</title>
+      <link>http://jansweb.netlify.app/publication/meester-deleeuw-a-85/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/meester-deleeuw-a-85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emancipatie en Bevolkingsproblematiek: een Secundaire Analyse op het Leefsituatieonderzoek 1974 [Emancipation and Population Problems: a Secondary Analysis of the Life Situation Survey 1974]</title>
+      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-a-85/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-a-85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogeneity Analysis of Event History Data</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-kreft-a-85/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-kreft-a-85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of B.S. Everitt &amp; G. Dunn, Advanced Methods of Data Exploration and Modelling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-85-c/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-85-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Four Books on Causal Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-85-a/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-85-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of R. Gittins: Canonical Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-v-85-b/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-v-85-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiability of Kruskals Stress at a Local Minimum</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-84-f/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-84-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed-rank Approximation with Singular Weight Matrices</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-84-b/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-84-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum Likelihood Analysis for a Generalized Regression Discontinuity Design</title>
+      <link>http://jansweb.netlify.app/publication/visser-deleeuw-a-84/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/visser-deleeuw-a-84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models of Data</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-84-c/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-84-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over het Intelligentieonderzoek bij de Militaire Keuringen 1925-heden [About Intelligence Testing in Military Admission Testing, 1925-present]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-meester-a-84/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-meester-a-84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Bounds for Kruskal&#39;s Stress</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-stoop-a-84/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-stoop-a-84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editor&#39;s Introduction to ``Interfaces between Econometrics and Psychometrics&#39;&#39;</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-keller-wansbeek-a-83/</link>
+      <pubDate>Sat, 01 Jan 1983 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-keller-wansbeek-a-83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models and Methods for the Analysis of Correlation Coefficients</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-83-a/</link>
+      <pubDate>Sat, 01 Jan 1983 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-83-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear Canonical Correlation</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-83/</link>
+      <pubDate>Sat, 01 Jan 1983 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Prehistory of Correspondence Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-83-b/</link>
+      <pubDate>Sat, 01 Jan 1983 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-83-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of F. Calliez and J.P. Pagès: Introduction à l&#39;Analyse des Données</title>
+      <link>http://jansweb.netlify.app/publication/ramsay-deleeuw-v-83/</link>
+      <pubDate>Sat, 01 Jan 1983 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/ramsay-deleeuw-v-83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Note on Partitioned Determinants</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-82-a/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-82-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussion of J.O. Ramsay: Some Statistical Approaches to Multidimensional Scaling Data</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-82-d/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-82-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Eigenvalue Problems with Positive Semidefinite Matrices</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-82-b/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-82-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodologische Aspekten va het IQ Debat [Methodological Aspects of the IQ Debate]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-82-c/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-82-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Mapping of Preference Data</title>
+      <link>http://jansweb.netlify.app/publication/heiser-deleeuw-a-81/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/heiser-deleeuw-a-81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Principal Component Analysis Using B-Splines</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-vanderwouden-a-81/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-vanderwouden-a-81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Individual Differences Additive Model: an Alternating Least Squares Method with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/takane-young-deleeuw-a-80/</link>
+      <pubDate>Tue, 01 Jan 1980 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/takane-young-deleeuw-a-80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis of Three-Mode Data by Means of Alternating Least Squares Algorithms</title>
+      <link>http://jansweb.netlify.app/publication/kroonenberg-deleeuw-a-80/</link>
+      <pubDate>Tue, 01 Jan 1980 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kroonenberg-deleeuw-a-80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metric Multidimensional Unfolding</title>
+      <link>http://jansweb.netlify.app/publication/heiser-deleeuw-a-79/</link>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/heiser-deleeuw-a-79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonmetric Common Factor Analysis: an Alternating Least Squares Method with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/takane-young-deleeuw-a-79/</link>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/takane-young-deleeuw-a-79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Computational Method to fit the Weighted Euclidean Distance Model</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-pruzansky-a-78/</link>
+      <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-pruzansky-a-78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Politieke Relevantie van Correlaties [The Political Relevance of Correlations]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-78/</link>
+      <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Principal Components of Mixed Measurement Level Multivariate Data: an Alternating Least Squares Method with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/young-takane-deleeuw-a-78/</link>
+      <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/young-takane-deleeuw-a-78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TUCKALS2: een Hoofdassen Analyse voor Drieweggegevens [TUCKALS2: A Principal Component Analysis of Three-Mode Data]</title>
+      <link>http://jansweb.netlify.app/publication/kroonenberg-deleeuw-a-78/</link>
+      <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kroonenberg-deleeuw-a-78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correctness of Kruskal&#39;s Algorithms for Monotone Regression with Ties</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-77/</link>
+      <pubDate>Sat, 01 Jan 1977 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOMALS</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-a-77/</link>
+      <pubDate>Sat, 01 Jan 1977 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-a-77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonmetric Individual Differences in Multidimensional Scaling: An Alternating Least Squares Method with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/takane-young-deleeuw-a-77/</link>
+      <pubDate>Sat, 01 Jan 1977 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/takane-young-deleeuw-a-77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Additive Structure in Qualitative Data: an Alternating Least Squares Method with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-young-takane-a-76/</link>
+      <pubDate>Thu, 01 Jan 1976 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-young-takane-a-76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression with Qualitative and Quantitative Data: an Alternating Least Squares Approach with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/young-deleeuw-takane-a-76/</link>
+      <pubDate>Thu, 01 Jan 1976 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/young-deleeuw-takane-a-76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diskussie over Onderwijs in de Multivariate Analyse [Discussion about Teaching Multivariate Analysis]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-73/</link>
+      <pubDate>Mon, 01 Jan 1973 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meerdimensionele Analyse van Politikologische Gegevens [Multidimensional Analysis of Politicological Data]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-68/</link>
+      <pubDate>Mon, 01 Jan 1968 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funktioneel Leren</title>
+      <link>http://jansweb.netlify.app/publication/deklerk-deleeuw-oppe-a-66/</link>
+      <pubDate>Sat, 01 Jan 1966 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deklerk-deleeuw-oppe-a-66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Item 2</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-66/</link>
+      <pubDate>Sat, 01 Jan 1966 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Item 1</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-a-65/</link>
+      <pubDate>Fri, 01 Jan 1965 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-a-65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodologie [Methodology]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-oppe-a-65/</link>
+      <pubDate>Fri, 01 Jan 1965 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-oppe-a-65/</guid>
+      <description></description>
     </item>
     
   </channel>
