@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: University of California Los Angeles
   url: https://www.ucla.edu/
-role: Distinguished Professor Emeritus of Statistics
+role: Distinguished Professor Emeritus
 social:
 - icon: envelope
   icon_pack: fas
