@@ -35,13 +35,9 @@ coordinates:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Twit Me
     link: 'https://twitter.com/deleeuwpdx'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
-
+ 
 # Site header
 
 main_menu:
