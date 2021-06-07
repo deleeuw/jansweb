@@ -5,7 +5,7 @@
     <link>http://jansweb.netlify.app/</link>
       <atom:link href="http://jansweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -108,6 +108,30 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Block Relaxation Methods in Statistics</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gifi Analysis of Multivariate Data</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Least Squares Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>http://jansweb.netlify.app/talk/example-talk/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
@@ -125,30 +149,6 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Block Relaxation Methods in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gifi Analysis of Multivariate Data</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Least Squares Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-516243789&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-948537126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-516243789&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-948537126&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
