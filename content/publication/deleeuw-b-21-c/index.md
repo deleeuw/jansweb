@@ -5,10 +5,10 @@ title: Block Relaxation Methods in Statistics
 subtitle: ''
 summary: ''
 authors:
-- J. De Leeuw
+- Jan de Leeuw
 tags: []
 categories: []
-date: '2021-06-07'
+date: '2021-06-01'
 lastmod: 2021-06-07T13:36:06-07:00
 featured: true
 draft: false
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-07T20:36:06.181759Z'
+publishDate: '2021-06-01T20:36:06.181759Z'
 publication_types:
 - '5'
 abstract: ''
