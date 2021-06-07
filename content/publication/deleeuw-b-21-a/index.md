@@ -10,8 +10,8 @@ tags: []
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-07T13:36:06-07:00
-featured: false
-draft: false
+featured: true
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,5 +31,5 @@ publishDate: '2021-06-07T20:36:06.029315Z'
 publication_types:
 - '5'
 abstract: ''
-publication: ''
+publication: '+(Bookdown)+'
 ---

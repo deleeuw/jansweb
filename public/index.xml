@@ -128,30 +128,6 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Block Relaxation Methods in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gifi Analysis of Multivariate Data</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Least Squares Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
       <link>http://jansweb.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
@@ -270,7 +246,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-439762518&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-471693825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +256,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-439762518&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-471693825&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
