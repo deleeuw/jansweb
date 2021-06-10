@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | JansWeb</title>
     <link>http://jansweb.netlify.app/post/</link>
       <atom:link href="http://jansweb.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>http://jansweb.netlify.app/media/icon_hu3eeb02dc1e0d446e0259eeb581938e9b_551210_512x512_fill_lanczos_center_2.png</url>
+      <url>http://jansweb.netlify.app/media/icon_hu765f63f53cc3ea09d12b22cdfce1dec5_461112_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>http://jansweb.netlify.app/post/</link>
     </image>
@@ -91,7 +91,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-875364912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-385629174&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -101,7 +101,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-875364912&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-385629174&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
