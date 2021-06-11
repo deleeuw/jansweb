@@ -390,14 +390,6 @@
     
     <item>
       <title>APL in R</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-16-c/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-16-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>APL in R</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-yajima-e-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-yajima-e-16/</guid>
@@ -541,14 +533,6 @@
     </item>
     
     <item>
-      <title>Multivariate Analysis with Optimal Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-16-a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-16-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pictures of Stress</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-e-16-l/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -596,38 +580,6 @@
       <link>http://jansweb.netlify.app/publication/deleeuw-e-15-b/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-e-15-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Block Relaxation Algorithms in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-15-a/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-15-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Block Relaxation Algorithms in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-15-b/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-15-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Block Relaxation Algorithms in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-15-c/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-15-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Block Relaxation Algorithms in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-15/</guid>
       <description></description>
     </item>
     
@@ -757,25 +709,6 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-mullen-u-14/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>http://jansweb.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
