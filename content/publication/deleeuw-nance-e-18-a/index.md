@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Statistical Pespectives on Woodland Cultures in Central Alabama '
+title: Homogeneity Analysis of Durant Bend Sherds
 subtitle: ''
 summary: ''
 authors:
-- C. R. Nance
 - J. De Leeuw
+- C. R. Nance
 tags: []
 categories: []
 date: '2018-01-01'
@@ -28,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-11T19:39:10.644557Z'
+publishDate: '2021-06-11T19:39:10.519952Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/2018/electronic/nance_deleeuw_E_18.pdf
+url_pdf: http://deleeuwpdx.net/pubfolders/sherds/sherds.pdf
 ---
