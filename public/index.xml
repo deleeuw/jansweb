@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-649278351&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-187293546&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-649278351&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-187293546&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -803,14 +803,6 @@ Three
     
     <item>
       <title>Homogeneity Analysis of Durant Bend Sherds</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-a/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Homogeneity Analysis of Durant Bend Sherds</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-nance-e-18-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-nance-e-18-a/</guid>
@@ -830,14 +822,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-e-18-g/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-g/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Pespectives on Woodland Cultures in Central Alabama </title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-b/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-b/</guid>
       <description></description>
     </item>
     
