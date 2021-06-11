@@ -98,19 +98,10 @@
     <loc>http://jansweb.netlify.app/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/publication-type/3/</loc>
-    <lastmod>2021-06-06T12:54:36-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/author/jan-de-leeuw/</loc>
+    <loc>http://jansweb.netlify.app/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/post/jupyter/</loc>
+    <loc>http://jansweb.netlify.app/author/jan-de-leeuw/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/slides/</loc>
@@ -349,6 +340,12 @@
   </url><url>
     <loc>http://jansweb.netlify.app/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/tag/source-themes/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/publication-type/3/</loc>
+    <lastmod>2021-06-06T12:54:36-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication-type/6/</loc>
     <lastmod>2021-06-06T12:54:51-07:00</lastmod>
