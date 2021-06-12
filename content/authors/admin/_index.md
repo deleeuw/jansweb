@@ -5,10 +5,10 @@ education:
   - course: PhD in Psychometrics
     institution: Leiden University
     year: 1973
-  - course: MS in Psychometrics
+  - course: MSc in Psychometrics
     institution: Leiden University
     year: 1968
-  - course: BS in Psychology
+  - course: BSc in Psychology
     institution: Leiden University
     year: 1965
 email: "jan@deleeuwpdx.net"
@@ -47,5 +47,5 @@ superuser: true
 title: Jan de Leeuw
 ---
 
-Jan de Leeuw is a retired (but not finished) distinguished professor of statistics, former chair of the Department of Data Theory at Leiden University, founding and long-time chair of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor-in-chief of the Journal of Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences. 
+Jan de Leeuw is a retired (but not finished) Distinguished Professor of Statistics, former chairperson of the Department of Data Theory at Leiden University, founding and long-time chairperson of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor-in-chief of the Journal of Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, fellow of the American Statistical Association and the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences. 
 
