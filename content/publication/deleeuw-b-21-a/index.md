@@ -32,4 +32,6 @@ publication_types:
 - '5'
 abstract: ''
 publication: '*Bookdown*'
+url_source = "deleeuw-b-21-a.html"
+url_project = "https://github.com/deleeuw/stress"
 ---
