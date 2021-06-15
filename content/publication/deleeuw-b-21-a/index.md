@@ -12,7 +12,7 @@ date: '2021-06-05'
 lastmod: 2021-06-07T13:36:06-07:00
 featured: true
 draft: false
-url_source: "deleeuw-b-21-a.html"
+url_source: "https://github.com/deleeuw/stress/_book/index.html"
 url_project: "https://github.com/deleeuw/stress"
 
 # Featured image
