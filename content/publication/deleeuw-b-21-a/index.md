@@ -12,8 +12,8 @@ date: '2021-06-05'
 lastmod: 2021-06-07T13:36:06-07:00
 featured: true
 draft: false
-url_source = "deleeuw-b-21-a.html"
-url_project = "https://github.com/deleeuw/stress"
+url_source: "deleeuw-b-21-a.html"
+url_project: "https://github.com/deleeuw/stress"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
