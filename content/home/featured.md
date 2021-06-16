@@ -11,7 +11,7 @@ active: true
 weight: 80
 
 title: Books
-subtitle: "In Statu Nascendi"
+subtitle: "Updated Frequently"
 
 content:
   # Page type to display. E.g. post, talk, publication...
