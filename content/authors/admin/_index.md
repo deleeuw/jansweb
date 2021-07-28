@@ -2,13 +2,13 @@
 bio: My research interests include multivariate analysis, multidimensional scaling, optimization, R and C programming, open source/access
 education:
   courses:
-  - course: PhD in Psychometrics
+  - course: PhD (Dr) in Social Sciences
     institution: Leiden University
     year: 1973
-  - course: MSc in Psychometrics
+  - course: MSc (Drs) in Social Sciences
     institution: Leiden University
     year: 1968
-  - course: BSc in Psychology
+  - course: BSc (Kandidaat) in Psychology
     institution: Leiden University
     year: 1965
 email: "jan@deleeuwpdx.net"
