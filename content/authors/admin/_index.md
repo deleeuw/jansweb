@@ -2,10 +2,10 @@
 bio: My research interests include multivariate analysis, multidimensional scaling, optimization, R and C programming, open source/access
 education:
   courses:
-  - course: PhD (Dr) in Social Sciences
+  - course: PhD (Doctor) in Social Sciences
     institution: Leiden University
     year: 1973
-  - course: MSc (Drs) in Social Sciences
+  - course: MSc (Doctorandus) in Social Sciences
     institution: Leiden University
     year: 1968
   - course: BSc (Kandidaat) in Psychology
