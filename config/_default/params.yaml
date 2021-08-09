@@ -33,6 +33,14 @@ coordinates:
   latitude: '45.576366'
   longitude: '-122.667065'
 contact_links:
+  - icon: github
+    icon_pack: fab
+    name: Github
+    link: 'https://github.com/deleeuw'
+  - icon: facebook
+    icon_pack: fab
+    name: Facebook
+    link: 'https://facebook.com/deleeuwpdx'
   - icon: twitter
     icon_pack: fab
     name: Twit Me
