@@ -35,11 +35,11 @@ coordinates:
 contact_links:
   - icon: github
     icon_pack: fab
-    name: Github
+    name: Git Me
     link: 'https://github.com/deleeuw'
   - icon: facebook
     icon_pack: fab
-    name: Facebook
+    name: Face Me
     link: 'https://facebook.com/deleeuwpdx'
   - icon: twitter
     icon_pack: fab
