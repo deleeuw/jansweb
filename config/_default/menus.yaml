@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 20
   - name: Github
-    url: github.com/deleeuw
+    url: https://github.com/deleeuw
     weight: 25
   - name: Publications
     url: publication/
