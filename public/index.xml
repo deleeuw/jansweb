@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-917835462&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-324719586&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-917835462&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-324719586&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2787,14 +2787,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-u-05-d/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-u-05-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multidimensional Scaling and Unfolding</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-u-05-i/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-u-05-i/</guid>
       <description></description>
     </item>
     
