@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.L.A. Van Rijckevorsel | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/j.l.a.-van-rijckevorsel/</link>
+      <atom:link href="http://jansweb.netlify.app/author/j.l.a.-van-rijckevorsel/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.L.A. Van Rijckevorsel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1988 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J.L.A. Van Rijckevorsel</title>
+      <link>http://jansweb.netlify.app/author/j.l.a.-van-rijckevorsel/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Homogeneity Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-c-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-c-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Component and Correspondence Analysis</title>
+      <link>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-b-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-b-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Nonlinear Principal Component Analysis with B-splines by Means of Alternating Least Squares</title>
+      <link>http://jansweb.netlify.app/publication/coolen-vanrijckevorsel-deleeuw-c-82/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/coolen-vanrijckevorsel-deleeuw-c-82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Principal Component Analysis Using B-Splines</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-vanderwouden-a-81/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-vanderwouden-a-81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOMALS and PRINCALS: Some Generalizations of Principal Components Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-c-80/</link>
+      <pubDate>Tue, 01 Jan 1980 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-c-80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Outline of PRINCALS</title>
+      <link>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-r-79/</link>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-r-79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Outline to HOMALS-I</title>
+      <link>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-r-78/</link>
+      <pubDate>Sun, 01 Jan 1978 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-r-78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOMALS</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-a-77/</link>
+      <pubDate>Sat, 01 Jan 1977 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanrijckevorsel-a-77/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

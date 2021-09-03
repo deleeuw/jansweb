@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Stoop | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/i.-stoop/</link>
+      <atom:link href="http://jansweb.netlify.app/author/i.-stoop/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Stoop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1984 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>I. Stoop</title>
+      <link>http://jansweb.netlify.app/author/i.-stoop/</link>
+    </image>
+    
+    <item>
+      <title>Upper Bounds for Kruskal&#39;s Stress</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-stoop-a-84/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-stoop-a-84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Use SMACOF-Ib</title>
+      <link>http://jansweb.netlify.app/publication/stoop-deleeuw-r-82/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/stoop-deleeuw-r-82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Use SMACOF-Ia</title>
+      <link>http://jansweb.netlify.app/publication/stoop-heiser-deleeuw-r-81/</link>
+      <pubDate>Thu, 01 Jan 1981 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/stoop-heiser-deleeuw-r-81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secondaire Analyse ``Van Jaar tot Jaar&#39;&#39; met Behulp van Niet-lineaire Multivariate Technieken [Secondary Analysis ``Van Jaar tot Jaar&#39;&#39; with Nonlinear Multivariate Techniques]</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-stoop-c-79/</link>
+      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-stoop-c-79/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

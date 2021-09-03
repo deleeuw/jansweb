@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Hornik | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/k.-hornik/</link>
+      <atom:link href="http://jansweb.netlify.app/author/k.-hornik/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Hornik</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>K. Hornik</title>
+      <link>http://jansweb.netlify.app/author/k.-hornik/</link>
+    </image>
+    
+    <item>
+      <title>Isotone Optimization in R: Pool-Adjacent-Violators Algorithm (PAVA) and Active Set Methods</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-a-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-hornik-mair-a-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

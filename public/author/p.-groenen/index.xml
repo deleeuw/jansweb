@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Groenen | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/p.-groenen/</link>
+      <atom:link href="http://jansweb.netlify.app/author/p.-groenen/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Groenen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Groenen</title>
+      <link>http://jansweb.netlify.app/author/p.-groenen/</link>
+    </image>
+    
+    <item>
+      <title>An Alternating Least Squares Approach to Squared Distance Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-pietersz-e-16-m/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-pietersz-e-16-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiability of rStress at a Local Minimum</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-dimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing qStress for small q</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing rStress Using Majorization</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More on Inverse Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Derivatives of rStress, with Applications</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singularities and Zero Distances in Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. F. Ten Berge | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/j.-m.-f.-ten-berge/</link>
+      <atom:link href="http://jansweb.netlify.app/author/j.-m.-f.-ten-berge/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. F. Ten Berge</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1990 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J. M. F. Ten Berge</title>
+      <link>http://jansweb.netlify.app/author/j.-m.-f.-ten-berge/</link>
+    </image>
+    
+    <item>
+      <title>A Generalization of Takane&#39;s Algorithm for DEDICOM</title>
+      <link>http://jansweb.netlify.app/publication/kiers-tenberge-takane-deleeuw-a-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/kiers-tenberge-takane-deleeuw-a-90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Additional Results on Principal Components Analysis of Three-Mode Data by Means of Alternating Least Squares Algorithms</title>
+      <link>http://jansweb.netlify.app/publication/tenberge-deleeuw-kroonenberg-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/tenberge-deleeuw-kroonenberg-a-87/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

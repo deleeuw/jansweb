@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. J. Meulman | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/j.-j.-meulman/</link>
+      <atom:link href="http://jansweb.netlify.app/author/j.-j.-meulman/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. J. Meulman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1986 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J. J. Meulman</title>
+      <link>http://jansweb.netlify.app/author/j.-j.-meulman/</link>
+    </image>
+    
+    <item>
+      <title>A Special Jackknife for Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-meulman-a-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-meulman-a-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editor&#39;s Introduction</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-c-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-c-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-dimensional Data Analysis. Proceedings of a Workshop, Pembroke College, Cambridge University, England 30.6.--2.7. 1985</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-b-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-b-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis and Restricted Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-meulman-c-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-meulman-c-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Special Jackknife for Multidimensional Scaling</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-a/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative Approximations in Principal Component Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-b/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

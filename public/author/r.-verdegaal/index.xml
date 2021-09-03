@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Verdegaal | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/r.-verdegaal/</link>
+      <atom:link href="http://jansweb.netlify.app/author/r.-verdegaal/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Verdegaal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1988 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Verdegaal</title>
+      <link>http://jansweb.netlify.app/author/r.-verdegaal/</link>
+    </image>
+    
+    <item>
+      <title>Homogeneity Analysis with K Sets of Variables: an Alternating Least Squares Approach with Optimal Scaling Features</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-a-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-a-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogeneity analysis with k Sets of Variables</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-r-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-r-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Canonical Correlation with m Sets of Variables</title>
+      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-r-84/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-r-84/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

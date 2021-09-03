@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. C. J. H. Bijleveld | JansWeb</title>
+    <link>http://jansweb.netlify.app/author/c.-c.-j.-h.-bijleveld/</link>
+      <atom:link href="http://jansweb.netlify.app/author/c.-c.-j.-h.-bijleveld/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. C. J. H. Bijleveld</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>C. C. J. H. Bijleveld</title>
+      <link>http://jansweb.netlify.app/author/c.-c.-j.-h.-bijleveld/</link>
+    </image>
+    
+    <item>
+      <title>Latent Variables, State Spaces, and Mixing</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mixing Approach as a Unifying Framework for Dynamic Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mixing Approach as a Unifying Framework for Dynamic Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-r-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-r-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Variables, State Spaces, and Mixing</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-bijleveld-r-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-bijleveld-r-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Families of State Space Models</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-bijleveld-u-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-bijleveld-u-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Least Squares Optimization of Linear Dynamic Systems</title>
+      <link>http://jansweb.netlify.app/publication/bijleveld-bijleveld-deleeuw-r-93/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bijleveld-bijleveld-deleeuw-r-93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Least Squares Optimization of Linear Dynamic Systems Using Majorization, Multiplier, and Quasi-Newton Methods</title>
+      <link>http://jansweb.netlify.app/publication/bijleveld-bijleveld-deleeuw-oppe-r-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bijleveld-bijleveld-deleeuw-oppe-r-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitting Longitudinal Reduced-Rank Regression Models by Alternating Least Squares</title>
+      <link>http://jansweb.netlify.app/publication/bijleveld-deleeuw-a-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/bijleveld-deleeuw-a-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Dynamical Systems Analysis by Alternating Least Squares</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-89/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitting Longitudinal Reduced Rank Regression Models by Alternatng Least Squares</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitting Reduced Rank Regression Models by Alternating Least Squares</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-87/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
