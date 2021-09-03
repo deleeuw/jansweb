@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Review of F. Murtagh: Correspondence Analysis and Data Coding with Java and
-  R'
+title: Multidimensional Scaling and Unfolding
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-06-06T12:53:35-07:00
+lastmod: 2021-09-03T13:28:58-07:00
 featured: false
 draft: false
 
@@ -28,9 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-06T19:53:35.552258Z'
+publishDate: '2021-09-03T20:28:58.751556Z'
 publication_types:
-- '4'
+- '3'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/janspubs/2005/notes/deleeuw_U_05d.pdf
 ---
