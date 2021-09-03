@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-715834926&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-917835462&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-715834926&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-917835462&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2784,6 +2784,14 @@ Three
     
     <item>
       <title>Multidimensional Scaling and Unfolding</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-u-05-d/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-u-05-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Scaling and Unfolding</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-u-05-i/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-u-05-i/</guid>
@@ -2864,14 +2872,6 @@ Three
     
     <item>
       <title>Review of B.S. Everitt: An R and S-PLUS Companion to Multivariate Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-05-h/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-05-h/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review of B.S. Everitt: An R and S-PLUS Companion to Multivariate Analysis</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-v-05-c/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-v-05-c/</guid>
@@ -2880,25 +2880,9 @@ Three
     
     <item>
       <title>Review of F. Murtagh: Correspondence Analysis and Data Coding with Java and R</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-05-i/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-05-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review of F. Murtagh: Correspondence Analysis and Data Coding with Java and R</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-v-05-b/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-v-05-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review of I. Borg and P.J.F. Groenen: Modern Multidimensional Scaling (second edition)</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-05-j/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-05-j/</guid>
       <description></description>
     </item>
     
@@ -2931,14 +2915,6 @@ Three
       <link>http://jansweb.netlify.app/publication/nance-deleeuw-a-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/nance-deleeuw-a-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Obsidian Blade Sequence at El Ujuxte, a Late Preclassic Site on the South Cost of Guatemala</title>
-      <link>http://jansweb.netlify.app/publication/nance-deleeuw-r-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/nance-deleeuw-r-05/</guid>
       <description></description>
     </item>
     
@@ -3359,42 +3335,10 @@ Three
     </item>
     
     <item>
-      <title>A Predictive Density Aapproach to Predicting a Future Observable in Multilevel Models</title>
-      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-b/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Application of Multilevel Model Prediction to NELS-88</title>
-      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-a/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An Introduction to the .C Interface to R</title>
       <link>http://jansweb.netlify.app/publication/peng-deleeuw-u-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/peng-deleeuw-u-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decomposition of Prediction Error in Multilevel Models</title>
-      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-c/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction in Multilevel Models</title>
-      <link>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-d/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/afshartous-deleeuw-r-02-d/</guid>
       <description></description>
     </item>
     
