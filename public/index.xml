@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-492378156&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-165728943&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-492378156&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-165728943&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -3603,22 +3603,6 @@ Three
       <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Evaluation of California&#39;s Inmate Classification System using a Generalized Regression Discontinuity Design</title>
-      <link>http://jansweb.netlify.app/publication/berk-deleeuw-r-97/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/berk-deleeuw-r-97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Correspondence and Component Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-wang-r-97/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-wang-r-97/</guid>
       <description></description>
     </item>
     
