@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-926871345&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-273514869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-926871345&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-273514869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -4183,34 +4183,10 @@ Three
     </item>
     
     <item>
-      <title>Gender Gap in Earnings: Preference or Discrimination ?</title>
-      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-r-92/</link>
-      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-r-92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Interpreting Multiple Correspondence Analysis as a Multidimensional Scaling Method</title>
       <link>http://jansweb.netlify.app/publication/hoffman-deleeuw-a-92/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/hoffman-deleeuw-a-92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interpreting Multiple Correspondence Analysis as a Multidimensional Scaling Method</title>
-      <link>http://jansweb.netlify.app/publication/hoffman-deleeuw-r-92/</link>
-      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/hoffman-deleeuw-r-92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knot Selection in Fuzzy Non-Linear Multivariate Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-r-92/</link>
-      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-r-92/</guid>
       <description></description>
     </item>
     
@@ -4343,14 +4319,6 @@ Three
     </item>
     
     <item>
-      <title>Reduced Rank Models for Contingency Tables</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-r-91/</link>
-      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-r-91/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Generalization of Takane&#39;s Algorithm for DEDICOM</title>
       <link>http://jansweb.netlify.app/publication/kiers-tenberge-takane-deleeuw-a-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
@@ -4363,14 +4331,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-vanderheiden-verboon-a-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheiden-verboon-a-90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing Four Different Statistical Packages for Linear Hierarchical Linear Regression: GENMOD, HLM, ML2, and VARCL</title>
-      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-kim-r-90-a/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-kim-r-90-a/</guid>
       <description></description>
     </item>
     
@@ -4403,22 +4363,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-c-90-b/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-c-90-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Equality Constraints in Multiple Correspondence Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanbuuren-deleeuw-r-90-a/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanbuuren-deleeuw-r-90-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Equality Constraints in Multiple Correspondence Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanbuuren-deleeuw-r-90-b/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanbuuren-deleeuw-r-90-b/</guid>
       <description></description>
     </item>
     
@@ -4519,14 +4463,6 @@ Three
     </item>
     
     <item>
-      <title>Richness Curves for Evaluating Market Segmentation</title>
-      <link>http://jansweb.netlify.app/publication/novak-deleeuw-macevoy-r-90/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/novak-deleeuw-macevoy-r-90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Combined Approach to Contingency Table Analysis with Correspondence Analysis and Log-Linear Analysis (with Discussion)</title>
       <link>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
@@ -4547,14 +4483,6 @@ Three
       <link>http://jansweb.netlify.app/publication/gifi-r-89/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/gifi-r-89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Imputation Method for Dealing with Missing Data in Regression</title>
-      <link>http://jansweb.netlify.app/publication/cooper-deleeuw-sogomonian-r-89/</link>
-      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/cooper-deleeuw-sogomonian-r-89/</guid>
       <description></description>
     </item>
     
@@ -4635,14 +4563,6 @@ Three
       <link>http://jansweb.netlify.app/publication/tijssen-deleeuw-c-89/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/tijssen-deleeuw-c-89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reduced Rank Models for Contingency Tables</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-r-89/</link>
-      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-r-89/</guid>
       <description></description>
     </item>
     
