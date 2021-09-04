@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-714895623&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-935128674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-714895623&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-935128674&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -4795,14 +4795,6 @@ Three
       <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-88/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-a-88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Combined Approach to Contingency Table Analysis with Correspondence Analysis and Log-linear Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-r-87/</link>
-      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-r-87/</guid>
       <description></description>
     </item>
     
