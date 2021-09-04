@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-273514869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-291835467&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-273514869&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-291835467&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -4679,14 +4679,6 @@ Three
     </item>
     
     <item>
-      <title>Fitting Longitudinal Reduced Rank Regression Models by Alternatng Least Squares</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-88/</link>
-      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-r-88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Homogeneity Analysis with K Sets of Variables: an Alternating Least Squares Approach with Optimal Scaling Features</title>
       <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-a-88/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
@@ -4727,14 +4719,6 @@ Three
     </item>
     
     <item>
-      <title>Multi-set Nonlinear Canonical Correlation Analysis via the Burt-Matrix</title>
-      <link>http://jansweb.netlify.app/publication/tijssen-deleeuw-r-88/</link>
-      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/tijssen-deleeuw-r-88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multivariate Analysis with Linearizable Regressions</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-a-88-a/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
@@ -4771,14 +4755,6 @@ Three
       <link>http://jansweb.netlify.app/publication/mooijaart-meijerink-deleeuw-u-88/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/mooijaart-meijerink-deleeuw-u-88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonlinear Redundancy Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-r-88/</link>
-      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-r-88/</guid>
       <description></description>
     </item>
     
