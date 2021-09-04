@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-165728943&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-538472619&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-165728943&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-538472619&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -3743,14 +3743,6 @@ Three
     </item>
     
     <item>
-      <title>Multilevel Homogeneity Analysis with Differential Weighting</title>
-      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-96-c/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-96-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Series Editors Introduction</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-c-96/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
@@ -3771,14 +3763,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-a-96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Mixing Approach as a Unifying Framework for Dynamic Multivariate Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-r-96/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-bijleveld-vanmontfort-bijleveld-r-96/</guid>
       <description></description>
     </item>
     
@@ -4007,14 +3991,6 @@ Three
     </item>
     
     <item>
-      <title>Questioning Multilevel Models</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-kreft-r-94/</link>
-      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-kreft-r-94/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Review of Five Multilevel Analysis Programs: BMDP-5V, GENMOD, HLM, ML3, VARCL</title>
       <link>http://jansweb.netlify.app/publication/kreft-deleeuw-vanderleeden-a-94/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
@@ -4043,14 +4019,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-r-94-b/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-r-94-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of Different Forms of Centering in Hierarchical Linear Models</title>
-      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-aiken-r-94/</link>
-      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-aiken-r-94/</guid>
       <description></description>
     </item>
     
@@ -4179,22 +4147,6 @@ Three
       <link>http://jansweb.netlify.app/publication/kreft-aiken-deleeuw-r-93/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/kreft-aiken-deleeuw-r-93/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Review of Two Different Approaches for the Analysis of Growth Data Using Longitudinal Mixed Linear Models</title>
-      <link>http://jansweb.netlify.app/publication/vanderleeden-vrijburg-deleeuw-r-92-a/</link>
-      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderleeden-vrijburg-deleeuw-r-92-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Review of Two Different Approaches for the Analysis of Growth Data Using Longitudinal Mixed Linear Models</title>
-      <link>http://jansweb.netlify.app/publication/vanderleeden-vrijburg-deleeuw-r-92-b/</link>
-      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderleeden-vrijburg-deleeuw-r-92-b/</guid>
       <description></description>
     </item>
     
@@ -5275,14 +5227,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-verhelst-a-86/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-verhelst-a-86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monotone Correlation and Monotone Disjunct Pieces</title>
-      <link>http://jansweb.netlify.app/publication/chhetry-deleeuw-sampson-r-86/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/chhetry-deleeuw-sampson-r-86/</guid>
       <description></description>
     </item>
     
