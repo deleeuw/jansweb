@@ -270,7 +270,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-935128674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-892576413&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-935128674&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-892576413&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -5047,14 +5047,6 @@ Three
     </item>
     
     <item>
-      <title>Homogeneity analysis with k Sets of Variables</title>
-      <link>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-r-86/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-r-86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Individuele Verschillen en Ongeljkheid [Individual Differences and Inequality]</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-c-86-d/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
@@ -5223,38 +5215,6 @@ Three
     </item>
     
     <item>
-      <title>A Latent Markov model to Correct for Measurement Error</title>
-      <link>http://jansweb.netlify.app/publication/vanderpol-deleeuw-r-85-b/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderpol-deleeuw-r-85-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Special Jackknife for Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-a/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alternative Approximations in Principal Component Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-b/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Upper Bound for SSTRESS</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-bettonvil-r-85/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-bettonvil-r-85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ANACOR</title>
       <link>http://jansweb.netlify.app/publication/gifi-r-85-b/</link>
       <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
@@ -5399,18 +5359,10 @@ Three
     </item>
     
     <item>
-      <title>Random Coefficient Models for Multilevel Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-kreft-r-85-a/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-kreft-r-85-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recovery and Stability in Nonlinear Principal Component Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-bettonvil-r-85/</link>
+      <link>http://jansweb.netlify.app/publication/vanrijckevorsel-bettonvil-deleeuw-r-85/</link>
       <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-bettonvil-r-85/</guid>
+      <guid>http://jansweb.netlify.app/publication/vanrijckevorsel-bettonvil-deleeuw-r-85/</guid>
       <description></description>
     </item>
     
@@ -5451,38 +5403,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-r-85-d/</link>
       <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-r-85-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Permutational Limit Distribution of Generalized Canonical Correlations</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-vanderburg-r-85/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderburg-r-85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Population Sample Decomposition Approach to Multivariate Estimation Methods</title>
-      <link>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-r-85-a/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-r-85-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Population Sample Decomposition Approach to Multivariate Estimation Methods</title>
-      <link>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-r-85-b/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-r-85-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Rank of Reduced Dispersion Matrices</title>
-      <link>http://jansweb.netlify.app/publication/bekker-deleeuw-r-85/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/bekker-deleeuw-r-85/</guid>
       <description></description>
     </item>
     
@@ -5603,14 +5523,6 @@ Three
       <link>http://jansweb.netlify.app/publication/visser-deleeuw-a-84/</link>
       <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/visser-deleeuw-a-84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximum Likelihood Estimation in Generalized Rasch Models</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-verhelst-r-84/</link>
-      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-verhelst-r-84/</guid>
       <description></description>
     </item>
     

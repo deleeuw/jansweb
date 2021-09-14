@@ -98,10 +98,10 @@
     <loc>http://jansweb.netlify.app/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/post/jupyter/</loc>
+    <loc>http://jansweb.netlify.app/author/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/author/jan-de-leeuw/</loc>
+    <loc>http://jansweb.netlify.app/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/slides/</loc>
@@ -2118,7 +2118,7 @@
     <lastmod>2021-06-06T12:54:30-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/author/b.-m.-s.-van-praag/</loc>
-    <lastmod>2021-06-06T12:54:11-07:00</lastmod>
+    <lastmod>2021-06-06T12:54:09-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/author/c.-van-dullemen/</loc>
     <lastmod>2021-06-06T12:54:04-07:00</lastmod>
@@ -2150,14 +2150,11 @@
     <loc>http://jansweb.netlify.app/publication/kreft-deleeuw-r-86-b/</loc>
     <lastmod>2021-06-06T12:54:05-07:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/publication/vanderburg-deleeuw-verdegaal-r-86/</loc>
-    <lastmod>2021-06-06T12:54:03-07:00</lastmod>
-  </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-c-86-d/</loc>
     <lastmod>2021-06-06T12:54:18-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/author/j.-j.-meulman/</loc>
-    <lastmod>2021-06-06T12:54:35-07:00</lastmod>
+    <lastmod>2021-06-06T12:54:34-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/author/j.-l.-leyten/</loc>
     <lastmod>2021-06-06T12:54:39-07:00</lastmod>
@@ -2181,7 +2178,7 @@
     <lastmod>2021-06-06T12:54:07-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/author/n.-verhelst/</loc>
-    <lastmod>2021-06-06T12:54:39-07:00</lastmod>
+    <lastmod>2021-06-06T12:54:09-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/verboon-deleeuw-u-86/</loc>
     <lastmod>2021-06-06T12:53:12-07:00</lastmod>
@@ -2233,18 +2230,6 @@
   </url><url>
     <loc>http://jansweb.netlify.app/author/w.-j.-heiser/</loc>
     <lastmod>2021-06-06T12:54:47-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/vanderpol-deleeuw-r-85-b/</loc>
-    <lastmod>2021-06-06T12:54:10-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-a/</loc>
-    <lastmod>2021-06-06T12:53:15-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/deleeuw-meulman-r-85-b/</loc>
-    <lastmod>2021-06-06T12:54:35-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/deleeuw-bettonvil-r-85/</loc>
-    <lastmod>2021-06-06T12:54:14-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/gifi-r-85-b/</loc>
     <lastmod>2021-06-06T12:53:09-07:00</lastmod>
@@ -2300,10 +2285,7 @@
     <loc>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-r-85/</loc>
     <lastmod>2021-06-06T12:54:12-07:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/publication/deleeuw-kreft-r-85-a/</loc>
-    <lastmod>2021-06-06T12:54:14-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/vanrijckevorsel-deleeuw-bettonvil-r-85/</loc>
+    <loc>http://jansweb.netlify.app/publication/vanrijckevorsel-bettonvil-deleeuw-r-85/</loc>
     <lastmod>2021-06-06T12:54:11-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-v-85-c/</loc>
@@ -2320,18 +2302,6 @@
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-r-85-d/</loc>
     <lastmod>2021-06-06T12:54:12-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/deleeuw-vanderburg-r-85/</loc>
-    <lastmod>2021-06-06T12:54:37-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-r-85-a/</loc>
-    <lastmod>2021-06-06T12:54:11-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/vanpraag-deleeuw-kloek-r-85-b/</loc>
-    <lastmod>2021-06-06T12:54:10-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/bekker-deleeuw-r-85/</loc>
-    <lastmod>2021-06-06T12:54:15-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-vanderburg-bettonvil-r-85/</loc>
     <lastmod>2021-06-06T12:54:12-07:00</lastmod>
@@ -2380,9 +2350,6 @@
   </url><url>
     <loc>http://jansweb.netlify.app/publication/visser-deleeuw-a-84/</loc>
     <lastmod>2021-06-06T12:54:50-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/deleeuw-verhelst-r-84/</loc>
-    <lastmod>2021-06-06T12:54:39-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-a-84-c/</loc>
     <lastmod>2021-06-06T12:54:20-07:00</lastmod>
