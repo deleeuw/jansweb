@@ -6,7 +6,7 @@ title: A Combined Approach to Contingency Table Analysis with Correspondence Ana
 subtitle: ''
 summary: ''
 authors:
-- P.G.M. Van der Heijden
+- P. G. M. Van der Heijden
 - A. De Falguerolles
 - J. De Leeuw
 tags: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-06T19:54:49.287524Z'
+publishDate: '2021-10-25T19:24:49.129247Z'
 publication_types:
 - '2'
 abstract: ''

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. De Leeuw
-- J.L.A. Van Rijckevorsel
+- J. L. A. Van Rijckevorsel
 tags: []
 categories: []
 date: '1988-01-01'
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-06T19:54:38.907319Z'
+publishDate: '2021-10-25T19:24:40.940450Z'
 publication_types:
 - '6'
 abstract: ''
