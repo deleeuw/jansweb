@@ -4,13 +4,11 @@
 title: Inverse Multidimensional Scaling
 subtitle: ''
 summary: ''
-authors:
-- J. De Leeuw
-- P. J. F. Groenen
+authors: []
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2021-06-06T12:54:31-07:00
+lastmod: 2021-10-25T15:56:37-04:00
 featured: false
 draft: false
 
@@ -28,10 +26,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:14.146484Z'
+publishDate: '2021-10-25T19:56:37.567791Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Classification*'
-url_pdf: http://deleeuwpdx.net/janspubs/1997/articles/deleeuw_groenen_A_97.pdf
 ---

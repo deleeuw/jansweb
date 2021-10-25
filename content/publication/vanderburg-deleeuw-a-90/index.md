@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1990-01-01'
-lastmod: 2021-06-06T12:54:48-07:00
+lastmod: 2021-10-25T15:58:06-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:48.658870Z'
+publishDate: '2021-10-25T19:58:06.531729Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*British Journal of Mathematical and Statistical Psychology*'
-url_pdf: http://deleeuwpdx.net/janspubs/1990/articles/vanderburg_deleeuw_A_90.pdf
 ---

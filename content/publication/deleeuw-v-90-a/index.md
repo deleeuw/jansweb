@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1990-01-01'
-lastmod: 2021-06-06T12:53:53-07:00
+lastmod: 2021-10-25T15:57:29-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:06.060368Z'
+publishDate: '2021-10-25T19:57:29.628828Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Metrika*'
-url_pdf: http://deleeuwpdx.net/janspubs/1990/reviews/deleeuw_V_90a.pdf
 ---

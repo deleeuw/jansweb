@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1997-01-01'
-lastmod: 2021-06-06T12:53:45-07:00
+lastmod: 2021-10-25T15:57:24-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:00.677950Z'
+publishDate: '2021-10-25T19:57:24.257355Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Computers and Geosciences*'
-url_pdf: http://deleeuwpdx.net/janspubs/1997/articles/deleeuw_A_97a.pdf
 ---

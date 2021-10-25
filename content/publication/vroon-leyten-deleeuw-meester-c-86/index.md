@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1986-01-01'
-lastmod: 2021-06-06T12:54:08-07:00
+lastmod: 2021-10-25T15:57:35-04:00
 featured: false
 draft: false
 
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:12.001336Z'
+publishDate: '2021-10-25T19:57:35.578658Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Psychologie in Nederland*'
-url_pdf: http://deleeuwpdx.net/janspubs/1986/chapters/vroon_leyten_deleeuw_meester_C_86.pdf
 ---

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1987-01-01'
-lastmod: 2021-06-06T12:54:03-07:00
+lastmod: 2021-10-25T15:57:34-04:00
 featured: false
 draft: false
 
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:10.648387Z'
+publishDate: '2021-10-25T19:57:34.129982Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Psychometrika*'
-url_pdf: http://deleeuwpdx.net/janspubs/1987/articles/tenberge_deleeuw_kroonenberg_A_87.pdf
 ---

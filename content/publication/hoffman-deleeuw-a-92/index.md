@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1992-01-01'
-lastmod: 2021-06-06T12:54:42-07:00
+lastmod: 2021-10-25T15:58:01-04:00
 featured: false
 draft: false
 
@@ -29,10 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:43.261132Z'
+publishDate: '2021-10-25T19:58:00.832356Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Marketing Letters*'
-url_pdf: http://deleeuwpdx.net/janspubs/1992/articles/hoffman_deleeuw_A_92.pdf
 ---

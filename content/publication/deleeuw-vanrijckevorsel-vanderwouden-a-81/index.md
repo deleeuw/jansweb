@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1981-01-01'
-lastmod: 2021-06-06T12:54:39-07:00
+lastmod: 2021-10-25T15:57:57-04:00
 featured: false
 draft: false
 
@@ -29,10 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:41.062536Z'
+publishDate: '2021-10-25T19:57:57.805207Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Methods of Operations Research*'
-url_pdf: http://deleeuwpdx.net/janspubs/1981/articles/deleeuw_vanrijckevorsel_vanderwouden_A_81.pdf
 ---

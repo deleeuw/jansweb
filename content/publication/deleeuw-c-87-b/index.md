@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1987-01-01'
-lastmod: 2021-06-06T12:54:02-07:00
+lastmod: 2021-10-25T15:57:33-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:10.238526Z'
+publishDate: '2021-10-25T19:57:33.745419Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Progress in Numerical Ecology*'
-url_pdf: http://deleeuwpdx.net/janspubs/1987/chapters/deleeuw_C_87b.pdf
 ---

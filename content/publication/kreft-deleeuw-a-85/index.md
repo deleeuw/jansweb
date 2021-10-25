@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1985-01-01'
-lastmod: 2021-06-06T12:54:43-07:00
+lastmod: 2021-10-25T15:58:01-04:00
 featured: false
 draft: false
 
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:43.658652Z'
+publishDate: '2021-10-25T19:58:01.336331Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Bevolking en Gezin*'
-url_pdf: http://deleeuwpdx.net/janspubs/1985/articles/kreft_deleeuw_A_85.pdf
 ---

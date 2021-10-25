@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1976-01-01'
-lastmod: 2021-06-06T12:54:36-07:00
+lastmod: 2021-10-25T15:57:55-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:39.572118Z'
+publishDate: '2021-10-25T19:57:55.560218Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/1976/reports/deleeuw_oppe_R_76.pdf
 ---

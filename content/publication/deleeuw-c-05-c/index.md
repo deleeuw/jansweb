@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-06-06T12:53:37-07:00
+lastmod: 2021-10-25T15:57:20-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:56.680817Z'
+publishDate: '2021-10-25T19:57:20.048628Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*The Encyclopedia of Statistics in Behavioral Science*'
-url_pdf: http://deleeuwpdx.net/janspubs/2005/chapters/deleeuw_C_05c.pdf
 ---

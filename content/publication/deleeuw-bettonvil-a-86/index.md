@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1986-01-01'
-lastmod: 2021-06-06T12:54:30-07:00
+lastmod: 2021-10-25T15:57:50-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:35.491844Z'
+publishDate: '2021-10-25T19:57:50.385803Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Psychometrika*'
-url_pdf: http://deleeuwpdx.net/janspubs/1986/articles/deleeuw_bettonvil_A_86.pdf
 ---

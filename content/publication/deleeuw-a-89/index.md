@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1989-01-01'
-lastmod: 2021-06-06T12:53:56-07:00
+lastmod: 2021-10-25T15:57:31-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:07.948205Z'
+publishDate: '2021-10-25T19:57:31.607796Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Nederlands Tijdschrift voor Opvoeding, Vorming en Onderwijs*'
-url_pdf: http://deleeuwpdx.net/janspubs/1989/articles/deleeuw_A_89.pdf
 ---

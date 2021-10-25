@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2021-06-06T12:53:40-07:00
+lastmod: 2021-10-25T15:57:21-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:57.863369Z'
+publishDate: '2021-10-25T19:57:21.370663Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*R.A. Berk: Regression Analysis. A Constructive Critique*'
-url_pdf: http://deleeuwpdx.net/janspubs/2003/chapters/deleeuw_C_03.pdf
 ---

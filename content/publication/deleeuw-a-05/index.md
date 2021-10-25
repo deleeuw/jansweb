@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-06-06T12:53:38-07:00
+lastmod: 2021-10-25T15:57:20-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:57.028160Z'
+publishDate: '2021-10-25T19:57:20.439527Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Statistical Software*'
-url_pdf: http://deleeuwpdx.net/janspubs/2005/articles/deleeuw_A_05.pdf
 ---

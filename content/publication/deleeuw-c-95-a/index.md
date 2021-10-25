@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1995-01-01'
-lastmod: 2021-06-06T12:53:48-07:00
+lastmod: 2021-10-25T15:57:26-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:02.335835Z'
+publishDate: '2021-10-25T19:57:26.070821Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*I. Borg and S. Shye: Facet Theory, Form and Content*'
-url_pdf: http://deleeuwpdx.net/janspubs/1995/chapters/deleeuw_C_95a.pdf
 ---

@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2021-06-06T12:53:45-07:00
+lastmod: 2021-10-25T15:57:24-04:00
 featured: false
 draft: false
 
@@ -36,11 +36,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:00.798226Z'
+publishDate: '2021-10-25T19:57:24.372182Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2010 IEEE International Symposium on Biomedical
   Imaging: From Nano to Macro*'
-url_pdf: http://deleeuwpdx.net/janspubs/2010/chapters/lee_lepore_deleeuw_brun_barysheva_mcmahon_dezubicaray_martin_wright_thompson_C_10.pdf
 ---

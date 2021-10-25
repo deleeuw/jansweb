@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1982-01-01'
-lastmod: 2021-06-06T12:54:31-07:00
+lastmod: 2021-10-25T15:57:51-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:36.393993Z'
+publishDate: '2021-10-25T19:57:51.430369Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Handbook of Statistics, Volume II*'
-url_pdf: http://deleeuwpdx.net/janspubs/1982/chapters/deleeuw_heiser_C_82.pdf
 ---

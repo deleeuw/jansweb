@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-06-06T12:53:23-07:00
+lastmod: 2021-10-25T15:57:09-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:46.895784Z'
+publishDate: '2021-10-25T19:57:09.597042Z'
 publication_types:
 - '3'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/2005/notes/deleeuw_U_05e.pdf
 ---

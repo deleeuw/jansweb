@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-06-06T12:54:17-07:00
+lastmod: 2021-10-25T15:57:40-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:17.268738Z'
+publishDate: '2021-10-25T19:57:40.168847Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Multiple Correspondence Analysis and Related Methods*'
-url_pdf: http://deleeuwpdx.net/janspubs/2006/chapters/deleeuw_C_06b.pdf
 ---

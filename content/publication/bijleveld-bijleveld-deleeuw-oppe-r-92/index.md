@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '1992-01-01'
-lastmod: 2021-06-06T12:53:52-07:00
+lastmod: 2021-10-25T15:57:28-04:00
 featured: false
 draft: false
 
@@ -31,10 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:05.020502Z'
+publishDate: '2021-10-25T19:57:28.602821Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/1992/reports/bijleveld_bijleveld_deleeuw_oppe_R_92.pdf
 ---

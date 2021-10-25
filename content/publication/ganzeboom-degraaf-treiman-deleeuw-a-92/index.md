@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1992-01-01'
-lastmod: 2021-06-06T12:53:51-07:00
+lastmod: 2021-10-25T15:57:28-04:00
 featured: false
 draft: false
 
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:04.507582Z'
+publishDate: '2021-10-25T19:57:28.149673Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Social Science Research*'
-url_pdf: http://deleeuwpdx.net/janspubs/1992/articles/ganzeboom_degraaf_treiman_deleeuw_A_92.pdf
 ---

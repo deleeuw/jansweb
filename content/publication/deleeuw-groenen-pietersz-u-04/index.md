@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2004-01-01'
-lastmod: 2021-06-06T12:53:25-07:00
+lastmod: 2021-10-25T15:57:11-04:00
 featured: false
 draft: false
 
@@ -29,10 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:48.549595Z'
+publishDate: '2021-10-25T19:57:11.290049Z'
 publication_types:
 - '3'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/2004/notes/deleeuw_groenen_pietersz_U_04.pdf
 ---

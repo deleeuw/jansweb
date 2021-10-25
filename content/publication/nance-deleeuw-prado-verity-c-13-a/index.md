@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2021-06-06T12:53:02-07:00
+lastmod: 2021-10-25T15:56:48-04:00
 featured: false
 draft: false
 
@@ -30,11 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:25.239160Z'
+publishDate: '2021-10-25T19:56:48.170639Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Correspondence Analysis and West Mexico Archaeology: Ceramics from
   the Long-Glassow Collection*'
-url_pdf: http://deleeuwpdx.net/janspubs/2013/chapters/nance_deleeuw_prado_verity_C_13a.pdf
 ---

@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2002-01-01'
-lastmod: 2021-06-06T12:53:41-07:00
+lastmod: 2021-10-25T15:57:22-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:58.445823Z'
+publishDate: '2021-10-25T19:57:21.979481Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*S.W. Raudenbush and A.S. Bryk: Hierarchical Linear Model (Second Edition)*'
-url_pdf: http://deleeuwpdx.net/janspubs/2002/chapters/deleeuw_C_02.pdf
 ---

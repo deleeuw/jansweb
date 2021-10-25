@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1998-01-01'
-lastmod: 2021-06-06T12:54:46-07:00
+lastmod: 2021-10-25T15:58:04-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:46.301052Z'
+publishDate: '2021-10-25T19:58:04.142852Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Statistical Science*'
-url_pdf: http://deleeuwpdx.net/janspubs/1998/articles/michailidis_deleeuw_A_98.pdf
 ---

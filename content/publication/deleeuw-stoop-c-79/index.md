@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1979-01-01'
-lastmod: 2021-06-06T12:54:37-07:00
+lastmod: 2021-10-25T15:57:56-04:00
 featured: false
 draft: false
 
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:40.063034Z'
+publishDate: '2021-10-25T19:57:56.313086Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Van Achteren naar Voren*'
-url_pdf: http://deleeuwpdx.net/janspubs/1979/chapters/deleeuw_stoop_C_79.pdf
 ---

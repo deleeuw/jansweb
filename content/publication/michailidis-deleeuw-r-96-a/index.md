@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1996-01-01'
-lastmod: 2021-06-06T12:54:46-07:00
+lastmod: 2021-10-25T15:58:04-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:46.157346Z'
+publishDate: '2021-10-25T19:58:03.993212Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/1996/reports/michailidis_deleeuw_R_96a.pdf
 ---

@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2021-06-06T12:53:29-07:00
+lastmod: 2021-10-25T15:57:15-04:00
 featured: false
 draft: false
 
@@ -35,11 +35,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:51.733157Z'
+publishDate: '2021-10-25T19:57:14.964368Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*FBIT 2007: Frontiers in the Convergence of Bioscience and Information
   Technologies*'
-url_pdf: http://deleeuwpdx.net/janspubs/2007/chapters/mani_chou_lepore_lee_deleeuw_mcmahon_wright_toga_thomson_C_07.pdf
 ---

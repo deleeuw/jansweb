@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1979-01-01'
-lastmod: 2021-06-06T12:54:41-07:00
+lastmod: 2021-10-25T15:58:00-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:42.592343Z'
+publishDate: '2021-10-25T19:57:59.969872Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Methoden en Data Nieuwsbrief SWS/VVS*'
-url_pdf: http://deleeuwpdx.net/janspubs/1979/articles/heiser_deleeuw_A_79.pdf
 ---

@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1988-01-01'
-lastmod: 2021-06-06T12:54:22-07:00
+lastmod: 2021-10-25T15:57:44-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:27.908138Z'
+publishDate: '2021-10-25T19:57:44.664461Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*On Model Uncertainty and its Statistical Implications*'
-url_pdf: http://deleeuwpdx.net/janspubs/1988/chapters/deleeuw_C_88a.pdf
 ---

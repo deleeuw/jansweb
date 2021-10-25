@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1995-01-01'
-lastmod: 2021-06-06T12:54:16-07:00
+lastmod: 2021-10-25T15:57:39-04:00
 featured: false
 draft: false
 
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:15.959448Z'
+publishDate: '2021-10-25T19:57:39.202665Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Consulting and Clinical Psychology*'
-url_pdf: http://deleeuwpdx.net/janspubs/1995/articles/cochran_deleeuw_mays_A_95.pdf
 ---

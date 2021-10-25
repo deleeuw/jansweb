@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2021-06-06T12:52:57-07:00
+lastmod: 2021-10-25T15:56:43-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:20.202549Z'
+publishDate: '2021-10-25T19:56:43.234427Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/pubfolders/linineq/linineq.pdf
 ---

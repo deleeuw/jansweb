@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1990-01-01'
-lastmod: 2021-06-06T12:53:54-07:00
+lastmod: 2021-10-25T15:57:30-04:00
 featured: false
 draft: false
 
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:06.565816Z'
+publishDate: '2021-10-25T19:57:30.166090Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Nonlinear Multivariate Analysis*'
-url_pdf: http://deleeuwpdx.net/janspubs/1990/chapters/deleeuw_C_90a.pdf
 ---

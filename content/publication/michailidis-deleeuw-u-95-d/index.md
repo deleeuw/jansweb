@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1995-01-01'
-lastmod: 2021-06-06T12:53:06-07:00
+lastmod: 2021-10-25T15:56:52-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:29.729805Z'
+publishDate: '2021-10-25T19:56:52.639376Z'
 publication_types:
 - '3'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/1995/notes/michailidis_deleeuw_U_95d.pdf
 ---

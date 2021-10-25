@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1986-01-01'
-lastmod: 2021-06-06T12:54:34-07:00
+lastmod: 2021-10-25T15:57:54-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:38.439981Z'
+publishDate: '2021-10-25T19:57:53.985130Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Classification as a Tool of Research*'
-url_pdf: http://deleeuwpdx.net/janspubs/1986/chapters/deleeuw_meulman_C_86.pdf
 ---

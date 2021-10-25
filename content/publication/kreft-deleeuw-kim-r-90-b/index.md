@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1990-01-01'
-lastmod: 2021-06-06T12:53:13-07:00
+lastmod: 2021-10-25T15:56:59-04:00
 featured: false
 draft: false
 
@@ -30,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:36.934651Z'
+publishDate: '2021-10-25T19:56:59.545641Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/1990/reports/kreft_deleeuw_kim_R_90b.pdf
 ---

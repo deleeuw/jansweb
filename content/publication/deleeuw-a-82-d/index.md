@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1982-01-01'
-lastmod: 2021-06-06T12:53:05-07:00
+lastmod: 2021-10-25T15:56:51-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:28.711021Z'
+publishDate: '2021-10-25T19:56:51.660379Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of the Royal Statistical Society, Series A (General)*'
-url_pdf: http://deleeuwpdx.net/janspubs/1982/articles/deleeuw_A_82d.pdf
 ---

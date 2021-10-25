@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1988-01-01'
-lastmod: 2021-06-06T12:54:16-07:00
+lastmod: 2021-10-25T15:57:39-04:00
 featured: false
 draft: false
 
@@ -28,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:15.782916Z'
+publishDate: '2021-10-25T19:57:39.026243Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Component and Correspondence Analysis*'
-url_pdf: http://deleeuwpdx.net/janspubs/1988/chapters/bekker_deleeuw_C_88.pdf
 ---

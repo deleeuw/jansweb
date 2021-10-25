@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2021-06-06T12:53:07-07:00
+lastmod: 2021-10-25T15:56:52-04:00
 featured: false
 draft: false
 
@@ -27,11 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:29.987366Z'
+publishDate: '2021-10-25T19:56:52.879365Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Correspondence Analysis and West Mexico Archaeology: Ceramics from
   the Long-Glassow Collection*'
-url_pdf: http://deleeuwpdx.net/janspubs/2013/chapters/deleeuw_C_13.pdf
 ---

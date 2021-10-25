@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1990-01-01'
-lastmod: 2021-06-06T12:53:55-07:00
+lastmod: 2021-10-25T15:57:30-04:00
 featured: false
 draft: false
 
@@ -29,10 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:07.184832Z'
+publishDate: '2021-10-25T19:57:30.853300Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*SIAM Journal Matrix Analysis and Applications*'
-url_pdf: http://deleeuwpdx.net/janspubs/1990/articles/chhetry_deleeuw_sampson_A_90.pdf
 ---

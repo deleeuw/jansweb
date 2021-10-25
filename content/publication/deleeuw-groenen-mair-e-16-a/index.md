@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2021-06-06T12:52:59-07:00
+lastmod: 2021-10-25T15:56:46-04:00
 featured: false
 draft: false
 
@@ -29,11 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:23.212422Z'
+publishDate: '2021-10-25T19:56:46.132264Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/pubfolders/rStress/rStress.pdf
-doi: 10.13140/RG.2.1.3871.3366
 ---

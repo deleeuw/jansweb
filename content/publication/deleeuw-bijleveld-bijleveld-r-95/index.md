@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1995-01-01'
-lastmod: 2021-06-06T12:53:48-07:00
+lastmod: 2021-10-25T15:57:25-04:00
 featured: false
 draft: false
 
@@ -29,10 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:01.966501Z'
+publishDate: '2021-10-25T19:57:25.644312Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/janspubs/1995/reports/deleeuw_bijleveld_bijleveld_R_95.pdf
 ---
