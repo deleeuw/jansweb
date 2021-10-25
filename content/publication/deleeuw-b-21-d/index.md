@@ -1,16 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: APL in R
+title: Gifi Analysis of Multivariate Data
 subtitle: ''
 summary: ''
 authors:
 - J. De Leeuw
-- M. Yajima
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-10-25T15:56:43-04:00
+date: '2020-01-01'
+lastmod: 2021-10-25T16:15:22-04:00
 featured: false
 draft: false
 
@@ -28,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:56:43.357227Z'
+publishDate: '2021-10-25T20:15:22.151595Z'
 publication_types:
 - '5'
 abstract: ''
-publication: '*Bookdown*'
+publication: ''
 ---
