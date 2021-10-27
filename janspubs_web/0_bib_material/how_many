@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "all     "; ls -1 ../*/*/*.pdf | wc
+echo "articles"; ls -1 ../*/articles/*.pdf | wc
+echo "chapters"; ls -1 ../*/chapters/*.pdf | wc
+echo "reports "; ls -1 ../*/reports/*.pdf | wc
+echo "reviews "; ls -1 ../*/reviews/*.pdf | wc
+echo "books   "; ls -1 ../*/books/*.pdf | wc
+echo "notes   "; ls -1 ../*/notes/*.pdf | wc
+echo "electronic "; ls -1 ../*/electronic/*.pdf | wc

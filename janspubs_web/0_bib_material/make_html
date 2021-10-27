@@ -1,0 +1,6 @@
+#!/bin/sh
+rm -rf Author/*
+rm -rf Biblio/*
+rm -rf Category/*
+rm -rf Year/*
+/usr/local/bin/bibtex2html mypubs.bib
