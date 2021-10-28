@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Homogeneity Analysis Using Absolute Deviations</title>
+      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Homogeneity Analysis with Ratios of Alternative Norms</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-u-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
@@ -37,10 +45,26 @@
     </item>
     
     <item>
+      <title>Weber Correspondence Analysis: The One-dimensional Case</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Visualization through Graph Drawing</title>
       <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-a-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization through Graph Drawing</title>
+      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-00/</guid>
       <description></description>
     </item>
     
@@ -93,6 +117,22 @@
     </item>
     
     <item>
+      <title>Graph Layout Techniques and Multidimensional Data Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-a/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Majorization Methods in Statistics</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-b/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multilevel Homogeneity Analysis</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-u-99-d/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
@@ -125,14 +165,6 @@
     </item>
     
     <item>
-      <title>Correspondence and Component Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-wang-r-97/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-wang-r-97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Constrained Homogeneity Analysis with Applications to Hierarchical Data</title>
       <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-96-a/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
@@ -153,6 +185,14 @@
       <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-u-96-a/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-u-96-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Gifi system for Descriptive Multivariate Analysis</title>
+      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-96-b/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-96-b/</guid>
       <description></description>
     </item>
     

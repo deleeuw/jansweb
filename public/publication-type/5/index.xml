@@ -5,7 +5,7 @@
     <link>http://jansweb.netlify.app/publication-type/5/</link>
       <atom:link href="http://jansweb.netlify.app/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>5</title>
@@ -13,34 +13,26 @@
     </image>
     
     <item>
-      <title>APL in R</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-yajima-b-21c/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-yajima-b-21c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Block Relaxation Methods in Statistics</title>
+      <title>Gifi Analysis of Multivariate Data</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multivariate Analysis with Optimal Scaling</title>
+      <title>Least Squares Multidimensional Scaling</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gifi Analysis of Multivariate Data</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-d/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-d/</guid>
+      <title>Block Relaxation Methods in Statistics</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-b-21-c/</guid>
       <description></description>
     </item>
     
