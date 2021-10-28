@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - H. Coolen
-- J. L. A. Van Rijckevorsel
+- J.L.A. Van Rijckevorsel
 - J. De Leeuw
 tags: []
 categories: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:16.151273Z'
+publishDate: '2021-06-06T19:54:16.289833Z'
 publication_types:
 - '1'
 abstract: ''

@@ -5,7 +5,7 @@ title: Exceedingly Simple B-spline Code
 subtitle: ''
 summary: ''
 authors:
-- J. De Leeuw
+- J De Leeuw
 tags: []
 categories: []
 date: '2015-01-01'
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:24.225131Z'
+publishDate: '2021-06-06T19:53:00.778855Z'
 publication_types:
 - '3'
 abstract: ''

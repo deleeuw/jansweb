@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. De Leeuw
-- P. G. M. Van der Heijden
+- P.G.M. Van der Heijden
 tags: []
 categories: []
 date: '1988-01-01'
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:40.322182Z'
+publishDate: '2021-06-06T19:54:37.933875Z'
 publication_types:
 - '2'
 abstract: ''

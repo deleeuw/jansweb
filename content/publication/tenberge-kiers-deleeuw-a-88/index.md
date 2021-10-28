@@ -6,7 +6,7 @@ title: Explicit Candecomp/Parafac Solutions for a Contrived $2x2x2$ Array of Ran
 subtitle: ''
 summary: ''
 authors:
-- J. M. F. Ten Berge
+- J.M.F. Ten Berge
 - H. A. L. Kiers
 - J. De Leeuw
 tags: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:47.879143Z'
+publishDate: '2021-06-06T19:54:48.028841Z'
 publication_types:
 - '2'
 abstract: ''

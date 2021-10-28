@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multivariate Analysis with Optimal Scaling
+title: Least Squares Multidimensional Scaling
 subtitle: ''
 summary: ''
 authors:
-- J. De Leeuw
+- Jan de  Leeuw
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-06-05'
 lastmod: 2021-06-07T13:36:06-07:00
-featured: false
+featured: true
 draft: false
-url_project: https://github.com/deleeuw/stress
-url_pdf: https://github.com/deleeuw/stress/blob/master/_book/_main.pdf
+url_project: "https://github.com/deleeuw/stress"
+url_pdf: "https://github.com/deleeuw/stress/blob/master/_book/_main.pdf"
 # url_source: "https://github.com/deleeuw/stress/blob/main/_book/index.html"
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:23:20.613130Z'
+publishDate: '2021-06-07T20:36:06.029315Z'
 publication_types:
 - '5'
 abstract: ''

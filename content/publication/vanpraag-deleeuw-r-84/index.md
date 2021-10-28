@@ -5,7 +5,7 @@ title: Multivariate Estimators under Minimal Assumptions and the PSD Approach
 subtitle: ''
 summary: ''
 authors:
-- B. M. S. Van Praag
+- B.M.S. Van Praag
 - J. De Leeuw
 tags: []
 categories: []
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:49.610548Z'
+publishDate: '2021-06-06T19:54:50.026068Z'
 publication_types:
 - '4'
 abstract: ''

@@ -6,7 +6,7 @@ title: Large-Sample Properties of Method of Moment Estimators under Different Da
 subtitle: ''
 summary: ''
 authors:
-- B. M. S. Van Praag
+- B.M.S. Van Praag
 - T. Kloek
 - J. De Leeuw
 tags: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:24:49.800669Z'
+publishDate: '2021-06-06T19:54:50.195243Z'
 publication_types:
 - '2'
 abstract: ''
