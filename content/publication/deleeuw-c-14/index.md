@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2021-10-25T15:56:52-04:00
+lastmod: 2021-06-06T12:53:07-07:00
 featured: false
 draft: false
 
@@ -27,9 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:56:52.756440Z'
+publishDate: '2021-10-25T19:23:29.862295Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*The Visualization and Verbalization of Data*'
+url_pdf: http://deleeuwpdx.net/janspubs/2014/chapters/deleeuw_C_14.pdf
 ---

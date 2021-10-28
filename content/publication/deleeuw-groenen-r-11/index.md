@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2021-10-25T15:57:51-04:00
+lastmod: 2021-06-06T12:54:31-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:50.959169Z'
+publishDate: '2021-10-25T19:24:36.004867Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/janspubs/2011/reports/deleeuw_groenen_R_11.pdf
 ---

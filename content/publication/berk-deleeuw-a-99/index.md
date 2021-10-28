@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1999-01-01'
-lastmod: 2021-10-25T15:57:23-04:00
+lastmod: 2021-06-06T12:53:43-07:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:23.052897Z'
+publishDate: '2021-10-25T19:23:59.521139Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of the American Statistical Association*'
+url_pdf: http://deleeuwpdx.net/janspubs/1999/articles/berk_deleeuw_A_99.pdf
 ---

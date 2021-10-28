@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1984-01-01'
-lastmod: 2021-10-25T15:57:58-04:00
+lastmod: 2021-06-06T12:54:39-07:00
 featured: false
 draft: false
 
@@ -30,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:58.001518Z'
+publishDate: '2021-10-25T19:24:41.186781Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/janspubs/1984/reports/deleeuw_vroon_meester_leyten_R_84.pdf
 ---

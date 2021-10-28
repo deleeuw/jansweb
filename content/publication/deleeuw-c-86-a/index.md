@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1986-01-01'
-lastmod: 2021-10-25T15:57:44-04:00
+lastmod: 2021-06-06T12:54:22-07:00
 featured: false
 draft: false
 
@@ -27,10 +27,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:44.537254Z'
+publishDate: '2021-10-25T19:24:27.657757Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Conference on Discrimination Analysis, Cluster Analysis,
   and Other Methods of Data Classification. DIANA II*'
+url_pdf: http://deleeuwpdx.net/janspubs/1986/chapters/deleeuw_C_86a.pdf
 ---

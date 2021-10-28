@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-10-25T15:56:47-04:00
+lastmod: 2021-06-06T12:53:01-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:56:47.795031Z'
+publishDate: '2021-10-25T19:23:24.876418Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Wiley StatsRef: Statistics Reference Online*'
+url_pdf: http://deleeuwpdx.net/janspubs/2015/chapters/deleeuw_mair_C_15.pdf
+doi: 10.1002/9781118445112.stat06268.pub2
 ---

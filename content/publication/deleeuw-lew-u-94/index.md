@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1994-01-01'
-lastmod: 2021-10-25T15:56:58-04:00
+lastmod: 2021-06-06T12:53:12-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:56:58.431212Z'
+publishDate: '2021-10-25T19:23:35.944054Z'
 publication_types:
 - '3'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/janspubs/1994/notes/deleeuw_lew_U_94.pdf
 ---

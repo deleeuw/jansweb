@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1996-01-01'
-lastmod: 2021-10-25T15:57:25-04:00
+lastmod: 2021-06-06T12:53:47-07:00
 featured: false
 draft: false
 
@@ -30,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:25.391104Z'
+publishDate: '2021-10-25T19:24:01.742438Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Computational Statistics and Data Analysis (Statistical Software Newsletter)*'
+url_pdf: http://deleeuwpdx.net/janspubs/1996/articles/vanderleeden_vrijburg_deleeuw_A_96.pdf
 ---

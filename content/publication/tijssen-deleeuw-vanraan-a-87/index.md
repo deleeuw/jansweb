@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1987-01-01'
-lastmod: 2021-10-25T15:57:34-04:00
+lastmod: 2021-06-06T12:54:02-07:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:33.998706Z'
+publishDate: '2021-10-25T19:24:10.529163Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Scientometrics*'
+url_pdf: http://deleeuwpdx.net/janspubs/1987/articles/tijssen_deleeuw_vanraan_A_87.pdf
 ---

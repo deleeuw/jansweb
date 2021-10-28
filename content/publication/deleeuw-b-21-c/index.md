@@ -10,9 +10,11 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-10-25T15:56:43-04:00
+lastmod: 2021-06-07T13:36:06-07:00
 featured: false
 draft: false
+url_project: https://github.com/deleeuw/bras
+url_pdf: https://github.com/deleeuw/bras/blob/master/_book/_main.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:56:43.357227Z'
+publishDate: '2021-10-25T19:23:20.335321Z'
 publication_types:
 - '5'
 abstract: ''

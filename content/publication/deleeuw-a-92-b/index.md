@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1992-01-01'
-lastmod: 2021-10-25T15:57:28-04:00
+lastmod: 2021-06-06T12:53:52-07:00
 featured: false
 draft: false
 
@@ -27,9 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:28.378423Z'
+publishDate: '2021-10-25T19:24:04.772139Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Revista Brasil Probability Statistics*'
+url_pdf: http://deleeuwpdx.net/janspubs/1992/articles/deleeuw_A_92b.pdf
 ---

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2021-10-25T15:57:21-04:00
+lastmod: 2021-06-06T12:53:40-07:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:21.485910Z'
+publishDate: '2021-10-25T19:23:57.972620Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/janspubs/2003/reports/nandagiri_deleeuw_R_03.pdf
 ---

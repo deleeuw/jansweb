@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1985-01-01'
-lastmod: 2021-10-25T15:57:37-04:00
+lastmod: 2021-06-06T12:54:13-07:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:37.700782Z'
+publishDate: '2021-10-25T19:24:14.127811Z'
 publication_types:
 - '4'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/janspubs/1985/reports/deleeuw_kreft_R_85b.pdf
 ---

@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1988-01-01'
-lastmod: 2021-10-25T15:57:56-04:00
+lastmod: 2021-06-06T12:54:38-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:56.668743Z'
+publishDate: '2021-10-25T19:24:40.322182Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Psychometrika*'
+url_pdf: http://deleeuwpdx.net/janspubs/1988/articles/deleeuw_vanderheijden_A_88.pdf
 ---

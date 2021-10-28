@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1988-01-01'
-lastmod: 2021-10-25T15:57:38-04:00
+lastmod: 2021-06-06T12:54:14-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:38.234869Z'
+publishDate: '2021-10-25T19:24:14.787686Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Data Analysis and Informatics*'
+url_pdf: http://deleeuwpdx.net/janspubs/1988/chapters/deleeuw_vanderheijden_C_88.pdf
 ---

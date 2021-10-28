@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2021-10-25T15:57:24-04:00
+lastmod: 2021-06-06T12:53:46-07:00
 featured: false
 draft: false
 
@@ -30,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:24.879194Z'
+publishDate: '2021-10-25T19:24:01.266383Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Statistical Software*'
+url_pdf: http://deleeuwpdx.net/janspubs/2009/articles/deleeuw_hornik_mair_A_09.pdf
 ---

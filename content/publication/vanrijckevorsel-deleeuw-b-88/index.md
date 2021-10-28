@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '1988-01-01'
-lastmod: 2021-10-25T15:58:07-04:00
+lastmod: 2021-06-06T12:54:50-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:58:07.665609Z'
+publishDate: '2021-10-25T19:24:49.961463Z'
 publication_types:
 - '5'
 abstract: ''
 publication: '*Wiley*'
+url_pdf: http://deleeuwpdx.net/janspubs/1988/books/vanrijckevorsel_deleeuw_B_88.pdf
 ---

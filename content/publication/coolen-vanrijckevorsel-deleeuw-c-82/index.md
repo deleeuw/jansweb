@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '1982-01-01'
-lastmod: 2021-10-25T15:57:39-04:00
+lastmod: 2021-06-06T12:54:16-07:00
 featured: false
 draft: false
 
@@ -30,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:39.358848Z'
+publishDate: '2021-10-25T19:24:16.151273Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*COMSTAT 1982*'
+url_pdf: http://deleeuwpdx.net/janspubs/1982/chapters/coolen_vanrijckevorsel_deleeuw_C_82.pdf
 ---

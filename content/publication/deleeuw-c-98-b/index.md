@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '1998-01-01'
-lastmod: 2021-10-25T15:57:23-04:00
+lastmod: 2021-06-06T12:53:44-07:00
 featured: false
 draft: false
 
@@ -27,9 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:23.172628Z'
+publishDate: '2021-10-25T19:23:59.639200Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Visualization of Categorical Data*'
+url_pdf: http://deleeuwpdx.net/janspubs/1998/chapters/deleeuw_C_98b.pdf
 ---

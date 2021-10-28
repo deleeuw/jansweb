@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2021-10-25T15:57:18-04:00
+lastmod: 2021-06-06T12:53:33-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:17.933084Z'
+publishDate: '2021-10-25T19:23:54.684229Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*Scaling and Uncertainty Analysis in Ecology: Methods and Applications*'
+url_pdf: http://deleeuwpdx.net/janspubs/2006/chapters/berk_deleeuw_C_06a.pdf
 ---

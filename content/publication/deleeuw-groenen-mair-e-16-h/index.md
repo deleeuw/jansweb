@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2021-10-25T15:56:45-04:00
+lastmod: 2021-06-06T12:52:59-07:00
 featured: false
 draft: false
 
@@ -29,9 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:56:45.348142Z'
+publishDate: '2021-10-25T19:23:22.435724Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/pubfolders/qStress/qStress.pdf
+doi: 10.13140/RG.2.1.4843.1764
 ---

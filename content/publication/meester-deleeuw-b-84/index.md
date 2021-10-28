@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1984-01-01'
-lastmod: 2021-10-25T15:58:03-04:00
+lastmod: 2021-06-06T12:54:45-07:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:58:03.839577Z'
+publishDate: '2021-10-25T19:24:46.018405Z'
 publication_types:
 - '5'
 abstract: ''
 publication: '*Department of Data Theory FSW/RUL*'
+url_pdf: http://deleeuwpdx.net/janspubs/1984/books/meester_deleeuw_B_84.pdf
 ---

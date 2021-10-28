@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2021-10-25T15:57:52-04:00
+lastmod: 2021-06-06T12:54:33-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:52.637242Z'
+publishDate: '2021-10-25T19:24:37.428891Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Computational Statistics and Data Analysis*'
+url_pdf: http://deleeuwpdx.net/janspubs/2009/articles/deleeuw_lange_A_09.pdf
+doi: 10.1016/j.csda.2009.01.002
 ---

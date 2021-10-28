@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1989-01-01'
-lastmod: 2021-10-25T15:57:31-04:00
+lastmod: 2021-06-06T12:53:56-07:00
 featured: false
 draft: false
 
@@ -29,10 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:31.490726Z'
+publishDate: '2021-10-25T19:24:07.831765Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Statistical Modelling. Proceedings of GLIM 89 and the 4th International
   Workshop on Statistical Modelling*'
+url_pdf: http://deleeuwpdx.net/janspubs/1989/chapters/vanderheijden_mooijaart_deleeuw_C_89.pdf
 ---

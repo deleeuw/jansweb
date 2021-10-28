@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2021-10-25T15:57:54-04:00
+lastmod: 2021-06-06T12:54:35-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:57:54.517247Z'
+publishDate: '2021-10-25T19:24:38.813217Z'
 publication_types:
 - '3'
 abstract: ''
 publication: ''
+url_pdf: http://deleeuwpdx.net/janspubs/2003/notes/deleeuw_michailidis_U_03.pdf
 ---

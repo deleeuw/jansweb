@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2021-10-25T15:56:47-04:00
+lastmod: 2021-06-06T12:53:00-07:00
 featured: false
 draft: false
 
@@ -28,9 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-25T19:56:46.910590Z'
+publishDate: '2021-10-25T19:23:23.978200Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Empirical Generalisations in Marketing Science*'
+url_pdf: http://deleeuwpdx.net/janspubs/2013/articles/hoffman_deleeuw_A_13.pdf
 ---
