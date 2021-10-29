@@ -91,7 +91,11 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
+<<<<<<< HEAD
 &lt;div id=&#34;chart-892576413&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+=======
+&lt;div id=&#34;chart-791863542&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+>>>>>>> parent of 2793936d (Revert "prep")
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -101,7 +105,11 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+<<<<<<< HEAD
         Plotly.plot(&#39;chart-892576413&#39;, chart.data, chart.layout, {responsive: true});
+=======
+        Plotly.plot(&#39;chart-791863542&#39;, chart.data, chart.layout, {responsive: true});
+>>>>>>> parent of 2793936d (Revert "prep")
       });
     }, 500 );
   })();
