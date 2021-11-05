@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Jan de Leeuw
 # Is this the primary user of the site?
 superuser: true
 
