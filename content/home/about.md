@@ -1,5 +1,9 @@
 ---
-title: "About"
+widget: about
+weight: 1
+headless: true
+active: true
+title: "Jan de Leeuw"
 date: "2016-05-05T21:48:51-07:00"
 ---
 
