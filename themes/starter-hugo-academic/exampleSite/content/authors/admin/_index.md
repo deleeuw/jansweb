@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Jan de Leeuw
+title: Nelson Bighetti
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Distinguished Professor Emeritus
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California Los Angeles
-- url: https://www.ucla.edu/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -72,6 +73,8 @@ email: ""
 highlight_name: false
 ---
 
-Jan de Leeuw is a retired (but not finished) Distinguished Professor of Statistics, former chairperson of the Department of Data Theory at Leiden University, founding chair and long-time chairperson of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor and long-time editor-in-chief of the Journal of Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, former editor-in-chief of the Journal of Educational and Behavioral Statistics, fellow of the American Statistical Association, fellow of the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
