@@ -37,7 +37,7 @@ contact_links:
     icon_pack: fab
     name: Git Me
     link: 'https://github.com/deleeuw'
-  - icon: wikipedia
+  - icon: fa-wikipedia-w
     icon_pack: fab
     name: Wiki Me
     link: https://en.wikipedia.org/wiki/Jan_de_Leeuw
