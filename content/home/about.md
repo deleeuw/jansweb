@@ -1,6 +1,6 @@
 ---
 widget: about
-author: admin
+author: 'admin'
 
 headless: true
 active: true
