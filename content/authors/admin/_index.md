@@ -32,6 +32,9 @@ education:
   - course: Candidaat Psychologie (BA)
     institution: Leiden University
     year: 1967
+  - course: Propedeuse Psychologie (--)
+    institution: Leiden University
+    year: 1965
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
