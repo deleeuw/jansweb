@@ -12,27 +12,26 @@ organizations:
 - name: University of California Los Angeles
 - url: https://www.ucla.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Statistics
+- Multivariate Analysis
+- Optimization
+- R/C Programming
+- Open Source/Open Access
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doctor Social Sciences (PhD)
+    institution: Leiden University
+    year: 1973
+  - course: Doctorandus Psychologie (MSc)
+    institution: Leiden University
+    year: 1969
+  - course: Candidaat Psychologie (BA)
+    institution: Leiden University
+    year: 1967
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,8 +52,7 @@ social:
   link: https://github.com/deleeuw
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
+  link: https://www.linkedin.com/in/jan-de-leeuw-3976471a2/
 ---
 
 Jan de Leeuw is a retired (but not finished) Distinguished Professor of Statistics, former chairperson of the Department of Data Theory at Leiden University, founding chair and long-time chairperson of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor and long-time editor-in-chief of the Journal of Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, former editor-in-chief of the Journal of Educational and Behavioral Statistics, fellow of the American Statistical Association, fellow of the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences.
