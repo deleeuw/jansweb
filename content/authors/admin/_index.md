@@ -39,9 +39,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -50,28 +47,14 @@ social:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Ccp--gIAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/deleeuw
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
 ---
 
 Jan de Leeuw is a retired (but not finished) Distinguished Professor of Statistics, former chairperson of the Department of Data Theory at Leiden University, founding chair and long-time chairperson of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor and long-time editor-in-chief of the Journal of Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, former editor-in-chief of the Journal of Educational and Behavioral Statistics, fellow of the American Statistical Association, fellow of the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
