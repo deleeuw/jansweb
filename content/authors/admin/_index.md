@@ -15,7 +15,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Computational Statistics
-- Multivariate Analysis
+- Multivariate Data Analysis
 - Optimization
 - R/C Programming
 - Open Source/Open Access
@@ -29,12 +29,12 @@ education:
   - course: Doctorandus Psychologie (MSc)
     institution: Leiden University
     year: 1969
-  - course: Candidaat Psychologie (BA)
+  - course: Candidaat Psychologie (BSc)
     institution: Leiden University
     year: 1967
-  - course: Propedeuse Psychologie (--)
+  - course: Propedeuse Psychologie
     institution: Leiden University
-    year: 1965
+    year: 1964
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
