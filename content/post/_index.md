@@ -6,10 +6,10 @@ header:
 title: Background
 view: 1
 ---
-1. **Statistics** is the discipline that proposes **statistical techniques**, and compares and analyzes their performance on real and artificial data. 
+1. **Jan's Statistics** is the discipline that proposes **statistical techniques**, and compares and analyzes their performance on real and artificial data.
 2. A **statistical technique** is a map of a **data space** into a **representation space**, usually coupled with an **algorithm** and an **implementation**.
-4. A **statistical model** is a mathematical structure used to gauge statistical techniques. A model, of course, is never "true".
-5. Statistics, unlike **data analysis**, is not concerned with inference, induction, probabilistic reasoning, or causal analysis.
+4. A **statistical model** is a mathematical structure used to gauge statistical techniques. 
+5. Jan's Statistics, unlike **data analysis**, is not concerned with inference, induction, probabilistic reasoning, or causal analysis.
 6. The **data space** is the set of all possible outcomes of a given data collection effort. For example: all possible
     - results of a multiple choice (attitude/intelligence/personality) test on a number of subjects;
     - outcomes of a clinical trial on a number of subjects;
@@ -24,8 +24,7 @@ view: 1
     - cross tables;
     - graphs and plots;
     - regression coefficients.
-8. Continuity and smoothness, defined by using suitable topologies, are the most interesting aspects of statistical techniques. They define the **stability** of the technique under perturbations of various types.
-
+8. Continuity and smoothness, defined by using suitable topologies, are the most interesting aspects of statistical techniques. They define the **stability** of the technique under various types of perturbations.
 
 
 
