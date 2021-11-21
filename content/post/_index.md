@@ -6,9 +6,11 @@ header:
 title: Background
 view: 1
 ---
-1. **Jan's Statistics** is the discipline that proposes **statistical techniques**, and compares and analyzes their performance on real and artificial data.
-2. A **statistical technique** is a map of a **data space** into a **representation space**, usually coupled with an **algorithm** and an **implementation**.
-4. A **statistical model** is a mathematical structure used to gauge statistical techniques. 
+&#9658; **Jan's Statistics** is the discipline that proposes **statistical techniques**, provides **descriptions** and **implementations** of these techniques, and compares and analyzes their properties using real and artificial data. Jan's Statistics is not **data analysis**, because a set of tools and manuals is not identical with their use.
+Unlike data analysis it is not concerned with inference, induction, probabilistic reasoning, or causal analysis.
+
+&#9658; A **statistical technique** is a map of a **data space** into a **representation space**.
+
 5. Jan's Statistics, unlike **data analysis**, is not concerned with inference, induction, probabilistic reasoning, or causal analysis.
 6. The **data space** is the set of all possible outcomes of a given data collection effort. For example: all possible
     - results of a multiple choice (attitude/intelligence/personality) test on a number of subjects;
