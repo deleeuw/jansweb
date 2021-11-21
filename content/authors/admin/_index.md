@@ -11,6 +11,8 @@ role: Distinguished Professor Emeritus
 organizations:
 - name: University of California Los Angeles
 - url: https://www.ucla.edu/
+- image: static/jan_sprout.jpg
+
 
 # Interests to show in About widget
 interests:
