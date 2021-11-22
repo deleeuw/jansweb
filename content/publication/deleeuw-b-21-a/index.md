@@ -13,6 +13,7 @@ lastmod: 2021-06-07T13:36:06-07:00
 featured: true
 draft: false
 url_project: "https://github.com/deleeuw/stress"
+https://github.com/deleeuw/gifi/blob/main/_book/_main.pdf
 url_pdf: "https://github.com/deleeuw/stress/blob/main/_book/_main.pdf"
 # url_source: "https://github.com/deleeuw/stress/blob/main/_book/index.html"
 
