@@ -11,7 +11,7 @@ view: 1
 &#9658; A **technique** is a map of **carrier space** into **target space**.
 Both spaces are often, but not necessarily, real linear spaces.
 
-&#9658; Gifi Statistics is not **data theory**. Design, collection, coding, and cleaning of data prepares the input of the technique. Our job has not started yet.
+&#9658; Gifi Statistics is not **data theory**. Design, collection, coding, and cleaning of data prepare the input of the technique. Our job has not started yet.
 
 &#9658; Gifi Statistics is not **data analysis**. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique. Our job is already done.
 
