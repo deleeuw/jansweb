@@ -2,7 +2,7 @@
 cms_exclude: true
 header:
   caption: ""
-  image: "gg.jpg"
+  image: ""
 title: Background
 view: 1
 ---
