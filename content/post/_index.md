@@ -12,8 +12,8 @@ view: 1
 
 &#9658; The **data space** is the set of all possible outcomes of a given experiment or other data collection effort. For example: all possible
 
-    - results of a multiple choice (attitude/intelligence/personality) test on a number of subjects;
-    - outcomes of a clinical trial on a number of subjects;
+    1. results of a multiple choice (attitude/intelligence/personality) test on 100 subjects;
+    2. outcomes of a clinical trial on a number of subjects;
     - outcomes of a survey on a number of voters;
     - essays in an essay test on a number of students;
     - event histories in a longitudinal study of a number of individuals;
