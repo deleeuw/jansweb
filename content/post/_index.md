@@ -2,7 +2,7 @@
 cms_exclude: true
 header:
   caption: ""
-  image: "https://github.com/deleeuw/jansweb/blob/main/static/gg.png"
+  image: "gg.png"
 title: Background
 view: 1
 ---
