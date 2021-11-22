@@ -21,7 +21,7 @@ Both spaces are often, but not necessarily, real linear spaces.
 
 &#9658; Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the most interesting aspects of statistical techniques. They define the **stability** of the technique under various types of perturbations.
 
-&#9658; A **package** is a technique, including a description of carrier/data and target/representation space, plus an algorithm, plus an implementation, plus a manual, plus a license. A package is **incomplete** if it does not have some form of stability analysis. A package is **inaccessible** if its components are not open source and open access.
+&#9658; A **package** is a technique, including a description of carrier/data and target/representation space, plus an algorithm, plus an implementation, plus a manual, plus examples, plus a stability analysis, plus a license. A package is **incomplete** if it does not all these components, and **inaccessible** if its components are not open source and open access.
 
 &#9658; For more details, see Albert Gifi, *Nonlinear Multivariate Analysis*,
 John Wiley & Sons, Chichester, 1990, Chapter 1, Section 5.
