@@ -3,17 +3,17 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: JansStatistics
+title: Computational Statistics
 view: 1
 ---
-&#9658; **JansStatistics** is the discipline that proposes **techniques**, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data. 
+&#9658; **Computational Statistics** is the discipline that proposes **techniques**, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data. 
 
 &#9658; A **technique** is a map of **carrier space** into **target space**.
 Both spaces are often, but not necessarily, real linear spaces.
 
-&#9658; JansStatistics is not **data theory**. Design, collection, coding, and cleaning of data prepare the input of the technique. Our job has not started yet.
+&#9658;  Computational Statistics is not **data theory**. Design, collection, coding, and cleaning of data prepare the input of the technique. Our job has not started yet.
 
-&#9658; JansStatistics is not **data analysis**. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique. Our job is already done.
+&#9658; Computational Statistics is not **data analysis**. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique. Our job is already done.
 
 &#9658; **Data space** is a finite subset of carrier space. It is the set of codings of all possible outcomes of a given experiment or other data collection effort. For example: coded versions of all possible results of a multiple choice (attitude/intelligence/personality) test on a number of subjects, outcomes of a clinical trial on a number of subjects, outcomes of a survey of a number of voters, essays in an essay test of a number of students, event histories in a longitudinal study of a number of individuals, heights and weights of a number of soldiers, dissimilarity matrices of a number of colors.
 

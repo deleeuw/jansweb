@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: publication/
     weight: 30
-  - name: JansStatistics
+  - name: Computational Statistics
     url: post/
     weight: 35
   - name: Contact
