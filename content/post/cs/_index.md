@@ -3,7 +3,7 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: 'Computational Statistics'
+title: 'On Computational Statistics'
 date: 2021-11-24
 view: 1
 ---
