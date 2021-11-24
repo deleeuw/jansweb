@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
  - name: Computational Statistics
-    url: post/cs
+    url: post/cs/
     weight: 15
   - name: Featured
     url: '#featured'
