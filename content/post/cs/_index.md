@@ -3,7 +3,8 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Computational Statistics
+title: 'Computational Statistics'
+date: 2021-11-24
 view: 1
 ---
 &#9658; **Computational Statistics** is the discipline that proposes **techniques**, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data. 
@@ -11,7 +12,7 @@ view: 1
 &#9658; A **technique** is a map of **carrier space** into **target space**.
 Both spaces are often, but not necessarily, real linear spaces.
 
-&#9658;  Computational Statistics is not **data theory**. Design, collection, coding, and cleaning of data prepare the input of the technique. Our job has not started yet.
+&#9658;  Computational Statistics is not **data theory**. Design, collection, coding, and cleaning of data prepare the input fot the technique. Our job has not started yet.
 
 &#9658; Computational Statistics is not **data analysis**. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique. Our job is already done.
 
