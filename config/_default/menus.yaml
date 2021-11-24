@@ -7,6 +7,9 @@ main:
   - name: About
     url: '#about'
     weight: 10
+ - name: Computational Statistics
+    url: post/cs
+    weight: 15
   - name: Featured
     url: '#featured'
     weight: 20
@@ -16,8 +19,8 @@ main:
   - name: Publications
     url: publication/
     weight: 30
-  - name: Computational Statistics
-    url: post/
+  - name: My Name
+    url: post/name
     weight: 35
   - name: Contact
     url: '#contact'
