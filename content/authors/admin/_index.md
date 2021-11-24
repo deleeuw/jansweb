@@ -47,7 +47,7 @@ social:
   label: Follow me on Twitter
   display:
     header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai`
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Ccp--gIAAAAJ&hl=en&oi=ao
 - icon: github
@@ -59,3 +59,4 @@ social:
 ---
 Jan de Leeuw is a retired (but not finished) Distinguished Professor of Statistics, former chairperson of the Department of Data Theory at Leiden University, founding chair and long-time chairperson of the UCLA Department of Statistics, former president of the Psychometric Society, founding editor and long-time editor-in-chief of the Journal of Statistical Software, long-time editor-in-chief of the Journal of Multivariate Analysis, former editor-in-chief of the Journal of Educational and Behavioral Statistics, fellow of the American Statistical Association, fellow of the Institute of Mathematical Statistics, and corresponding member of the Royal Netherlands Academy of Sciences.
 
+{{< audio src="jan.mp3" >}}
