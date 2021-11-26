@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Say My Name | JansWeb</title>
+    <link>http://jansweb.netlify.app/post/name/</link>
+      <atom:link href="http://jansweb.netlify.app/post/name/index.xml" rel="self" type="application/rss+xml" />
+    <description>Say My Name</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jansweb.netlify.app/post/name/featured.jpg</url>
+      <title>Say My Name</title>
+      <link>http://jansweb.netlify.app/post/name/</link>
+    </image>
+    
+  </channel>
+</rss>

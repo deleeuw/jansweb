@@ -11,6 +11,18 @@
     <loc>http://jansweb.netlify.app/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://jansweb.netlify.app/post/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/post/cs/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/post/name/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://jansweb.netlify.app/publication-type/5/</loc>
     <lastmod>2021-06-07T13:36:06-07:00</lastmod>
   </url><url>
@@ -22,9 +34,6 @@
   </url><url>
     <loc>http://jansweb.netlify.app/author/jan-de-leeuw/</loc>
     <lastmod>2021-06-07T13:36:06-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/</loc>
-    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication_types/</loc>
     <lastmod>2021-09-03T13:28:58-07:00</lastmod>
@@ -50,30 +59,6 @@
     <loc>http://jansweb.netlify.app/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
     <loc>http://jansweb.netlify.app/publication-type/0/</loc>
     <lastmod>2021-06-11T12:39:10-07:00</lastmod>
   </url><url>
@@ -94,15 +79,6 @@
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-e-20-d/</loc>
     <lastmod>2021-06-06T12:52:51-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/author/jan-de-leeuw/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -255,6 +231,9 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-groenen-pietersz-e-16-m/</loc>
@@ -2760,5 +2739,9 @@
     <lastmod>2021-06-06T12:54:36-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/admin/</loc>
+  </url><url>
+    <loc>http://jansweb.netlify.app/categories/</loc>
+  </url><url>
+    <loc>http://jansweb.netlify.app/author/jan-de-leeuw/</loc>
   </url>
 </urlset>
