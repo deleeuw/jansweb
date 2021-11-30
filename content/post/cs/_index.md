@@ -21,7 +21,7 @@ view: 1
  
 &#9658; Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the most interesting aspects of statistical techniques. They define the **stability** of the technique under various types of perturbations. **Inferential Statistics** studies the stability of techniques under the perturbations of random sampling .
 
-&#9658; A **package** is a technique, including a description of carrier/data and target/representation space,  an algorithm, an implementation, a manual, examples, a stability analysis, and a license. A package is **incomplete** if it does not all these components, and **inaccessible** if its components are not open source and open access.
+&#9658; A **package** is a technique, with a description of carrier/data and target/representation spaces,  an algorithm, an implementation, a manual, examples, a stability analysis, and a license. A package is **incomplete** if it does not have all these components, and **inaccessible** if its components are not open source and open access.
 
 &#9658; For more details, see Albert Gifi, *Nonlinear Multivariate Analysis*,
 John Wiley & Sons, Chichester, 1990, Chapter 1, Section 5.
