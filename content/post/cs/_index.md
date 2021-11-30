@@ -17,7 +17,7 @@ view: 1
 
 &#9658; **Data space** is a finite subset of carrier space. It is the set of codings of all possible outcomes of a given experiment or other data collection effort. 
 
-&#9658; **Representation space** is a finite subset of target space. It is the set of all outputs of the technique applied to the data space.
+&#9658; **Representation space** is a finite subset of target space. It is the set of all outputs of the technique applied to elements of the data space.
  
 &#9658; Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the most interesting aspects of statistical techniques. They define the **stability** of the technique under various types of perturbations. **Inferential Statistics** studies the stability of techniques under the perturbations of random sampling .
 
