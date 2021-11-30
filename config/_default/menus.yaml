@@ -7,7 +7,7 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: 'On Computational Statistics'
+  - name: 'On TDA'
     url: post/cs
     weight: 15
   - name: Featured
