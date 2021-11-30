@@ -19,8 +19,7 @@ view: 1
 
 &#9658; **Representation space** is a finite subset of target space. It is the set of all outputs of the technique applied to the data space.
  
-&#9658; Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the most interesting aspects of statistical techniques. They define the **stability** of the technique under various types of perturbations. *Inferential Satistics* studies the stability
-of techniques under perturbations by random sampling .
+&#9658; Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the most interesting aspects of statistical techniques. They define the **stability** of the technique under various types of perturbations. *Inferential Statistics* studies the stability of techniques under the perturbations of random sampling .
 
 &#9658; A **package** is a technique, including a description of carrier/data and target/representation space,  an algorithm, an implementation, a manual, examples, a stability analysis, and a license. A package is **incomplete** if it does not all these components, and **inaccessible** if its components are not open source and open access.
 
