@@ -8,13 +8,13 @@ date: 2021-11-24
 view: 1
 ---
 
-&#9658; **TDA** is the discipline that proposes **techniques**, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data. 
+&#9658; **TDA** is the discipline that proposes techniques, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data. 
 
-&#9658; A **technique** is a map of **carrier space** into **target space**.
+&#9658; A **technique** is a map of carrier space into target space.
 
-&#9658; **Carrier space** is a superset of **data space**. Data space is the finite set of codings of all possible outcomes of a given experiment or other data collection effort. 
+&#9658; **Carrier space** is a superset of data space. **Data space** is the finite set of codings of all possible outcomes of a given experiment or other data collection effort. 
 
-&#9658; **Target space** is a superset of **representation space**. Representation space is the finite set of all outputs of the technique applied to elements of the data space.
+&#9658; **Target space** is a superset of representation space. **Representation space** is the finite set of all outputs of the technique applied to elements of the data space.
 
 &#9658;  TDA is not **data theory**. Design, collection, coding, and cleaning of data prepare the input fot the technique: TDA's job has not started yet.
 
