@@ -18,7 +18,9 @@ view: 1
 
 &#9658;  TDA is not **data theory**. Design, collection, coding, and cleaning of data prepare the input fot the technique: TDA's job has not started yet.
 
-&#9658; TDA is not **data analysis** or **nachine learning**. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique: TDA's job is already done.
+&#9658; TDA is not **data analysis** or **machine learning**. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique: TDA's job is already done.
+
+&#9658; In TDA **models** are **gauges** for techniques. TDA investigates how a technique performs on data with known properties.
  
 &#9658; Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the more interesting aspects of statistical techniques. They define the **stability** of the technique under various types of perturbations. **Inferential statistics** studies the stability of techniques under the perturbations of random sampling .
 
