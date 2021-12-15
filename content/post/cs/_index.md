@@ -10,7 +10,7 @@ view: 1
 
 &#9658; **TDA** is the discipline that proposes techniques, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data. 
 
-&#9658; A **technique** &#x1D70F; is a map of carrier space into target space.
+&#9658; A **technique** is a map of carrier space into target space.
 
 &#9658; **Carrier space** is a superset of data space. **Data space** is the finite set of codings of all possible outcomes of a given experiment or other data collection effort. 
 
