@@ -225,9 +225,8 @@ Yes.
 
 **So you&#39;re retired, but you&#39;re still doing work.**
 
-I&#39;m producing more than I have for 30 years, 40 years. I&#39;m working with the Patricks, the two Patricks
-# 8
- on this new version of the GIFI project, so that&#39;s one thing. With the same two Patricks, I&#39;m also working on the new multidimensional scaling programs. And everything we do these days consists of publications, many of them electronic and open source. And we&#39;re working on the programs in R, that&#39;s a relatively new way of making things, which is very convenient for me. Since I&#39;m retired I don&#39;t really care whether something gets published or not. If people want to see something I wrote they know where to find it; they can Google me or look at my website. That&#39;s probably a suboptimal way of producing things if you need tenure somewhere, but it&#39;s quick.
+I&#39;m producing more than I have for 30 years, 40 years. I&#39;m working with the aforementioned Patricks, Mair and Groenen,
+on this new version of the GIFI project, so that&#39;s one thing. With the same two Patricks, I&#39;m also working on the new multidimensional scaling programs. And everything we do these days consists of publications, many of them electronic and open source. And we&#39;re working on the programs in R, that&#39;s a relatively new way of making things, which is very convenient for me. Since I&#39;m retired I don&#39;t really care whether something gets published or not. If people want to see something I wrote they know where to find it; they can Google me or look at my website. That&#39;s probably a suboptimal way of producing things if you need tenure somewhere, but it&#39;s quick.
 
 **It&#39;s perfect for you.**
 
