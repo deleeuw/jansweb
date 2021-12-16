@@ -10,6 +10,9 @@ main:
   - name: 'On TDA'
     url: post/cs
     weight: 15
+  - name: 'Interview'
+    url: post/wijsen
+    weight: 18
   - name: Featured
     url: '#featured'
     weight: 20

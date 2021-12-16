@@ -9,7 +9,7 @@ output:
     number_sections: no
     toc: no
 fontsize: 12pt
-abstract: See Lisa D. Wijsen and Denny Borsboom *Perspectives on Psychometrics   Interviews with 20 Past Psychometric Society Presidents*, Psychometrika volume 86, pages 327–343 (2021).
+abstract: See Lisa D. Wijsen and Denny Borsboom *Perspectives on Psychometrics Interviews with 20 Past Psychometric Society Presidents*, Psychometrika volume 86, pages 327–343 (2021).
 ---
 # Interview
 
