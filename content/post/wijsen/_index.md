@@ -1,17 +1,6 @@
 ---
 title: "Interview of Jan de Leeuw by Lisa Wijsen" 
-output:
-  bookdown::html_document2:
-    keep_md: yes
-    number_sections: no
-    toc: no
-  bookdown::pdf_document2:
-    number_sections: no
-    toc: no
-fontsize: 12pt
-abstract: See Lisa D. Wijsen and Denny Borsboom *Perspectives on Psychometrics Interviews with 20 Past Psychometric Society Presidents*, Psychometrika volume 86, pages 327–343 (2021).
 ---
-# Interview
 
 **Okay, thank you Jan for your participation in this project on the history of psychometrics. I&#39;ll ask questions about three themes, your career, the relation between psychology and psychometrics or other fields than psychometrics, and of course your view on the history and future of psychometrics. And I always start with the question, how did you end up in psychometrics?**
 
@@ -254,22 +243,15 @@ It&#39;s perfect for me and in a sense it&#39;s funny, because that&#39;s exactl
 
 **The circle comes back around. Thank you for this interview!**
 
-[1](#sdfootnote1anc)Albert Gifi (1990). _Nonlinear Multivariate Analysis_ (Eds. W. J. Heiser, J. J. Meulman, G. van der Berg). New York: Wiley.
 
-[2](#sdfootnote2anc) Dutch organization for scientific research.
 
-[3](#sdfootnote3anc) Meerling. (1981). _Methoden en technieken van psychologisch onderzoek, deel II. Data analyse en Psychometrie_. Boom, Meppel.
+Albert Gifi (1990). _Nonlinear Multivariate Analysis_ (Eds. W. J. Heiser, J. J. Meulman, G. van der Berg). New York: Wiley.
+
+NWO = Dutch organization for scientific research.
+
+Meerling (1981). _Methoden en technieken van psychologisch onderzoek, deel II. Data analyse en Psychometrie_. Boom, Meppel.
 
 Meerling (1980). _Methoden en technieken van psychologisch onderzoek, deel I. Model, observatie en beslissing._ Boom, Meppel.
 
-[4](#sdfootnote4anc) See Chapter 2 for an interview with Peter Bentler.
+Patrick Groenen (Erasmus University Rotterdam) and Patrick Mair (Harvard University).
 
-[5](#sdfootnote5anc)
-
-[6](#sdfootnote6anc)
-
-[7](#sdfootnote7anc) For an interview with Bengt Muthén, see chapter 6.
-
-[8](#sdfootnote8anc) Patrick Groenen (Erasmus University Rotterdam) and Patrick Mair (Harvard University).
-
-13
