@@ -37,14 +37,10 @@ Yes, I did my Ph.D. in 1973. I was invited to go to Bell Laboratories in New Jer
 **Well, can you still explain it for people like me, who don&#39;t fully understand the title?**
 
 It was the precursor of what was later known as the GIFI system, which is a large reorganization of descriptive multivariate analysis techniques in such a way that they apply both to numerical and multi-numerical data. That covers regression and principal components analysis, factor analysis, all those techniques in one common framework and ultimately in a series of computer programs as well. My dissertation was basically the first programmatic statement of that program. The GIFI project itself ran until about 1990, I left in 1987, but there was still some ends to wrap up and the data theory group in Leiden that still existed at the time, wrapped up those loose ends. They produced a book, the final version of the GIFI book
-# 1
-.
 
 **That was one of your major topics right, in your career, GIFI.**
 
-Certainly in the first part of my career, after I came back from Bell Laboratories basically, so that was in 1974. We started developing the computer programs in 1974, at the time we were in the computing center of the University, on the Wassenaarseweg, and that grew into the GIFI project. We got pretty large grants from NWO
-# 2
-, the basic grant organization for sciences, and we started hiring people. Ultimately the GIFI group was about maybe 10 - 15 people who were working on the postdoctoral course that we taught in 1980 and 1981, and on the book that eventually came out in 1990.
+Certainly in the first part of my career, after I came back from Bell Laboratories basically, so that was in 1974. We started developing the computer programs in 1974, at the time we were in the computing center of the University, on the Wassenaarseweg, and that grew into the GIFI project. We got pretty large grants from NWO, the basic Netherlands grant organization for sciences, and we started hiring people. Ultimately the GIFI group was about maybe 10 - 15 people who were working on the postdoctoral course that we taught in 1980 and 1981, and on the book that eventually came out in 1990.
 
 **The book was named after a certain person right.**
 
@@ -52,9 +48,7 @@ It was named after a butler, Francis Galton&#39;s butler.
 
 **Why Francis Galton&#39;s butler?**
 
-The reasoning was that Francis Galton&#39;s butler got a raw deal from Galton, when Galton died. He served him for 25 years, he only got a couple of hundred pounds, and most of Galton&#39;s fortune, which was considerable, went to establishing the first chair of statistics, he donated a chair to university college. He only gave his faithful Swiss butler 500 bucks. So we needed a pseudonym, and we chose Gifi. It&#39;s similar to &#39;Meerling&#39;, which were two books that were also written by a collective of authors, mostly in the methodology department of psychology, but data theory was also involved, and they also adopted a pseudonym, Meerling
-# 3
-. Now, Meerling was not a real person obviously, it just means &#39;multiple persons&#39; in Dutch.
+The reasoning was that Francis Galton&#39;s butler got a raw deal from Galton, when Galton died. He served him for 25 years, he only got a couple of hundred pounds, and most of Galton&#39;s fortune, which was considerable, went to establishing the first chair of statistics, he donated a chair to university college. He only gave his faithful Swiss butler 500 bucks. So we needed a pseudonym, and we chose Gifi. It&#39;s similar to &#39;Meerling&#39;, which were two books that were also written by a collective of authors, mostly in the methodology department of psychology, but data theory was also involved, and they also adopted a pseudonym, Meerling. Now, Meerling was not a real person obviously, it just means &#39;multiple persons&#39; in Dutch.
 
 **So you wanted to honor this butler?**
 
@@ -92,8 +86,7 @@ I was president of the Psychometric Society in I think 1987, which is also when 
 
 Sure, yes. Medical data, astronomy data, satellites, traffic data, bank data, credit cards, anything, name it. Because there was now a general statistics department for the whole campus and we had a consulting center established early on, we got clients from all over the university. Probably most clients came from the medical sciences actually, but they also came from astronomy, from chemistry, from all kinds of departments.
 
-**I reckon Peter Bentler is also part of the department?
-# 4**
+**I reckon Peter Bentler is also part of the department?**
 
 Peter Bentler has a joint appointment in psychology and statistics, so he&#39;s half psychology, half statistics.
 
@@ -216,8 +209,7 @@ I think that the general idea of latent structure analysis, with as its special 
 **What is still the biggest hurdle, or the biggest challenge, for psychometrics?**
 
 That would probably be the training or education that future psychometricians receive. I&#39;m not entirely sure about the situation at other universities, but I know that at UCLA, there&#39;s some psychometric teaching and education, but Bengt Muthén
-# 7
- can probably tell you more about that. And there&#39;s some training in psychology and Peter Bentler can tell you more about that, but it&#39;s fairly minimal. I also think that probably there&#39;s not enough contact, even now, between psychometrics centers and official academic statistics. Obviously we try to do something about that, but it has only been partially successful. It&#39;s easy to make joint appointments but it&#39;s more difficult to integrate teaching activities in different departments. So I think it&#39;s probably a challenge to keep things going in psychometrics. It&#39;s not a big field, it doesn&#39;t have a big journal, it&#39;s not a big society; it&#39;s marginal. Psychometrics should be much larger I think, if they capitalize on the fact that there&#39;s now data all over the place; the whole world is filled with data.
+can probably tell you more about that. And there&#39;s some training in psychology and Peter Bentler can tell you more about that, but it&#39;s fairly minimal. I also think that probably there&#39;s not enough contact, even now, between psychometrics centers and official academic statistics. Obviously we try to do something about that, but it has only been partially successful. It&#39;s easy to make joint appointments but it&#39;s more difficult to integrate teaching activities in different departments. So I think it&#39;s probably a challenge to keep things going in psychometrics. It&#39;s not a big field, it doesn&#39;t have a big journal, it&#39;s not a big society; it&#39;s marginal. Psychometrics should be much larger I think, if they capitalize on the fact that there&#39;s now data all over the place; the whole world is filled with data.
 
 **So psychometrics has the potential to be bigger.**
 
@@ -247,11 +239,7 @@ It&#39;s perfect for me and in a sense it&#39;s funny, because that&#39;s exactl
 
 Albert Gifi (1990). _Nonlinear Multivariate Analysis_ (Eds. W. J. Heiser, J. J. Meulman, G. van der Berg). New York: Wiley.
 
-NWO = Dutch organization for scientific research.
-
 Meerling (1981). _Methoden en technieken van psychologisch onderzoek, deel II. Data analyse en Psychometrie_. Boom, Meppel.
 
 Meerling (1980). _Methoden en technieken van psychologisch onderzoek, deel I. Model, observatie en beslissing._ Boom, Meppel.
-
-Patrick Groenen (Erasmus University Rotterdam) and Patrick Mair (Harvard University).
 
