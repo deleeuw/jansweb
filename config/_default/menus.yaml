@@ -12,22 +12,22 @@ main:
     weight: 15
   - name: 'Interview'
     url: post/wijsen
-    weight: 18
+    weight: 20
   - name: Featured
     url: '#featured'
-    weight: 20
+    weight: 25
   - name: Github
     url: https://github.com/deleeuw
-    weight: 25
+    weight: 30
   - name: YouTube
     url: https://www.youtube.com/c/JanDeleeuw/videos
-    weight: 28
+    weight: 35
   - name: Publications
     url: publication/
-    weight: 30
+    weight: 40
   - name: 'Say My Name'
     url: post/name
-    weight: 35
+    weight: 45
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 50
