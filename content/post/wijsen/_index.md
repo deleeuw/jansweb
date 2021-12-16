@@ -36,11 +36,11 @@ Yes, I did my Ph.D. in 1973. I was invited to go to Bell Laboratories in New Jer
 
 **Well, can you still explain it for people like me, who don&#39;t fully understand the title?**
 
-It was the precursor of what was later known as the GIFI system, which is a large reorganization of descriptive multivariate analysis techniques in such a way that they apply both to numerical and multi-numerical data. That covers regression and principal components analysis, factor analysis, all those techniques in one common framework and ultimately in a series of computer programs as well. My dissertation was basically the first programmatic statement of that program. The GIFI project itself ran until about 1990, I left in 1987, but there was still some ends to wrap up and the data theory group in Leiden that still existed at the time, wrapped up those loose ends. They produced a book, the final version of the GIFI book
+It was the precursor of what was later known as the Gifi system, which is a large reorganization of descriptive multivariate analysis techniques in such a way that they apply both to numerical and multi-numerical data. That covers regression and principal components analysis, factor analysis, all those techniques in one common framework and ultimately in a series of computer programs as well. My dissertation was basically the first programmatic statement of that program. The Gifi project itself ran until about 1990, I left in 1987, but there was still some ends to wrap up and the data theory group in Leiden that still existed at the time, wrapped up those loose ends. They produced a book, the final version of the Gifi book
 
-**That was one of your major topics right, in your career, GIFI.**
+**That was one of your major topics right, in your career, Gifi.**
 
-Certainly in the first part of my career, after I came back from Bell Laboratories basically, so that was in 1974. We started developing the computer programs in 1974, at the time we were in the computing center of the University, on the Wassenaarseweg, and that grew into the GIFI project. We got pretty large grants from NWO, the basic Netherlands grant organization for sciences, and we started hiring people. Ultimately the GIFI group was about maybe 10 - 15 people who were working on the postdoctoral course that we taught in 1980 and 1981, and on the book that eventually came out in 1990.
+Certainly in the first part of my career, after I came back from Bell Laboratories basically, so that was in 1974. We started developing the computer programs in 1974, at the time we were in the computing center of the University, on the Wassenaarseweg, and that grew into the Gifi project. We got pretty large grants from NWO, the basic Netherlands grant organization for sciences, and we started hiring people. Ultimately the Gifi group was about maybe 10 - 15 people who were working on the postdoctoral course that we taught in 1980 and 1981, and on the book that eventually came out in 1990.
 
 **The book was named after a certain person right.**
 
@@ -54,9 +54,9 @@ The reasoning was that Francis Galton&#39;s butler got a raw deal from Galton, w
 
 Yes. We also made it some sort of a little bit of a riddle, because we didn&#39;t publish initially who he actually was. There was a picture of him in the book but people still didn&#39;t know who he was. It was an old picture of a Victorian type of person; that was more mysterious than revealing who it actually was.
 
-**And is your GIFI work still finding applications?**
+**And is your Gifi work still finding applications?**
 
-Yes, as far as I&#39;m concerned, the project is still going on. We have a group which now consists of Patrick Mair, who is a professor at Harvard, and Patrick Groenen who is a professor at Erasmus, and me, and we&#39;re sort of doing a reorganization, a reworking of GIFI with new computer programs, new theory to some extent, and new algorithms. So that&#39;s still on going. It&#39;s not a group of 25 people anymore, but it&#39;s one of the things that I&#39;m doing in retirement.
+Yes, as far as I&#39;m concerned, the project is still going on. We have a group which now consists of Patrick Mair, who is a professor at Harvard, and Patrick Groenen who is a professor at Erasmus, and me, and we&#39;re sort of doing a reorganization, a reworking of Gifi with new computer programs, new theory to some extent, and new algorithms. So that&#39;s still on going. It&#39;s not a group of 25 people anymore, but it&#39;s one of the things that I&#39;m doing in retirement.
 
 **So you&#39;re not really retired. You are officially, but you&#39;re still working.**
 
@@ -72,7 +72,7 @@ Same type of work. One of the things that was going on at the time, was the work
 
 **Did you become assistant professor after?**
 
-I was already assistant professor. I&#39;m not entirely sure about the time scale, but I think I probably became, what was then called lector, in maybe 1975 and at some point, lectors were converted to full professors, in maybe 1976, 1977 something like that. So I became professor, and then eventually, van de Geer stepped back and I became the chair of data theory, which was around 1980. We also started to organize these GIFI post doctoral courses, and building out that project, until I left in 1987.
+I was already assistant professor. I&#39;m not entirely sure about the time scale, but I think I probably became, what was then called lector, in maybe 1975 and at some point, lectors were converted to full professors, in maybe 1976, 1977 something like that. So I became professor, and then eventually, van de Geer stepped back and I became the chair of data theory, which was around 1980. We also started to organize these Gifi post doctoral courses, and building out that project, until I left in 1987.
 
 **And then you went Los Angeles.**
 
@@ -192,7 +192,7 @@ I don&#39;t know how long I&#39;ll be remembered!
 
 **Who knows . What are you most proud of? Perhaps that&#39;s a better question.**
 
-The UCLA department of statistics is probably the most permanent thing that I helped establish and I was sort of instrumental in having it established. It&#39;s interesting, because it started small obviously, it started slowly because there was a lot of opposition, and then you see it growing, and now there are about 300 to 400 people involved, students and faculty and staff, so I think that&#39;s large accomplishment. I obviously didn&#39;t do it alone, but I think made a substantial contribution to it. From the scientific point of view, I did some fundamental work in multidimensional scaling - I&#39;m still doing fundamental work - and there&#39;s the whole GIFI system, which I&#39;ve been doing since basically 1968. That&#39;s a large amount of work which has produced a huge number of students, who did their dissertations with me or with other people after I left, so that&#39;s a continuing tradition.
+The UCLA department of statistics is probably the most permanent thing that I helped establish and I was sort of instrumental in having it established. It&#39;s interesting, because it started small obviously, it started slowly because there was a lot of opposition, and then you see it growing, and now there are about 300 to 400 people involved, students and faculty and staff, so I think that&#39;s large accomplishment. I obviously didn&#39;t do it alone, but I think made a substantial contribution to it. From the scientific point of view, I did some fundamental work in multidimensional scaling - I&#39;m still doing fundamental work - and there&#39;s the whole Gifi system, which I&#39;ve been doing since basically 1968. That&#39;s a large amount of work which has produced a huge number of students, who did their dissertations with me or with other people after I left, so that&#39;s a continuing tradition.
 
 **Is there a psychometrician or statistician who has really inspired your work?**
 
@@ -226,7 +226,7 @@ Yes.
 **So you&#39;re retired, but you&#39;re still doing work.**
 
 I&#39;m producing more than I have for 30 years, 40 years. I&#39;m working with the aforementioned Patricks, Mair and Groenen,
-on this new version of the GIFI project, so that&#39;s one thing. With the same two Patricks, I&#39;m also working on the new multidimensional scaling programs. And everything we do these days consists of publications, many of them electronic and open source. And we&#39;re working on the programs in R, that&#39;s a relatively new way of making things, which is very convenient for me. Since I&#39;m retired I don&#39;t really care whether something gets published or not. If people want to see something I wrote they know where to find it; they can Google me or look at my website. That&#39;s probably a suboptimal way of producing things if you need tenure somewhere, but it&#39;s quick.
+on this new version of the Gifi project, so that&#39;s one thing. With the same two Patricks, I&#39;m also working on the new multidimensional scaling programs. And everything we do these days consists of publications, many of them electronic and open source. And we&#39;re working on the programs in R, that&#39;s a relatively new way of making things, which is very convenient for me. Since I&#39;m retired I don&#39;t really care whether something gets published or not. If people want to see something I wrote they know where to find it; they can Google me or look at my website. That&#39;s probably a suboptimal way of producing things if you need tenure somewhere, but it&#39;s quick.
 
 **It&#39;s perfect for you.**
 
