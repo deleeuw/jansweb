@@ -234,8 +234,6 @@ It&#39;s perfect for me and in a sense it&#39;s funny, because that&#39;s exactl
 
 **The circle comes back around. Thank you for this interview!**
 
-
-
 Albert Gifi (1990). _Nonlinear Multivariate Analysis_ (Eds. W. J. Heiser, J. J. Meulman, G. van der Berg). New York: Wiley.
 
 Meerling (1981). _Methoden en technieken van psychologisch onderzoek, deel II. Data analyse en Psychometrie_. Boom, Meppel.
