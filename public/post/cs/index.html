@@ -301,7 +301,7 @@
   
   <meta property="og:site_name" content="JansWeb" />
   <meta property="og:url" content="http://jansweb.netlify.app/post/cs/" />
-  <meta property="og:title" content="On Computational Statistics | JansWeb" />
+  <meta property="og:title" content="On Techniques for Data Analysis (TDA) | JansWeb" />
   <meta property="og:description" content="Distinguished Professor Emeritus" /><meta property="og:image" content="http://jansweb.netlify.app/post/cs/featured.jpg" />
     <meta property="twitter:image" content="http://jansweb.netlify.app/post/cs/featured.jpg" /><meta property="og:locale" content="en-us" />
   
@@ -322,7 +322,7 @@
 
 
 
-  <title>On Computational Statistics | JansWeb</title>
+  <title>On Techniques for Data Analysis (TDA) | JansWeb</title>
 </head>
 
 
@@ -486,7 +486,37 @@
         
 
         <li class="nav-item">
-          <a class="nav-link  active" href="/post/cs"><span>On Computational Statistics</span></a>
+          <a class="nav-link  active" href="/post/cs"><span>On TDA</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post/wijsen"><span>Interview</span></a>
         </li>
 
         
@@ -556,6 +586,38 @@
 
         <li class="nav-item">
           <a class="nav-link " href="https://github.com/deleeuw" target="_blank" rel="noopener"><span>Github</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.youtube.com/c/JanDeleeuw/videos" target="_blank" rel="noopener"><span>YouTube</span></a>
         </li>
 
         
@@ -743,7 +805,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>On Computational Statistics</h1>
+  <h1>On Techniques for Data Analysis (TDA)</h1>
 
   
 
@@ -807,15 +869,15 @@
 <div class="universal-wrapper">
 
   
-  <div class="article-style"><p>► <strong>Computational Statistics</strong> is the discipline that proposes <strong>techniques</strong>, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data.</p>
-<p>► A <strong>technique</strong> is a map of <strong>carrier space</strong> into <strong>target space</strong>.
-Both spaces are often, but not necessarily, real linear spaces.</p>
-<p>►  Computational Statistics is not <strong>data theory</strong>. Design, collection, coding, and cleaning of data prepare the input fot the technique. Our job has not started yet.</p>
-<p>► Computational Statistics is not <strong>data analysis</strong>. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique. Our job is already done.</p>
-<p>► <strong>Data space</strong> is a finite subset of carrier space. It is the set of codings of all possible outcomes of a given experiment or other data collection effort. For example: coded versions of all possible results of a multiple choice (attitude/intelligence/personality) test on a number of subjects, outcomes of a clinical trial on a number of subjects, outcomes of a survey of a number of voters, essays in an essay test of a number of students, event histories in a longitudinal study of a number of individuals, heights and weights of a number of soldiers, dissimilarity matrices of a number of colors.</p>
-<p>► <strong>Representation space</strong> is a finite subset of target space. It is the set of all outputs of the technique applied to the data space. For example: a number of correlation matrices, cross tables, graphs and plots, regression coefficients.</p>
-<p>► Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the most interesting aspects of statistical techniques. They define the <strong>stability</strong> of the technique under various types of perturbations.</p>
-<p>► A <strong>package</strong> is a technique, including a description of carrier/data and target/representation space, plus an algorithm, plus an implementation, plus a manual, plus examples, plus a stability analysis, plus a license. A package is <strong>incomplete</strong> if it does not all these components, and <strong>inaccessible</strong> if its components are not open source and open access.</p>
+  <div class="article-style"><p>► <strong>TDA</strong> is the discipline that proposes techniques, provides descriptions and implementations of these techniques, and compares and analyzes their properties using real and artificial data.</p>
+<p>► A <strong>technique</strong> is a map of carrier space into target space.</p>
+<p>► <strong>Carrier space</strong> is a superset of data space. <strong>Data space</strong> is the finite set of codings of all possible outcomes of a given experiment or other data collection effort.</p>
+<p>► <strong>Target space</strong> is a superset of representation space. <strong>Representation space</strong> is the finite set of all outputs of the technique applied to elements of the data space.</p>
+<p>►  TDA is not <strong>data theory</strong>. Design, collection, coding, and cleaning of data prepare the input fot the technique: TDA&rsquo;s job has not started yet.</p>
+<p>► TDA is not <strong>data analysis</strong> or <strong>machine learning</strong>. Inference, induction, probabilistic reasoning, and causal analysis use the output of the technique: TDA&rsquo;s job is already done.</p>
+<p>► In TDA <strong>models</strong> are <strong>gauges</strong> for techniques. TDA investigates how a technique performs on models, i.e. on data with known properties.</p>
+<p>► Continuity and smoothness, defined using suitable topologies on carrier and target space, are among the more interesting aspects of statistical techniques. They define the <strong>stability</strong> of the technique under various types of perturbations. <strong>Inferential statistics</strong> studies the stability of techniques under the perturbations resulting from random sampling .</p>
+<p>► A <strong>package</strong> is a technique, with a description of carrier/data and target/representation spaces,  an algorithm, an implementation, a manual, examples, a stability analysis, and a license. A package is <strong>incomplete</strong> if it does not have all these components, and <strong>opaque</strong> if its components are not open source and/or open access.</p>
 <p>► For more details, see Albert Gifi, <em>Nonlinear Multivariate Analysis</em>,
 John Wiley &amp; Sons, Chichester, 1990, Chapter 1, Section 5.</p>
 </div>

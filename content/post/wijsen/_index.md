@@ -240,3 +240,5 @@ Meerling (1981). _Methoden en technieken van psychologisch onderzoek, deel II. D
 
 Meerling (1980). _Methoden en technieken van psychologisch onderzoek, deel I. Model, observatie en beslissing._ Boom, Meppel.
 
+Lisa D. Wijsen and Denny Borsboom (2021) *Perspectives on Psychometrics: Interviews with 20 Past Psychometric Society Presidents*, Psychometrika, volume 86, pages 327–343.
+

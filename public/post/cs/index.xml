@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>On Computational Statistics | JansWeb</title>
+    <title>On Techniques for Data Analysis (TDA) | JansWeb</title>
     <link>http://jansweb.netlify.app/post/cs/</link>
       <atom:link href="http://jansweb.netlify.app/post/cs/index.xml" rel="self" type="application/rss+xml" />
-    <description>On Computational Statistics</description>
+    <description>On Techniques for Data Analysis (TDA)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jansweb.netlify.app/post/cs/featured.jpg</url>
-      <title>On Computational Statistics</title>
+      <title>On Techniques for Data Analysis (TDA)</title>
       <link>http://jansweb.netlify.app/post/cs/</link>
     </image>
     
