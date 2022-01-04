@@ -18,6 +18,9 @@ org_name: ''
 description: ''
 twitter: ''
 
+marketing:
+  google_analytics: "G-M4P320YRR2"
+
 # Contact (edit or remove options as required)
 
 email: jan@deleeuwpdx.net
