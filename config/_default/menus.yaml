@@ -4,18 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
-    url: '#about'
-    weight: 10
-  - name: 'On TDA'
-    url: post/cs
-    weight: 15
-  - name: 'Interview'
-    url: post/wijsen
-    weight: 20
   - name: Featured
     url: '#featured'
     weight: 25
+  - name: Interview
+    url: post/wijsen
+    weight: 20
   - name: Github
     url: https://github.com/deleeuw
     weight: 30
