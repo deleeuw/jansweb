@@ -6,20 +6,20 @@
 main:
   - name: Featured
     url: '#featured'
-    weight: 25
-  - name: Interview
-    url: post/wijsen
     weight: 20
+  - name: Publications
+    url: publication/
+    weight: 25
   - name: Github
     url: https://github.com/deleeuw
     weight: 30
   - name: YouTube
     url: https://www.youtube.com/c/JanDeleeuw/videos
     weight: 35
-  - name: Publications
-    url: publication/
+  - name: Interview
+    url: post/wijsen
     weight: 40
-  - name: 'Say My Name'
+   - name: 'Say My Name'
     url: post/name
     weight: 45
   - name: Contact
