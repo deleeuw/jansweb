@@ -19,7 +19,7 @@ main:
   - name: Interview
     url: post/wijsen
     weight: 40
-   - name: 'Say My Name'
+  - name: 'Say My Name'
     url: post/name
     weight: 45
   - name: Contact
