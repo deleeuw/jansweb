@@ -25,16 +25,6 @@ marketing:
 
 email: jan@deleeuwpdx.net
 phone: 971 325 6576
-address:
-  street: 418 Shays Street
-  city: Amherst
-  region: MA
-  postcode: '01002'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '42.342041'
-  longitude: '-72.505890'
 contact_links:
   - icon: github
     icon_pack: fab
