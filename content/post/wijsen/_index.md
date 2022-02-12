@@ -4,7 +4,7 @@ title: "Interview of Jan de Leeuw by Lisa Wijsen"
 
 **Okay, thank you Jan for your participation in this project on the history of psychometrics. I&#39;ll ask questions about three themes, your career, the relation between psychology and psychometrics or other fields than psychometrics, and of course your view on the history and future of psychometrics. And I always start with the question, how did you end up in psychometrics?**
 
-I started in psychology in Leiden in 1963, and I got fed up with it in 1964 maybe, pretty quickly, so I switched to physics for a year, but I didn&#39;t feel like doing experiments. So then I became interested in statistics and mathematics, and I was hired by Len de Klerk in experimental psychology. It was not really at the same time, that was in 1965 or 1966, and he was working with John van de Geer. John van de Geer was setting up the Department of Data Theory at Leiden University, he was dean of the social sciences at the time, and was setting up his own department. I was the first one he hired into this new department of data theory; first as a student assistant, and later as an assistant professor. Of course, the department of data theory did psychometrics. There was some mathematical psychology going on initially, but pretty soon all we did was psychometrics.
+I started in psychology in Leiden in 1963, and I got fed up with it in 1964 maybe, pretty quickly, so I switched to physics for a year, but I didn&#39;t feel like doing experiments. So then I became interested in statistics and mathematics, and I was hired by Len de Klerk in experimental psychology. It was not really at the same time, that was in 1965 or 1966, and he was working with John van de Geer. John van de Geer was setting up the Department of Data Theory at Leiden University, he was dean of the social sciences at the time, and was setting up his own department. I was the first one he hired into this new Department of Data Theory; first as a student assistant, and later as an assistant professor. Of course, the Department of Data Theory did psychometrics. There was some mathematical psychology going on initially, but pretty soon all we did was psychometrics.
 
 **But data theory can also imply all sorts of data, right? Was there a reason why it was mainly psychometric?**
 
@@ -24,7 +24,7 @@ Well yes, &#39;real knowledge&#39;, though not empirical knowledge, but mathemat
 
 **You mentioned there were sometimes applications, in this data theory department, or people worked on applications; did you also still work on psychological research?**
 
-There were psychologists who sometimes needed something, like scaling techniques or data analysis efforts, and they were basically clients of the department of data theory, and they were helped with whatever they needed, either something that already existed or something new. But there wasn&#39;t that much consulting, it was a somewhat isolated and luxurious department within the social sciences.
+There were psychologists who sometimes needed something, like scaling techniques or data analysis efforts, and they were basically clients of the Department of Data Theory, and they were helped with whatever they needed, either something that already existed or something new. But there wasn&#39;t that much consulting, it was a somewhat isolated and luxurious department within the social sciences.
 
 **What about it was so luxurious?**
 
@@ -36,11 +36,11 @@ Yes, I did my Ph.D. in 1973. I was invited to go to Bell Laboratories in New Jer
 
 **Well, can you still explain it for people like me, who don&#39;t fully understand the title?**
 
-It was the precursor of what was later known as the Gifi system, which is a large reorganization of descriptive multivariate analysis techniques in such a way that they apply both to numerical and multi-numerical data. That covers regression and principal components analysis, factor analysis, all those techniques in one common framework and ultimately in a series of computer programs as well. My dissertation was basically the first programmatic statement of that program. The Gifi project itself ran until about 1990, I left in 1987, but there was still some ends to wrap up and the data theory group in Leiden that still existed at the time, wrapped up those loose ends. They produced a book, the final version of the Gifi book
+It was the precursor of what was later known as the Gifi System, which is a large reorganization of descriptive multivariate analysis techniques in such a way that they apply both to numerical and non-numerical data. That covers regression and principal components analysis, factor analysis, all those techniques in one common framework and ultimately in a series of computer programs as well. My dissertation was basically the first programmatic statement of that program. The Gifi project itself ran until about 1990, I left in 1987, but there was still some ends to wrap up and the Data Theory group in Leiden that still existed at the time, wrapped up those loose ends. They produced a book, the final version of the Gifi book
 
 **That was one of your major topics right, in your career, Gifi.**
 
-Certainly in the first part of my career, after I came back from Bell Laboratories basically, so that was in 1974. We started developing the computer programs in 1974, at the time we were in the computing center of the University, on the Wassenaarseweg, and that grew into the Gifi project. We got pretty large grants from NWO, the basic Netherlands grant organization for sciences, and we started hiring people. Ultimately the Gifi group was about maybe 10 - 15 people who were working on the postdoctoral course that we taught in 1980 and 1981, and on the book that eventually came out in 1990.
+Certainly in the first part of my career, after I came back from Bell Laboratories basically, so that was in 1974. We started developing the computer programs in 1974, at the time we were housed in the computing center of the University, on the Wassenaarseweg, and that grew into the Gifi project. We got pretty large grants from NWO, the basic Netherlands grant organization for sciences, and we started hiring people. Ultimately the Gifi group was about maybe 10 - 15 people who were working on the postdoctoral course that we taught in 1980 and 1981, and on the book that eventually came out in 1990.
 
 **The book was named after a certain person right.**
 
@@ -48,7 +48,7 @@ It was named after a butler, Francis Galton&#39;s butler.
 
 **Why Francis Galton&#39;s butler?**
 
-The reasoning was that Francis Galton&#39;s butler got a raw deal from Galton, when Galton died. He served him for 25 years, he only got a couple of hundred pounds, and most of Galton&#39;s fortune, which was considerable, went to establishing the first chair of statistics, he donated a chair to university college. He only gave his faithful Swiss butler 500 bucks. So we needed a pseudonym, and we chose Gifi. It&#39;s similar to &#39;Meerling&#39;, which were two books that were also written by a collective of authors, mostly in the methodology department of psychology, but data theory was also involved, and they also adopted a pseudonym, Meerling. Now, Meerling was not a real person obviously, it just means &#39;multiple persons&#39; in Dutch.
+The reasoning was that Francis Galton&#39;s butler got a raw deal from Galton, when Galton died. He served him for 25 years, he only got a couple of hundred pounds, and most of Galton&#39;s fortune, which was considerable, went to establishing the first chair of statistics, he donated a chair to University College. He only gave his faithful Swiss butler 500 bucks. So we needed a pseudonym, and we chose Gifi. It&#39;s similar to &#39;Meerling&#39;, which were two books that were also written by a collective of authors, mostly in the methodology department of psychology, but data theory was also involved, and they also adopted a pseudonym, Meerling. Now, Meerling was not a real person obviously, it just means &#39;multiple persons&#39; in Dutch.
 
 **So you wanted to honor this butler?**
 
@@ -72,11 +72,11 @@ Same type of work. One of the things that was going on at the time, was the work
 
 **Did you become assistant professor after?**
 
-I was already assistant professor. I&#39;m not entirely sure about the time scale, but I think I probably became, what was then called lector, in maybe 1975 and at some point, lectors were converted to full professors, in maybe 1976, 1977 something like that. So I became professor, and then eventually, van de Geer stepped back and I became the chair of data theory, which was around 1980. We also started to organize these Gifi post doctoral courses, and building out that project, until I left in 1987.
+I was already assistant professor. I&#39;m not entirely sure about the time scale, but I think I probably became, what was then called lector, in maybe 1975 and at some point, lectors were converted to full professors, in maybe 1976, 1977 something like that. So I became professor, and then eventually, Van de Geer stepped back and I became the chair of data theory, which was around 1980. We also started to organize these Gifi post doctoral courses, and building out that project, until I left in 1987.
 
 **And then you went Los Angeles.**
 
-I was invited by UCLA to build a statistics graduate program in the division of social sciences. There was some sort of initiative by the dean of social sciences to build out the quantitative components of the various social science departments, so they needed somebody in charge of that, of that effort. It was an open application, but eventually they chose me, and I got an appointment partially in psychology and partially in mathematics, so I was professor of mathematics in psychology, starting in 1987. And then when I arrived there, it turned out that most of the faculty didn&#39;t really want a division or a graduate program in statistics for the social sciences, but they wanted a department of statistics, because there wasn&#39;t one at the UCLA. So then we surreptitiously, maybe against the wishes of the dean of social sciences, started our effort to build a statistics department at UCLA. That took about 11 years, but eventually in 1998 we got a department of statistics and I became the chair of the department of statistics until my retirement, which was three years ago.
+I was invited by UCLA to build a statistics graduate program in the Division of Social Sciences. There was some sort of initiative by the Dean of Social Sciences to build out the quantitative components of the various social science departments, so they needed somebody in charge of that, of that effort. It was an open application, but eventually they chose me, and I got an appointment partially in psychology and partially in mathematics, so I was professor of mathematics and of psychology, starting in 1987. And then when I arrived there, it turned out that most of the faculty didn&#39;t really want a division or a graduate program in statistics for the social sciences, but they wanted a Department of Statistics, because there wasn&#39;t one at the UCLA. So then we surreptitiously, maybe against the wishes of the Dean of Social Sciences, started our effort to build a statistics department at UCLA. That took about 11 years, but eventually in 1998 we got a Department of Statistics and I became the chair of the department of statistics until my retirement, which was three years ago.
 
 **Did the statistics department also encourage psychometric research?**
 
@@ -88,7 +88,7 @@ Sure, yes. Medical data, astronomy data, satellites, traffic data, bank data, cr
 
 **I reckon Peter Bentler is also part of the department?**
 
-Peter Bentler has a joint appointment in psychology and statistics, so he&#39;s half psychology, half statistics.
+Peter Bentler has a joint appointment in Psychology and Statistics, so he&#39;s half psychology, half statistics.
 
 **The statistics department at UCLA is not more focused on psychometrics than on statistics in general.**
 
@@ -108,7 +108,7 @@ Statistician.
 
 **Without a doubt.**
 
-It&#39;s also my title obviously, a professor of statistics.
+It&#39;s also my title obviously, a Professor of Statistics.
 
 **Some psychometricians affiliate strongly with psychology, or find it interesting, but you..**
 
@@ -136,9 +136,7 @@ I think my true passion is programming, or computation. I&#39;m interested in pu
 
 **Should psychology become more statistics oriented?**
 
-Especially these days that&#39;s a very loaded question. It&#39;s always been a loaded question, but now, there&#39;s this replication crisis of course, and the replication crisis has as its main message that the statistical methods used in psychology are bad, bogus, not very conducive to building up a cumulative science. It&#39;s something that I have written on in the past, quite a long time ago
-# 5
-, but it&#39;s now coming more to the forefront because of the ESP experiments and things like that, so I think, as a sort of general observation, as somebody who is not really involved in the debate, it&#39;s probably necessary that psychology thinks very hard about the statistical methods it uses at the moment, and changes something in their paradigms. I&#39;m not entirely sure what that should be because again, I don&#39;t really follow the debate except at the level of Science or Nature, or those more general journals that write on this crisis.
+Especially these days that&#39;s a very loaded question. It&#39;s always been a loaded question, but now, there&#39;s this replication crisis of course, and the replication crisis has as its main message that the statistical methods used in psychology are bad, bogus, not very conducive to building up a cumulative science. It&#39;s something that I have written on in the past, quite a long time ago, but it&#39;s now coming more to the forefront because of the ESP experiments and things like that, so I think, as a sort of general observation, as somebody who is not really involved in the debate, it&#39;s probably necessary that psychology thinks very hard about the statistical methods it uses at the moment, and changes something in their paradigms. I&#39;m not entirely sure what that should be because again, I don&#39;t really follow the debate except at the level of Science or Nature, or those more general journals that write on this crisis.
 
 **But regardless of the reproducibility problem, you think that statistics might be a good framework for psychological research?**
 
@@ -182,9 +180,7 @@ It was mostly the way the original factor analysts, who were psychologists, like
 
 **You have not worked on intelligence?**
 
-I have some publications about the IQ debate as it was called, together with Jos Jaspers, a professor of social psychology in Leiden at the time
-# 6
-. Not much, but there&#39;s also some other stuff in psychometrical genetics. At the time I was pretty interested in what was then known as the IQ debate, I&#39;m not entirely sure if that&#39;s still the name of it, but I published some papers on that topic, and then of course, when I was editing the Journal of Educational Statistics, I had to be interested in test theory and similar things. So I published quite a bit on education as well, but always with a slant of data analysis and multivariate analysis.
+I have some publications about the IQ debate as it was called, together with Jos Jaspers, a professor of social psychology in Leiden at the time. Not much, but there&#39;s also some other stuff in psychometrical genetics. At the time I was pretty interested in what was then known as the IQ debate, I&#39;m not entirely sure if that&#39;s still the name of it, but I published some papers on that topic, and then of course, when I was editing the Journal of Educational Statistics, I had to be interested in test theory and similar things. So I published quite a bit on education as well, but always with a slant of data analysis and multivariate analysis.
 
 **What do you consider your biggest achievement? What you&#39;ll be remembered for?**
 
@@ -192,11 +188,11 @@ I don&#39;t know how long I&#39;ll be remembered!
 
 **Who knows . What are you most proud of? Perhaps that&#39;s a better question.**
 
-The UCLA department of statistics is probably the most permanent thing that I helped establish and I was sort of instrumental in having it established. It&#39;s interesting, because it started small obviously, it started slowly because there was a lot of opposition, and then you see it growing, and now there are about 300 to 400 people involved, students and faculty and staff, so I think that&#39;s large accomplishment. I obviously didn&#39;t do it alone, but I think made a substantial contribution to it. From the scientific point of view, I did some fundamental work in multidimensional scaling - I&#39;m still doing fundamental work - and there&#39;s the whole Gifi system, which I&#39;ve been doing since basically 1968. That&#39;s a large amount of work which has produced a huge number of students, who did their dissertations with me or with other people after I left, so that&#39;s a continuing tradition.
+The UCLA Department of Statistics is probably the most permanent thing that I helped establish and I was sort of instrumental in having it established. It&#39;s interesting, because it started small obviously, it started slowly because there was a lot of opposition, and then you see it growing, and now there are about 300 to 400 people involved, students and faculty and staff, so I think that&#39;s large accomplishment. I obviously didn&#39;t do it alone, but I think made a substantial contribution to it. From the scientific point of view, I did some fundamental work in multidimensional scaling - I&#39;m still doing fundamental work - and there&#39;s the whole Gifi system, which I&#39;ve been doing since basically 1968. That&#39;s a large amount of work which has produced a huge number of students, who did their dissertations with me or with other people after I left, so that&#39;s a continuing tradition.
 
 **Is there a psychometrician or statistician who has really inspired your work?**
 
-Van de Geer was the first one to inspire me in that sense, and his geometrical approach to data analysis was different from what I eventually did, but it was inspiring anyway. In terms of direct influences, it was also the Bell Laboratory people, Kruskall and Carroll, and more distantly, Louis Guttman, who has an enormous body of work stretching over a long period of time, from the thirties to the 1970s, 1980s, of very good quality. I always enjoyed reading his work. Later on, he went a little bit off the rails.
+Van de Geer was the first one to inspire me in that sense, and his geometrical approach to data analysis was different from what I eventually did, but it was inspiring anyway. In terms of direct influences, it was also the Bell Laboratory people, Kruskal and Carroll, and more distantly, Louis Guttman, who has an enormous body of work stretching over a long period of time, from the thirties to the 1970s, 1980s, of very good quality. I always enjoyed reading his work. Later on, he went a little bit off the rails.
 
 **When did he go off the rails?**
 
