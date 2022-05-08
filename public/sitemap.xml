@@ -11,10 +11,28 @@
     <loc>http://jansweb.netlify.app/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/post/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+    <loc>http://jansweb.netlify.app/publication-type/0/</loc>
+    <lastmod>2021-06-11T12:39:10-07:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/authors/</loc>
+    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/publication/deleeuw-e-22-a/</loc>
+    <lastmod>2021-06-06T12:52:52-07:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/author/j.-de-leeuw/</loc>
+    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/publication_types/</loc>
+    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/publication/</loc>
+    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
+  </url><url>
+    <loc>http://jansweb.netlify.app/post/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/post/cs/</loc>
@@ -23,23 +41,17 @@
     <loc>http://jansweb.netlify.app/post/name/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://jansweb.netlify.app/publication/deleeuw-e-22-b/</loc>
+    <lastmod>2021-06-06T12:52:52-07:00</lastmod>
+  </url><url>
     <loc>http://jansweb.netlify.app/publication-type/5/</loc>
     <lastmod>2021-06-07T13:36:06-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/authors/</loc>
-    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-b-21-b/</loc>
     <lastmod>2021-06-07T13:36:06-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/author/jan-de-leeuw/</loc>
     <lastmod>2021-06-07T13:36:06-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication_types/</loc>
-    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/publication/</loc>
-    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-b-21-a/</loc>
     <lastmod>2021-06-07T13:36:06-07:00</lastmod>
@@ -59,9 +71,6 @@
     <loc>http://jansweb.netlify.app/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://jansweb.netlify.app/publication-type/0/</loc>
-    <lastmod>2021-06-11T12:39:10-07:00</lastmod>
-  </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-e-20-e/</loc>
     <lastmod>2021-06-06T12:52:51-07:00</lastmod>
   </url><url>
@@ -70,9 +79,6 @@
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-e-20-c/</loc>
     <lastmod>2021-06-06T12:52:51-07:00</lastmod>
-  </url><url>
-    <loc>http://jansweb.netlify.app/author/j.-de-leeuw/</loc>
-    <lastmod>2021-09-03T13:28:58-07:00</lastmod>
   </url><url>
     <loc>http://jansweb.netlify.app/publication/deleeuw-e-20-b/</loc>
     <lastmod>2021-06-06T12:52:51-07:00</lastmod>

@@ -5,12 +5,28 @@
     <link>http://jansweb.netlify.app/publication-type/0/</link>
       <atom:link href="http://jansweb.netlify.app/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
       <link>http://jansweb.netlify.app/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>DEconstructing Multiple Correspondence Analysis</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-e-22-a/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-e-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernstein Polynomials as Fuzzy Indicators</title>
+      <link>http://jansweb.netlify.app/publication/deleeuw-e-22-b/</link>
+      <pubDate>Sun, 06 Jun 2021 19:52:52 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-e-22-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arrays from R to C and Back</title>
