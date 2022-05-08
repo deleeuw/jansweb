@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: DEconstructing Multiple Correspondence Analysis
+title: Deconstructing Multiple Correspondence Analysis
 subtitle: ''
 summary: ''
 authors:
