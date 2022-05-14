@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multilevel Statistical Models and Ecological Scaling
+title: Multilevel Models with Spatial Data
 subtitle: ''
 summary: ''
 authors:
