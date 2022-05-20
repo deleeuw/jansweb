@@ -5,7 +5,7 @@
     <link>http://jansweb.netlify.app/</link>
       <atom:link href="http://jansweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>JansWeb</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>JansWeb</title>
@@ -105,6 +105,14 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>More on Multidimensional Scaling in R: smacof Version 2</title>
+      <link>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-22/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-22/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -397,14 +405,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-e-19-c/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>More on Multidimensional Scaling in R: smacof Version 2</title>
-      <link>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-22/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/mair-groenen-deleeuw-a-22/</guid>
       <description></description>
     </item>
     
@@ -2608,14 +2608,6 @@ Three
     </item>
     
     <item>
-      <title>Centering in Multilevel Models</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-g/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-g/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Comments on Pardoe, Weitner, and Frase: Sentencing Convicted Felons in the United States: A Bayesian Aalysis using Multilevel Covariates</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-r-04-h/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
@@ -2664,14 +2656,6 @@ Three
     </item>
     
     <item>
-      <title>High-Dimensional Regression</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-b/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Homogeneity Analysis of Pavings</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-r-04-e/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
@@ -2692,14 +2676,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-c-04-a/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-c-04-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear Multilevel Models</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-c/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-c/</guid>
       <description></description>
     </item>
     
@@ -2728,26 +2704,10 @@ Three
     </item>
     
     <item>
-      <title>Multidimensional Unfolding</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-i/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multilevel Models for fMRI analysis</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-u-04-i/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-u-04-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On Abandoning XLISP-STAT</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-d/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-d/</guid>
       <description></description>
     </item>
     
@@ -2760,34 +2720,10 @@ Three
     </item>
     
     <item>
-      <title>Shepard Diagram</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-j/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Carroll-Arabie Taxonomy of Scaling Methods</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-a/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Truth</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-u-04-e/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-u-04-e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-04-l/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-04-l/</guid>
       <description></description>
     </item>
     
@@ -2888,18 +2824,10 @@ Three
     </item>
     
     <item>
-      <title>Multilevel Statistical Models and Ecological Scaling</title>
-      <link>http://jansweb.netlify.app/publication/berk-deleeuw-r-03/</link>
+      <title>Multilevel Models with Spatial Data</title>
+      <link>http://jansweb.netlify.app/publication/berk-deleeuw-zheng-xiong-u-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/berk-deleeuw-r-03/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preface to Berk</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-03-d/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-03-d/</guid>
+      <guid>http://jansweb.netlify.app/publication/berk-deleeuw-zheng-xiong-u-03/</guid>
       <description></description>
     </item>
     
@@ -3072,14 +3000,6 @@ Three
     </item>
     
     <item>
-      <title>Data Visualization through Graph Drawing</title>
-      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-00/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-00/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Graph Layout Techniques and Multidimensional Data Analysis</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-c-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
@@ -3172,22 +3092,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-u-99-b/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-u-99-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Layout Techniques and Multidimensional Data Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-a/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Majorization Methods in Statistics</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-b/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-michailidis-r-99-b/</guid>
       <description></description>
     </item>
     
@@ -3320,26 +3224,10 @@ Three
     </item>
     
     <item>
-      <title>Server-side Statistics Scripting using PHP/FI</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-97-b/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-97-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The UCLA Electronic Statistics Textbook</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-a-97-a/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-a-97-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The UCLA Electronic Textbook and Modules</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-97-a/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-97-a/</guid>
       <description></description>
     </item>
     
@@ -3360,26 +3248,10 @@ Three
     </item>
     
     <item>
-      <title>Here&#39;s Looking at Multivariables</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-96-a/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-96-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Imputing Implant Dates</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-peng-u-96/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-peng-u-96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inverse Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-u-96/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-u-96/</guid>
       <description></description>
     </item>
     
@@ -3404,14 +3276,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-c-96/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-c-96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Gifi system for Descriptive Multivariate Analysis</title>
-      <link>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-96-b/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/michailidis-deleeuw-r-96-b/</guid>
       <description></description>
     </item>
     
@@ -3484,14 +3348,6 @@ Three
       <link>http://jansweb.netlify.app/publication/groenen-deleeuw-mathar-c-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/groenen-deleeuw-mathar-c-95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Models as Instruments, with Applications to Moment Structure Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-95-d/</link>
-      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-95-d/</guid>
       <description></description>
     </item>
     
@@ -3572,14 +3428,6 @@ Three
       <link>http://jansweb.netlify.app/publication/kreft-deleeuw-aiken-a-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-aiken-a-95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The UCLA Electronic Statistics Textbook</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-95-a/</link>
-      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-95-a/</guid>
       <description></description>
     </item>
     
@@ -3704,14 +3552,6 @@ Three
     </item>
     
     <item>
-      <title>Looking for Remarkable Results</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-94-d/</link>
-      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-94-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Majorization Algorithms for Mixed Model Analysis</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-liu-r-93/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
@@ -3780,14 +3620,6 @@ Three
       <link>http://jansweb.netlify.app/publication/ganzeboom-degraaf-treiman-deleeuw-a-92/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/ganzeboom-degraaf-treiman-deleeuw-a-92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Approach to Fixed Factor Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanderleeden-mooijaart-deleeuw-r-92/</link>
-      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderleeden-mooijaart-deleeuw-r-92/</guid>
       <description></description>
     </item>
     
@@ -3888,14 +3720,6 @@ Three
     </item>
     
     <item>
-      <title>Review of five multilevel analysis programs for the IBM PC</title>
-      <link>http://jansweb.netlify.app/publication/kreft-deleeuw-vanderleeden-r-92/</link>
-      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-vanderleeden-r-92/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Review of L.M. Collins and J.L. Horn (eds): Best Methods for the Analysis of Change</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-v-92/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
@@ -3985,9 +3809,9 @@ Three
     
     <item>
       <title>A Latent Time-Budget Model</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheiden-verboon-a-90/</link>
+      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-verboon-a-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheiden-verboon-a-90/</guid>
+      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-verboon-a-90/</guid>
       <description></description>
     </item>
     
@@ -3996,22 +3820,6 @@ Three
       <link>http://jansweb.netlify.app/publication/kreft-deleeuw-kim-r-90-b/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/kreft-deleeuw-kim-r-90-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constrained Latent Budget Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-c-90/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-c-90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constrained Latent Budget Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-r-90/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-r-90/</guid>
       <description></description>
     </item>
     
@@ -4032,26 +3840,10 @@ Three
     </item>
     
     <item>
-      <title>Geometrical Aspects of Multiple Correspondence Analysis: Implications for the Coordinate Scaling Debate</title>
-      <link>http://jansweb.netlify.app/publication/hoffman-deleeuw-r-90/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/hoffman-deleeuw-r-90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Information Theory and an Extension of the Maximum Likelihood Principle by Hirotogu Akaike</title>
       <link>http://jansweb.netlify.app/publication/deleeuw-c-90-c/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-c-90-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Information Theory and an Extension of the Maximum Likelihood Principle by Hirotogu Akaike</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-r-90/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-r-90/</guid>
       <description></description>
     </item>
     
@@ -4068,14 +3860,6 @@ Three
       <link>http://jansweb.netlify.app/publication/deleeuw-a-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/deleeuw-a-90/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonlinear Multivariate Analysis</title>
-      <link>http://jansweb.netlify.app/publication/gifi-b-90/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/gifi-b-90/</guid>
       <description></description>
     </item>
     
@@ -4124,14 +3908,6 @@ Three
       <link>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
       <guid>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Latent Time-Budget Model</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-verboon-r-89/</link>
-      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-verboon-r-89/</guid>
       <description></description>
     </item>
     
