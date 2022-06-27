@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Factor Analysis, Correspondence Analysis, ANOVA
+title: Having Fun with a New Loss Function
 subtitle: ''
 summary: ''
 authors:
@@ -32,5 +32,4 @@ publication_types:
 - '0'
 abstract: ''
 publication: ''
-url_pdf: http://deleeuwpdx.net/pubfolders/ordered/ordered.pdf
 ---
