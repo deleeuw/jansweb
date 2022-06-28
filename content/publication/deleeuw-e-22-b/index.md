@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Factor Analysis, Correspondence Analysis, ANOVA
+title: Bernstein Polynomials as Fuzzy Indicators
 subtitle: ''
 summary: ''
 authors:
 - J. De Leeuw
 tags: []
 categories: []
-date: '2022-06-27'
+date: '2022-05-08'
 lastmod: 
 featured: false
 draft: false
