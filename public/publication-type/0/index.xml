@@ -2,573 +2,589 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | JansWeb</title>
-    <link>http://jansweb.netlify.app/publication-type/0/</link>
-      <atom:link href="http://jansweb.netlify.app/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jansweb.netlify.app/publication-type/0/</link>
+      <atom:link href="https://jansweb.netlify.app/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
-      <link>http://jansweb.netlify.app/publication-type/0/</link>
+      <link>https://jansweb.netlify.app/publication-type/0/</link>
     </image>
     
     <item>
+      <title>Factor Analysis, Correspondence Analysis, ANOVA</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-22-c/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-22-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Having Fun with a New Loss Function</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-22-d/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-22-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bernstein Polynomials as Fuzzy Indicators</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-22-b/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-22-b/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-22-b/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-22-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deconstructing Multiple Correspondence Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-22-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-22-a/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-22-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-22-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arrays from R to C and Back</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-20-e/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-20-e/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-20-e/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-20-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster Multivariate Cumulants</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-20-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-20-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-20-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-20-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster Multivariate Moments</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-20-c/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-20-c/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-20-c/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-20-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Least Squares Absolute Value Regression</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-20-b/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-20-b/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-20-b/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-20-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimum of the Interpolating Polynomial with Applications in Cyclic Coordinate Descent</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-20-d/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-20-d/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-20-d/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-20-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constrained Principal Components</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergence of SMACOF</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-h/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-h/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-h/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiability of Functions of Distances</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-b/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-b/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fitting Distances by Least Squares</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-g/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-g/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-g/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Full-dimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-f/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-f/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-f/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gifi Update Notes</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-i/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-i/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-i/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Minima by Penalized Full-dimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-e/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-e/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-e/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual Differences Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-c/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-c/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-c/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Normalized Cone Regression</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-19-d/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-19-d/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-19-d/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Majorization for Multidimensional Scaling </title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-e/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-18-e/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-e/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-18-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergence Rate of Majorization Algorithms with Constraints</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-h/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-18-h/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-h/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-18-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiability of Stress at Local Minima</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-c/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-18-c/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-c/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-18-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homogeneity Analysis of Durant Bend Sherds</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-nance-e-18-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-nance-e-18-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-nance-e-18-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-nance-e-18-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MM Algorithms for Smoothed Absolute Values</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-f/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-18-f/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-f/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-18-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous Diagonalization in R/C</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-g/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-18-g/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-g/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-18-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Pespectives on Woodland Cultures in Central Alabama </title>
-      <link>http://jansweb.netlify.app/publication/nance-deleeuw-e-18-b/</link>
+      <link>https://jansweb.netlify.app/publication/nance-deleeuw-e-18-b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/nance-deleeuw-e-18-b/</guid>
+      <guid>https://jansweb.netlify.app/publication/nance-deleeuw-e-18-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Positive Orthant Method </title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-d/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-18-d/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-d/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-18-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Univariate Fans of Majorizers</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-18-i/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-18-i/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-18-i/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-18-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing and Fitting Monotone Splines</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-i/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-i/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-i/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceedingly Simple Monotone Regression</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-g/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-g/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-g/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceedingly Simple Monotone Regression (with Ties)</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-h/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-h/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-h/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceedingly Simple Sorting with Indices</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-f/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-f/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-f/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factor Analysis as Matrix Decomposition and Approximation: Theory</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-j/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-j/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-j/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Higher Partials of fStress. Who Needs Them ?</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-r/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-r/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-r/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infeasible Primal-Dual Quadratic Programming with Box Constraints</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-k/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-k/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-k/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jacobi Eigen in R/C with Lower Triangular Column-wise Compact Storage</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-o/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-o/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-o/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidimensional Array Indexing and Storage</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-s/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-s/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-s/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidimensional Scaling with Distance Bounds</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-d/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-d/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-d/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidimensional Scaling with Lower Bounds</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-c/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-c/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-c/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidimensional Scaling with Upper Bounds</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-b/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-b/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-b/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudo Confidence Regions for MDS</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-q/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-q/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-q/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-q/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quadratic Programming with Quadratic Constraints</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shepard Non-metric Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-e/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-e/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-e/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous Diagonalization of Positive Semi-definite Matrices</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-l/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-l/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-l/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Some Majorization Theory for Weighted Least Squares</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-m/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-m/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-m/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweaking the SMACOF Engine</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-p/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-p/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-p/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weighted Low-rank Approximation using Majorization</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-17-n/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-17-n/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-17-n/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-17-n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternating Least Squares Approach to Squared Distance Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-pietersz-e-16-m/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-pietersz-e-16-m/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-pietersz-e-16-m/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-pietersz-e-16-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APL in R</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-yajima-e-16/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-yajima-e-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-yajima-e-16/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-yajima-e-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Block Relaxation as Majorization</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-n/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-n/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-n/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergence Rate of ELEGANT Algorithms</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-o/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-o/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-o/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivatives of Low Rank PSD Approximation</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-p/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-p/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-p/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiability of rStress at a Local Minimum</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete Minimax by Quadratic Majorization</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-r/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-r/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-r/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceedingly Simple Isotone Regression with Ties</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-d/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-d/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-d/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceedingly Simple Permutations and Combinations</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-h/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-h/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-h/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exceedingly Simple Principal Pivot Transforms</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-j/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-j/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-j/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full-dimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gower Rank</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-k/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-k/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-k/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Praise of QR</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-i/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-i/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-i/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-i/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Least Squares Solutions of Linear Inequality Systems</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-s/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-s/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-s/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Majorizing Cubics on Intervals</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-q/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-q/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-q/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-q/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing qStress for small q</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing rStress Using Majorization</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More on Inverse Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidimensional Scaling with Anarchic Distances</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-t/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-t/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-t/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pictures of Stress</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-16-l/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-16-l/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-16-l/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-16-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second Derivatives of rStress, with Applications</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Singularities and Zero Distances in Multidimensional Scaling</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-groenen-mair-e-16-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Croissants and Wedges in Multiple Correspondence Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-15-g/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-15-g/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-15-g/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-15-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homogeneity Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-15-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-15-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-15-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-15-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiset Canonical Correlation Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-e-15-f/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-15-f/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-e-15-f/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-15-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-dimensional Data Analysis. Proceedings of a Workshop, Pembroke College, Cambridge University, England 30.6.--2.7. 1985</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-b-86/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-b-86/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-b-86/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-heiser-meulman-critchley-b-86/</guid>
       <description></description>
     </item>
     

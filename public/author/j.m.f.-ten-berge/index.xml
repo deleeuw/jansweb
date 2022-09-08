@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J.M.F. Ten Berge | JansWeb</title>
-    <link>http://jansweb.netlify.app/author/j.m.f.-ten-berge/</link>
-      <atom:link href="http://jansweb.netlify.app/author/j.m.f.-ten-berge/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jansweb.netlify.app/author/j.m.f.-ten-berge/</link>
+      <atom:link href="https://jansweb.netlify.app/author/j.m.f.-ten-berge/index.xml" rel="self" type="application/rss+xml" />
     <description>J.M.F. Ten Berge</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1988 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>J.M.F. Ten Berge</title>
-      <link>http://jansweb.netlify.app/author/j.m.f.-ten-berge/</link>
+      <link>https://jansweb.netlify.app/author/j.m.f.-ten-berge/</link>
     </image>
     
     <item>
       <title>Explicit Candecomp/Parafac Solutions for a Contrived $2x2x2$ Array of Rank Three</title>
-      <link>http://jansweb.netlify.app/publication/tenberge-kiers-deleeuw-a-88/</link>
+      <link>https://jansweb.netlify.app/publication/tenberge-kiers-deleeuw-a-88/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/tenberge-kiers-deleeuw-a-88/</guid>
+      <guid>https://jansweb.netlify.app/publication/tenberge-kiers-deleeuw-a-88/</guid>
       <description></description>
     </item>
     

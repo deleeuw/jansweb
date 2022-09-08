@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Sorenson | JansWeb</title>
-    <link>http://jansweb.netlify.app/author/k.-sorenson/</link>
-      <atom:link href="http://jansweb.netlify.app/author/k.-sorenson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jansweb.netlify.app/author/k.-sorenson/</link>
+      <atom:link href="https://jansweb.netlify.app/author/k.-sorenson/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Sorenson</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>K. Sorenson</title>
-      <link>http://jansweb.netlify.app/author/k.-sorenson/</link>
+      <link>https://jansweb.netlify.app/author/k.-sorenson/</link>
     </image>
     
     <item>
       <title>Derivatives of the Procrustus Transformation with Applications</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-b/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-b/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-b/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Least Squares Orthogonal Polynomial Component Analysis in R</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-a/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-a/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-sorenson-u-12-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matrix Approximation by Polynomial Factor Analysis</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-sorenson-u-11/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-sorenson-u-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-sorenson-u-11/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-sorenson-u-11/</guid>
       <description></description>
     </item>
     

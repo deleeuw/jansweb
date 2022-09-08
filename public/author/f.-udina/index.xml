@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. Udina | JansWeb</title>
-    <link>http://jansweb.netlify.app/author/f.-udina/</link>
-      <atom:link href="http://jansweb.netlify.app/author/f.-udina/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jansweb.netlify.app/author/f.-udina/</link>
+      <atom:link href="https://jansweb.netlify.app/author/f.-udina/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Udina</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1995 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>F. Udina</title>
-      <link>http://jansweb.netlify.app/author/f.-udina/</link>
+      <link>https://jansweb.netlify.app/author/f.-udina/</link>
     </image>
     
     <item>
       <title>High Quality Graphics from XLISP-STAT</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-udina-r-95/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-udina-r-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-udina-r-95/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-udina-r-95/</guid>
       <description></description>
     </item>
     

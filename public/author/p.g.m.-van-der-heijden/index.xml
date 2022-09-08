@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P.G.M. Van der Heijden | JansWeb</title>
-    <link>http://jansweb.netlify.app/author/p.g.m.-van-der-heijden/</link>
-      <atom:link href="http://jansweb.netlify.app/author/p.g.m.-van-der-heijden/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jansweb.netlify.app/author/p.g.m.-van-der-heijden/</link>
+      <atom:link href="https://jansweb.netlify.app/author/p.g.m.-van-der-heijden/index.xml" rel="self" type="application/rss+xml" />
     <description>P.G.M. Van der Heijden</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1989 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>P.G.M. Van der Heijden</title>
-      <link>http://jansweb.netlify.app/author/p.g.m.-van-der-heijden/</link>
+      <link>https://jansweb.netlify.app/author/p.g.m.-van-der-heijden/</link>
     </image>
     
     <item>
       <title>A Combined Approach to Contingency Table Analysis with Correspondence Analysis and Log-Linear Analysis (with Discussion)</title>
-      <link>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</link>
+      <link>https://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</guid>
+      <guid>https://jansweb.netlify.app/publication/vanderheijden-defalguerolles-deleeuw-a-89/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correspondence Analysis of Incomplete Contingency Tables</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-88/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-88/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-88/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-vanderheijden-a-88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correspondence Analysis, with Special Attention to the Analysis of Panel Data and Event History Data</title>
-      <link>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-88/</link>
+      <link>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-88/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-88/</guid>
+      <guid>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correspondence Analysis used Complimentary to Loglinear Analysis</title>
-      <link>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-85/</link>
+      <link>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-85/</link>
       <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-85/</guid>
+      <guid>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-a-85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homogeneity Analysis of Event History Data</title>
-      <link>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-kreft-a-85/</link>
+      <link>https://jansweb.netlify.app/publication/deleeuw-vanderheijden-kreft-a-85/</link>
       <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/deleeuw-vanderheijden-kreft-a-85/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-vanderheijden-kreft-a-85/</guid>
       <description></description>
     </item>
     
