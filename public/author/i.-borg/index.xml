@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Borg | JansWeb</title>
-    <link>http://jansweb.netlify.app/author/i.-borg/</link>
-      <atom:link href="http://jansweb.netlify.app/author/i.-borg/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jansweb.netlify.app/author/i.-borg/</link>
+      <atom:link href="https://jansweb.netlify.app/author/i.-borg/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Borg</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>I. Borg</title>
-      <link>http://jansweb.netlify.app/author/i.-borg/</link>
+      <link>https://jansweb.netlify.app/author/i.-borg/</link>
     </image>
     
     <item>
       <title>Permutation Tests in MDS</title>
-      <link>http://jansweb.netlify.app/publication/mair-deleeuw-borg-u-14/</link>
+      <link>https://jansweb.netlify.app/publication/mair-deleeuw-borg-u-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://jansweb.netlify.app/publication/mair-deleeuw-borg-u-14/</guid>
+      <guid>https://jansweb.netlify.app/publication/mair-deleeuw-borg-u-14/</guid>
       <description></description>
     </item>
     
