@@ -3,12 +3,12 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: "Code"
+title: "Download Code"
 date: 2021-11-24
 view: 1
 ---
 
-[Deconstructing Multiple Correspondence Analysis](https://jansweb.netlify.app/publication/deleeuw-e-22-a/)
+[<span style="color:red">Deconstructing Multiple Correspondence Analysisso</span>](https://jansweb.netlify.app/publication/deleeuw-e-22-a/)
 
 * [DMCA Code](DMCA.R)
 * [MCA Code](MCA.R)
