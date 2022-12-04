@@ -8,7 +8,7 @@ date: 2021-11-24
 view: 1
 ---
 
-[<span style="color:red">Deconstructing Multiple Correspondence Analysisso</span>](https://jansweb.netlify.app/publication/deleeuw-e-22-a/)
+1. [<span style="color:red">Deconstructing Multiple Correspondence Analysis</span>](https://jansweb.netlify.app/publication/deleeuw-e-22-a/)
 
 * [DMCA Code](DMCA.R)
 * [MCA Code](MCA.R)
