@@ -1,10 +1,6 @@
 OMCA <-
   function(cbrt,
-           ncat,
-           eps = 1e-8,
-           itmax = 500,
-           verbose = TRUE,
-           vectors = TRUE) {
+           ncat) {
     cbrt <- as.matrix(cbrt)                  ## handle dataframes
     nvar <- length(ncat)                     ## number of variables
     ntot <-
