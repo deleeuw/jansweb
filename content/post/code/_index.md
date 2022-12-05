@@ -12,6 +12,7 @@ view: 1
 
 * [DMCA Code](DMCA.R)
 * [MCA Code](MCA.R)
+* [OMCA Code](OMCA.R)
 * [Burt Data](burt.R)
 * [GALO Data](galo.R)
 * [Johnson Data](johnson.R)
