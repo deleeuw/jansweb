@@ -30,9 +30,3 @@ image:
 projects: []
 publishDate: '2021-06-06T19:53:14.634440Z'
 publication_types:
-- '1'
-abstract: ''
-publication: '*From Data to Knowledge: Theoretical and Practical Aspects of Classification,
-  Data Analysis and Knowledge Organization*'
-url_pdf: http://deleeuwpdx.net/janspubs/1995/chapters/groenen_deleeuw_mathar_C_95.pdf
----
