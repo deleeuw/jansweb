@@ -22,17 +22,4 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-06-06T19:53:14.634440Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*From Data to Knowledge: Theoretical and Practical Aspects of Classification,
-  Data Analysis and Knowledge Organization*'
-url_pdf: http://deleeuwpdx.net/janspubs/1995/chapters/groenen_deleeuw_mathar_C_95.pdf
 ---
