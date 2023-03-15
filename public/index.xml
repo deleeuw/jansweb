@@ -5,7 +5,7 @@
     <link>https://jansweb.netlify.app/</link>
       <atom:link href="https://jansweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>JansWeb</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>JansWeb</title>
@@ -105,6 +105,38 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Differentiating the QR Decomposition</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-23-a/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Package &#34;Correlplot&#34;</title>
+      <link>https://jansweb.netlify.app/publication/graffelman-deleeuw-e-23-b/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/graffelman-deleeuw-e-23-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Approximation and Visualization of the Correlation Matrix</title>
+      <link>https://jansweb.netlify.app/publication/graffelman-deleeuw-a-23/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/graffelman-deleeuw-a-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization of a correlation matrix with the Correlplot package</title>
+      <link>https://jansweb.netlify.app/publication/graffelman-deleeuw-e-23-a/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/graffelman-deleeuw-e-23-a/</guid>
+      <description></description>
     </item>
     
     <item>
