@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Global Minima by Penalized Full-dimensional Scaling
+title: Global Minima in Metric Multidimensional Scaling by Penalized Full-dimensional Scaling
 subtitle: ''
 summary: ''
 authors:
