@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Least Squares Multidimensional Scaling
+title: Least Squares Euclidean Multidimensional Scaling
 subtitle: ''
 summary: ''
 authors:
