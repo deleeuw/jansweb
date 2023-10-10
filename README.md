@@ -1,2 +1,2 @@
 # jansweb
-files for webpage https://www.netlify.app/jansweb
+files for website https://jansweb.netlify.app
