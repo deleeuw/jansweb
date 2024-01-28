@@ -5,12 +5,28 @@
     <link>https://jansweb.netlify.app/author/j.-de-leeuw/</link>
       <atom:link href="https://jansweb.netlify.app/author/j.-de-leeuw/index.xml" rel="self" type="application/rss+xml" />
     <description>J. De Leeuw</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>J. De Leeuw</title>
       <link>https://jansweb.netlify.app/author/j.-de-leeuw/</link>
     </image>
+    
+    <item>
+      <title>Least Squares Unidimensional Scaling</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-23-c/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-23-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powering Dissimilarities in Metric MDS</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-23-b/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-23-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differentiating the QR Decomposition</title>
@@ -181,7 +197,7 @@
     </item>
     
     <item>
-      <title>Global Minima by Penalized Full-dimensional Scaling</title>
+      <title>Global Minima in Metric Multidimensional Scaling by Penalized Full-dimensional Scaling</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-e-19-e/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-19-e/</guid>
