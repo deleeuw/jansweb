@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Coolen | JansWeb</title>
+    <link>https://jansweb.netlify.app/author/h.-coolen/</link>
+      <atom:link href="https://jansweb.netlify.app/author/h.-coolen/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Coolen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1987 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Coolen</title>
+      <link>https://jansweb.netlify.app/author/h.-coolen/</link>
+    </image>
+    
+    <item>
+      <title>Least Squares Path Analysis with Optimal Scaling</title>
+      <link>https://jansweb.netlify.app/publication/coolen-deleeuw-r-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/coolen-deleeuw-r-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Nonlinear Principal Component Analysis with B-splines by Means of Alternating Least Squares</title>
+      <link>https://jansweb.netlify.app/publication/coolen-vanrijckevorsel-deleeuw-c-82/</link>
+      <pubDate>Fri, 01 Jan 1982 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/coolen-vanrijckevorsel-deleeuw-c-82/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

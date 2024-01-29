@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. J. W. Tijssen | JansWeb</title>
+    <link>https://jansweb.netlify.app/author/r.-j.-w.-tijssen/</link>
+      <atom:link href="https://jansweb.netlify.app/author/r.-j.-w.-tijssen/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. J. W. Tijssen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1989 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R. J. W. Tijssen</title>
+      <link>https://jansweb.netlify.app/author/r.-j.-w.-tijssen/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Set Nonlinear Canonical Analysis via the Burt Matrix</title>
+      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-c-89/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-c-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method for Mapping Bibliometric Relations Based on Field-Classifications and Citations of Articles</title>
+      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-c-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-c-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Data-analysis Methods in Bibliometric Studies of Science and Technology</title>
+      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-c-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-c-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Assessment of Citation-based Influences between Journals with the Quasisymmetry Model</title>
+      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-87-a/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-87-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-correspondence Analysis of Scientometric Transaction Matrices</title>
+      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-a-87/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-a-87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Analysis of the Quasi-symmetry Model: Applications in Citation-Based Assessment of Journal Influences</title>
+      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-87-b/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-87-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-correspondence Analysis of Scientometric Transaction Matrices</title>
+      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

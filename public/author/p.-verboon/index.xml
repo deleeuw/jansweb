@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Verboon | JansWeb</title>
+    <link>https://jansweb.netlify.app/author/p.-verboon/</link>
+      <atom:link href="https://jansweb.netlify.app/author/p.-verboon/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Verboon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1990 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Verboon</title>
+      <link>https://jansweb.netlify.app/author/p.-verboon/</link>
+    </image>
+    
+    <item>
+      <title>A Latent Time-Budget Model</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-vanderheijden-verboon-a-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-vanderheijden-verboon-a-90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Een Model voor de Analyse van Latente Tijdbudgetten [A Model for the Analysis of Latent Time Budgets]</title>
+      <link>https://jansweb.netlify.app/publication/verboon-vanderheijden-deleeuw-r-88/</link>
+      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/verboon-vanderheijden-deleeuw-r-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Canonical Analysis of Grassland Community Data</title>
+      <link>https://jansweb.netlify.app/publication/verboon-deleeuw-u-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/verboon-deleeuw-u-86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
