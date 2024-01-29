@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Lew | JansWeb</title>
+    <link>https://jansweb.netlify.app/author/v.-lew/</link>
+      <atom:link href="https://jansweb.netlify.app/author/v.-lew/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. Lew</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 1994 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>V. Lew</title>
+      <link>https://jansweb.netlify.app/author/v.-lew/</link>
+    </image>
+    
+    <item>
+      <title>Block Recursive Path Models</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-lew-u-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-lew-u-94/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

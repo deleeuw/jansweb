@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Van der Pol | JansWeb</title>
+    <link>https://jansweb.netlify.app/author/j.-van-der-pol/</link>
+      <atom:link href="https://jansweb.netlify.app/author/j.-van-der-pol/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Van der Pol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1986 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Van der Pol</title>
+      <link>https://jansweb.netlify.app/author/j.-van-der-pol/</link>
+    </image>
+    
+    <item>
+      <title>A Multivariate Estimation Model for Normal Correlation in Discrete Ordered Variables</title>
+      <link>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aspects of the Estimation of the Polychoric Correlation Coefficient</title>
+      <link>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-85-a/</link>
+      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-85-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

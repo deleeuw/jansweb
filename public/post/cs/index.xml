@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On Techniques for Data Analysis (TDA) | JansWeb</title>
+    <link>https://jansweb.netlify.app/post/cs/</link>
+      <atom:link href="https://jansweb.netlify.app/post/cs/index.xml" rel="self" type="application/rss+xml" />
+    <description>On Techniques for Data Analysis (TDA)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/post/cs/featured.jpg</url>
+      <title>On Techniques for Data Analysis (TDA)</title>
+      <link>https://jansweb.netlify.app/post/cs/</link>
+    </image>
+    
+  </channel>
+</rss>

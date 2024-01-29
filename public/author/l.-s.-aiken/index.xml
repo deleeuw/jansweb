@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. S. Aiken | JansWeb</title>
+    <link>https://jansweb.netlify.app/author/l.-s.-aiken/</link>
+      <atom:link href="https://jansweb.netlify.app/author/l.-s.-aiken/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. S. Aiken</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1995 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>L. S. Aiken</title>
+      <link>https://jansweb.netlify.app/author/l.-s.-aiken/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Different Forms of Centering in Hierarchical Linear Models</title>
+      <link>https://jansweb.netlify.app/publication/kreft-deleeuw-aiken-a-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/kreft-deleeuw-aiken-a-95/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

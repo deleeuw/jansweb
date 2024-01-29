@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Nierop | JansWeb</title>
+    <link>https://jansweb.netlify.app/author/d.-nierop/</link>
+      <atom:link href="https://jansweb.netlify.app/author/d.-nierop/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Nierop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1986 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Nierop</title>
+      <link>https://jansweb.netlify.app/author/d.-nierop/</link>
+    </image>
+    
+    <item>
+      <title>De Analyse van Verloopscurven met Additieve en Multiplicatieve Modellen [The Analysis of Growth Curves with Additive and Multiplicative Models]</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-nierop-r-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-nierop-r-86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
