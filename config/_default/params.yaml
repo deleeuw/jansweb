@@ -24,7 +24,6 @@ marketing:
 # Contact (edit or remove options as required)
 
 email: jan@deleeuwpdx.net
-phone: 971 325 6576
 contact_links:
   - icon: github
     icon_pack: fab
@@ -34,14 +33,6 @@ contact_links:
     icon_pack: fab
     name: Wiki Me
     link: https://en.wikipedia.org/wiki/Jan_de_Leeuw
-  - icon: facebook
-    icon_pack: fab
-    name: Face Me
-    link: 'https://facebook.com/deleeuwpdx'
-  - icon: twitter
-    icon_pack: fab
-    name: Twit Me
-    link: 'https://twitter.com/janamherst'
   - icon: youtube
     icon_pack: fab
     name: Tube Me
