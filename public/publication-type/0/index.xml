@@ -5,12 +5,20 @@
     <link>https://jansweb.netlify.app/publication-type/0/</link>
       <atom:link href="https://jansweb.netlify.app/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
       <link>https://jansweb.netlify.app/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Majorizing Kruskals Stress Formula Two</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-24-a/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-24-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differentiating the QR Decomposition</title>
