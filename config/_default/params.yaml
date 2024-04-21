@@ -32,7 +32,7 @@ contact_links:
   - icon: wikipedia-w
     icon_pack: fab
     name: Wiki Me
-    link: https://en.wikipedia.org/wiki/Jan_de_Leeuw
+    link: 'https://en.wikipedia.org/wiki/Jan_de_Leeuw'
   - icon: youtube
     icon_pack: fab
     name: Tube Me
