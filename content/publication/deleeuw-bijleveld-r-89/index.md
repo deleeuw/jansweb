@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Linear Dynamical Systems Analysis by Alternating Least Squares
+title: Fitting Longitudinal Reduced Rank Regression Models by Alternatng Least Squares
 subtitle: ''
 summary: ''
 authors:
