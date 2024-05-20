@@ -33,5 +33,4 @@ publication_types:
 - '4'
 abstract: ''
 publication: ''
-url_pdf: https://escholarship.org/uc/item/8xm4m8wg
 ---
