@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Foreword
+title: Foreword Albert Gifi: Nonlinear Multivariate Analysis
 subtitle: ''
 summary: ''
 authors:
