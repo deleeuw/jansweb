@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multivariate Analyse van Linear Structurele Modellen [Multivaraite Analysis
+title: Multivariate Analyse van Linear Structurele Modellen [Multivariate Analysis
   of Linear Structural Models]
 subtitle: ''
 summary: ''
