@@ -605,14 +605,6 @@
     </item>
     
     <item>
-      <title>Multilevel Path Analysis</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-kreft-r-93-a/</link>
-      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-kreft-r-93-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On Least Squares Optimization of Linear Dynamic Systems</title>
       <link>https://jansweb.netlify.app/publication/bijleveld-bijleveld-deleeuw-r-93/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
@@ -669,23 +661,7 @@
     </item>
     
     <item>
-      <title>Fitting Reduced Rank Regression Models by Alternating Maximum Likelihood</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-89/</link>
-      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latent Budget Analysis</title>
-      <link>https://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-r-89/</link>
-      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/vanderheijden-mooijaart-deleeuw-r-89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear Dynamical Systems Analysis by Alternating Least Squares</title>
+      <title>Fitting Longitudinal Reduced Rank Regression Models by Alternatng Least Squares</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-bijleveld-r-89/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-bijleveld-r-89/</guid>
@@ -693,18 +669,10 @@
     </item>
     
     <item>
-      <title>Model-Based Ranking of Schools</title>
-      <link>https://jansweb.netlify.app/publication/kreft-deleeuw-r-89/</link>
+      <title>Fitting Reduced Rank Regression Models by Alternating Maximum Likelihood</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-r-89/</link>
       <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/kreft-deleeuw-r-89/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Correspondence Analysis, with Special Attention to the Analysis of Panel Data and Event History Data</title>
-      <link>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-88/</link>
-      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-88/</guid>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-r-89/</guid>
       <description></description>
     </item>
     
@@ -725,34 +693,10 @@
     </item>
     
     <item>
-      <title>Model-Based Ranking of Schools</title>
-      <link>https://jansweb.netlify.app/publication/kreft-deleeuw-r-88/</link>
-      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/kreft-deleeuw-r-88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multivariate Analysis with Linearizable Regressions</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-88-a/</link>
-      <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-88-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Relation between In and Output Variables in Various Groups of Individuals</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-kreft-r-88/</link>
       <pubDate>Fri, 01 Jan 1988 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-kreft-r-88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Assessment of Citation-based Influences between Journals with the Quasisymmetry Model</title>
-      <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-87-a/</link>
-      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-87-a/</guid>
       <description></description>
     </item>
     
@@ -781,14 +725,6 @@
     </item>
     
     <item>
-      <title>Nonlinear Canonical Correlation Analysis with K Sets of Variables</title>
-      <link>https://jansweb.netlify.app/publication/vanderburg-deleeuw-r-87-b/</link>
-      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/vanderburg-deleeuw-r-87-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Residual Analysis of the Quasi-symmetry Model: Applications in Citation-Based Assessment of Journal Influences</title>
       <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-87-b/</link>
       <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
@@ -805,34 +741,10 @@
     </item>
     
     <item>
-      <title>Use of the Multinomial Jackknife and Bootstrap in Generalized Nonlinear Canonical Correlation Analysis</title>
-      <link>https://jansweb.netlify.app/publication/vanderburg-deleeuw-r-87-a/</link>
-      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/vanderburg-deleeuw-r-87-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Multidimensional Scaling Approach to Multivariate Analysis</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-86-e/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-86-e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Multivariate Estimation Model for Normal Correlation in Discrete Ordered Variables</title>
       <link>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-86/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>De Analyse van Verloopscurven met Additieve en Multiplicatieve Modellen [The Analysis of Growth Curves with Additive and Multiplicative Models]</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-nierop-r-86/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-nierop-r-86/</guid>
       <description></description>
     </item>
     
@@ -845,14 +757,6 @@
     </item>
     
     <item>
-      <title>Kwantificeren en Meten in de Sociale en Gedragswetenschappen [Quantification and Measurement in the Social and Behavioral Sciences]</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-86-b/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-86-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maken Scholen Verschil? [Do Schools Make a Difference?]</title>
       <link>https://jansweb.netlify.app/publication/kreft-bronkhorst-vandullemen-deleeuw-r-86/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
@@ -861,58 +765,10 @@
     </item>
     
     <item>
-      <title>Multivariate Analysis with Optimal Scaling</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-86-a/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-86-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonlinear Multivariate Analysis with Optimal Scaling</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-86-c/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-86-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonlinear Path Analysis with Optimal Scaling</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-86-d/</link>
-      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-86-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Quasi-correspondence Analysis of Scientometric Transaction Matrices</title>
       <link>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-86/</link>
       <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/tijssen-deleeuw-vanraan-r-86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ANACOR</title>
-      <link>https://jansweb.netlify.app/publication/gifi-r-85-b/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/gifi-r-85-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aspects of the Estimation of the Polychoric Correlation Coefficient</title>
-      <link>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-85-a/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/vanderpol-deleeuw-r-85-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Correspondence Analysis used Complimentary to Loglinear Analysis</title>
-      <link>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-85/</link>
-      <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/vanderheijden-deleeuw-r-85/</guid>
       <description></description>
     </item>
     
@@ -1029,22 +885,6 @@
     </item>
     
     <item>
-      <title>Beyond Homogeneity Analysis</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-84-d/</link>
-      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-84-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence of Majorization Algorithms for Multidimensional Scaling</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-84-c/</link>
-      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-84-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Correlation Between Raven Progressive Matrices Test Scores of Fathers and Sons</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-vroon-meester-leyten-r-84/</link>
       <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
@@ -1057,14 +897,6 @@
       <link>https://jansweb.netlify.app/publication/kreft-deleeuw-r-84-a/</link>
       <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/kreft-deleeuw-r-84-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Least Squares and Maximum Likelihood for Causal Models with Discrete Variables</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-84-e/</link>
-      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-84-e/</guid>
       <description></description>
     </item>
     
