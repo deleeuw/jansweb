@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50: A Manual, Part 8: smacofHO: Gifi Smacofified
+title: Smacof at 50. A Manual, Part 8 -- Homogeneity Analysis
 subtitle: ''
 summary: ''
 authors:

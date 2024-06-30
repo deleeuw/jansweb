@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50: A Manual, Part 4: smacofPC: Smacof for Tetrads
+title: Smacof at 50. A Manual, Part 5 -- Smacof for Tetrads
 subtitle: ''
 summary: ''
 authors:
