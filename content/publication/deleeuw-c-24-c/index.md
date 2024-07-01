@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50. A Manual, Part 3 -- Smacof with B-Spline Transformations
+title: Smacof at 50. A Manual, Part 3 -- B-Spline Transformations
 subtitle: ''
 summary: ''
 authors:

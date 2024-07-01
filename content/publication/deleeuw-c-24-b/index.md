@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50. A Manual, Part 2 -- Metric and Interval Smacof
+title: Smacof at 50. A Manual, Part 2 -- Metric and Interval
 subtitle: ''
 summary: ''
 authors:

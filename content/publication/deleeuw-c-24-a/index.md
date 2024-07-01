@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50. A Manual, Part 1 -- Smacof Basics
+title: Smacof at 50. A Manual, Part 1 --  Basics
 subtitle: ''
 summary: ''
 authors:

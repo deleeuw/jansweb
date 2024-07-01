@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50. A Manual, Part 4 -- Smacof for Rank Order Data
+title: Smacof at 50. A Manual, Part 4 -- Rank Orders
 subtitle: ''
 summary: ''
 authors:

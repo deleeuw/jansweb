@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50. A Manual, Part x -- Power Functions
-subtitle: 'A Manual, Part x -- Power Functions'
+title: Smacof at 50. A Manual, Part 6 -- Power Functions
+subtitle: ''
 summary: ''
 authors:
 - J. De Leeuw
