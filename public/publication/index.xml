@@ -21,7 +21,15 @@
     </item>
     
     <item>
-      <title>Smacof at 50. A Manual, Part 1 -- Smacof Basics</title>
+      <title>The Center of Us</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-24-b/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-24-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smacof at 50. A Manual, Part 1 --  Basics</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-c-24-a/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-a/</guid>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>Smacof at 50. A Manual, Part 2 -- Metric and Interval Smacof</title>
+      <title>Smacof at 50. A Manual, Part 2 -- Metric and Interval</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-c-24-b/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-b/</guid>
@@ -37,7 +45,7 @@
     </item>
     
     <item>
-      <title>Smacof at 50. A Manual, Part 3 -- Smacof with B-Spline Transformations</title>
+      <title>Smacof at 50. A Manual, Part 3 -- B-Spline Transformations</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-c-24-c/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-c/</guid>
@@ -45,7 +53,7 @@
     </item>
     
     <item>
-      <title>Smacof at 50. A Manual, Part 4 -- Smacof for Rank Order Data</title>
+      <title>Smacof at 50. A Manual, Part 4 -- Rank Orders</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-c-24-d/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-d/</guid>
@@ -53,10 +61,18 @@
     </item>
     
     <item>
-      <title>Smacof at 50. A Manual, Part 5 -- Smacof for Tetrads</title>
+      <title>Smacof at 50. A Manual, Part 5 -- Triads and Tetrads</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-c-24-e/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smacof at 50. A Manual, Part 6 -- Power Functions</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-c-24-g/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-g/</guid>
       <description></description>
     </item>
     
@@ -65,6 +81,14 @@
       <link>https://jansweb.netlify.app/publication/deleeuw-c-24-f/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smacof at 50. A Manual, Part 9 -- Robust Least Squares Multidimensional Scaling</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-c-24-h/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-c-24-h/</guid>
       <description></description>
     </item>
     
