@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Smacof at 50. A Manual, Part 9 -- Robust Smacof
+title: Smacof at 50. A Manual, Part 9 -- Robust Least Squares Multidimensional Scaling
 subtitle: ''
 summary: ''
 authors:
