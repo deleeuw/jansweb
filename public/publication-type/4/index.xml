@@ -157,6 +157,14 @@
     </item>
     
     <item>
+      <title>Using Jacobi Plane Rotations in R</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-r-08-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-r-08-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Horseshoe for Multidimensional Scaling</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-r-07-a/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
@@ -345,14 +353,6 @@
       <link>https://jansweb.netlify.app/publication/deleeuw-r-05-d/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-r-05-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonlinear Principal Component Analysis and Related Techniques</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-r-05-l/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-r-05-l/</guid>
       <description></description>
     </item>
     
@@ -1033,14 +1033,6 @@
       <link>https://jansweb.netlify.app/publication/heiser-deleeuw-r-79-a/</link>
       <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/heiser-deleeuw-r-79-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principal Component Analysis of Three-mode Data by Means of Alternating Least Squares Algorithms, Including Proofs</title>
-      <link>https://jansweb.netlify.app/publication/kroonenberg-deleeuw-r-79/</link>
-      <pubDate>Mon, 01 Jan 1979 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/kroonenberg-deleeuw-r-79/</guid>
       <description></description>
     </item>
     

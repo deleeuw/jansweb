@@ -1,5 +1,4 @@
 Version: 1.0
-ProjectId: 94a0a551-a28d-4103-9ef4-a29443486d64
 
 RestoreWorkspace: Default
 SaveWorkspace: Default
@@ -11,6 +10,7 @@ NumSpacesForTab: 2
 Encoding: UTF-8
 
 RnwWeave: knitr
-LaTeX: pdfLaTeX
+LaTeX: XeLaTeX
 
 BuildType: Website
+WebsitePath: ~/Library/Mobile Documents/com~apple~CloudDocs/jansweb
