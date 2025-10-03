@@ -13,4 +13,3 @@ RnwWeave: knitr
 LaTeX: XeLaTeX
 
 BuildType: Website
-WebsitePath: ~/jansweb
