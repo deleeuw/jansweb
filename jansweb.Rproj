@@ -13,4 +13,4 @@ RnwWeave: knitr
 LaTeX: XeLaTeX
 
 BuildType: Website
-WebsitePath: ~/Library/Mobile Documents/com~apple~CloudDocs/jansweb
+WebsitePath: ~/jansweb
