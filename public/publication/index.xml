@@ -5,12 +5,28 @@
     <link>https://jansweb.netlify.app/publication/</link>
       <atom:link href="https://jansweb.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://jansweb.netlify.app/publication/</link>
     </image>
+    
+    <item>
+      <title>Nonmetric Elastic MDS</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-25-f/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonmetric Sammon Mapping</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-25-g/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-g/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Matrix Decomposition Factor Analysis&#39;</title>
@@ -25,22 +41,6 @@
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-d/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonmetric Elastic MDS</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-e-25-f/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-f/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonmetric Sammon Mapping</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-e-25-g/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-g/</guid>
       <description></description>
     </item>
     
@@ -65,6 +65,14 @@
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-b/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Multidimensional Scaling with the R Package smacofx</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-a-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-a-25/</guid>
       <description></description>
     </item>
     

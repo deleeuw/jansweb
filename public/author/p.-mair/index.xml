@@ -5,12 +5,20 @@
     <link>https://jansweb.netlify.app/author/p.-mair/</link>
       <atom:link href="https://jansweb.netlify.app/author/p.-mair/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Mair</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>P. Mair</title>
       <link>https://jansweb.netlify.app/author/p.-mair/</link>
     </image>
+    
+    <item>
+      <title>Flexible Multidimensional Scaling with the R Package smacofx</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-a-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-a-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>More on Multidimensional Scaling in R: smacof Version 2</title>
