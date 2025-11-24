@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Nonmetric Elastic MDS'
+title: 'Metric/Nonmetric Elastic MDS'
 subtitle: ''
 summary: ''
 authors:
