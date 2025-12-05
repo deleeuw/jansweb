@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Nonmetric Sammon Mapping'
+title: 'Metric/Nonmetric Sammon Mapping'
 subtitle: ''
 summary: ''
 authors:
