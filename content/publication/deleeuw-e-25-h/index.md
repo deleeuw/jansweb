@@ -4,7 +4,8 @@
 title: 'Tertiary Approach Considered Harmful'
 subtitle: ''
 summary: ''
-authors: J. De Leeuw
+authors:
+- J. De Leeuw
 tags: []
 categories: []
 date: '2025-11-23'
