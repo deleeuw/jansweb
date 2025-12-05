@@ -5,7 +5,7 @@
     <link>https://jansweb.netlify.app/</link>
       <atom:link href="https://jansweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>JansWeb</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>JansWeb</title>
@@ -108,7 +108,23 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Nonmetric Elastic MDS</title>
+      <title>Tertiary Approach Considered Harmful</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-25-h/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Multidimensional Scaling with the R Package smacofx</title>
+      <link>https://jansweb.netlify.app/publication/rusch-deleeuw-mair-hornik-a-25/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/rusch-deleeuw-mair-hornik-a-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metric/Nonmetric Elastic MDS</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-f/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-f/</guid>
@@ -116,7 +132,7 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Nonmetric Sammon Mapping</title>
+      <title>Metric/Nonmetric Sammon Mapping</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-g/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-g/</guid>
@@ -160,14 +176,6 @@ The variance of the distribution is $\sigma^{2}$.
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-b/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flexible Multidimensional Scaling with the R Package smacofx</title>
-      <link>https://jansweb.netlify.app/publication/deleeuw-a-25/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://jansweb.netlify.app/publication/deleeuw-a-25/</guid>
       <description></description>
     </item>
     
