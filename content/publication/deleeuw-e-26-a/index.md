@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Minimizing fStress and rStress by Majorizing Gauss-Newton'
+title: 'Minimizing fStress by Majorizing A Gauss-Newton Approximation'
 subtitle: ''
 summary: ''
 authors:
