@@ -5,7 +5,7 @@
     <link>https://jansweb.netlify.app/</link>
       <atom:link href="https://jansweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>JansWeb</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>JansWeb</title>
@@ -108,6 +108,30 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Metric Multidimensional Unfolding</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-26-c/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-26-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing fStress by Majorizing A Gauss-Newton Approximation</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-26-a/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-26-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonmetric Strain</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-26-b/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-26-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tertiary Approach Considered Harmful</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-h/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
@@ -140,7 +164,7 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Matrix Decomposition Factor Analysis&#39;</title>
+      <title>Matrix Decomposition Factor Analysis</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-e/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-e/</guid>
@@ -176,6 +200,14 @@ The variance of the distribution is $\sigma^{2}$.
       <link>https://jansweb.netlify.app/publication/deleeuw-e-25-b/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/publication/deleeuw-e-25-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Software: An Overview</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-lovric-c-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-lovric-c-25/</guid>
       <description></description>
     </item>
     
