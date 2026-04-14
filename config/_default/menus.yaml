@@ -25,6 +25,9 @@ main:
   - name: 'Say My Name'
     url: post/name
     weight: 50
+  - name: 'SimpleAnalytics'
+    url: https://dashboard.simpleanalytics.com/jansweb.netlify.app
+    weight: 55
   - name: Contact
     url: '#contact'
-    weight: 55
+    weight: 60
