@@ -8,6 +8,8 @@ date: 2026-04-14
 view: 1
 ---
 
+2026-04-14
+
 Over the last couple of years I have written a large number of R codes for
 matrix approximation, multidimensional scaling, and multivariate analysis.
 The general approach is to write a stand-alone R program and in addition an R driver that
@@ -25,5 +27,3 @@ but the current form they maybe useful to some. Everything in the repositories
 is open source with a CC0 license, so the files can be used in whatever way you see fit. 
 Attribution is appreciated, but not required.
 On the other hand, all suggestions for improvement of paper and code are welcome.
-
-$$\frac{1}{2\pi}$$
