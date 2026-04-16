@@ -23,7 +23,10 @@ The papers/manuals/vignettes, largely unpublished and often unfinished, are at
 https://jansweb.netlify.app/publication and the corresponding C, h, R, pdf,
 qmd, tex, bib files are at https://github.com/deleeuw?tab=repositories. I am not
 interested in transforming these papers/codes to full-fledged publications,
-but the current form they maybe useful to some. Everything in the repositories
+but in the current form they maybe useful to some. Everything in the repositories
 is open source with a CC0 license, so the files can be used in whatever way you see fit. 
 Attribution is appreciated, but not required.
 On the other hand, all suggestions for improvement of paper and code are welcome.
+
+
+{{ transform.ToMath "c = \\pm\\sqrt{a^2 + b^2}" }}
