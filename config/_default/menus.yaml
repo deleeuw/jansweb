@@ -13,9 +13,6 @@ main:
   - name: Papers
     url: publication/
     weight: 25
-  - name: Code
-    url: post/code
-    weight: 30
   - name: Github
     url: https://github.com/deleeuw
     weight: 35
