@@ -25,3 +25,5 @@ but the current form they maybe useful to some. Everything in the repositories
 is open source with a CC0 license, so the files can be used in whatever way you see fit. 
 Attribution is appreciated, but not required.
 On the other hand, all suggestions for improvement of paper and code are welcome.
+
+$$\frac{1}{2\pi}$$
