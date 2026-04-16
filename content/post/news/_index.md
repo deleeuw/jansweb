@@ -28,4 +28,4 @@ is open source with a CC0 license, so the files can be used in whatever way you 
 Attribution is appreciated, but not required.
 On the other hand, all suggestions for improvement of paper and code are welcome.
 
-\(x_i\)
+$$ E=mc^2 $$
