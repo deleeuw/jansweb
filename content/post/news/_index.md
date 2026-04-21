@@ -30,4 +30,6 @@ On the other hand, all suggestions for improvement of paper and code are welcome
 
 2026-04-21
 
-![alt text](img.png)
+# Five Chairs
+
+![Five Chairs](img.png)
