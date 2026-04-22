@@ -28,6 +28,4 @@ main:
   - name: 'SimpleAnalytics'
     url: https://dashboard.simpleanalytics.com/jansweb.netlify.app
     weight: 55
-  - name: Contact
-    url: '#contact'
-    weight: 60
+
