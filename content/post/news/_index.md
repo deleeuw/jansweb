@@ -53,7 +53,9 @@ matrix of weights, and * is Hadamard (elementwise) multiplication.
 Both programs use majorization (MM), the function nested() uses
 a nice nested majorization. The type of approximation wanted is
 a parameter, the name of a function for unweighted least squares
-approximation (defaults to eckart-young()).
+approximation (defaults to eckart-young()). The file auxiliary.R
+contains nine different approximation routines that can be used
+in both nested() and triple().
 
 As always, everything is public domain, and both paper and code may
 change many times
