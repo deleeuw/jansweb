@@ -8,7 +8,7 @@ date: 2026-04-14
 view: 1
 ---
 
-2026-04-14
+# Repositories (2026-04-14)
 
 Over the last couple of years I have written a large number of R codes for
 matrix approximation, multidimensional scaling, and multivariate analysis.
@@ -28,14 +28,12 @@ is open source with a CC0 license, so the files can be used in whatever way you 
 Attribution is appreciated, but not required.
 On the other hand, all suggestions for improvement of paper and code are welcome.
 
-2026-04-21
-
-# Five Chairs
+# Five Chairs (2026-04-21)
 
 ![Five Chairs](img.png)
 
 
-2026-04-22
+# Matrix Approximation (2026-04-22)
 
 "Matrix Approximation with Kronecker and Precision Weighting" by
 De Leeuw and Graffelman is at 
