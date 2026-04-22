@@ -5,12 +5,20 @@
     <link>https://jansweb.netlify.app/publication/</link>
       <atom:link href="https://jansweb.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://jansweb.netlify.app/publication/</link>
     </image>
+    
+    <item>
+      <title>Matrix Approximation with Kronecker and Precision Weighting</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-graffelman-e-26-d/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-graffelman-e-26-d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Metric Multidimensional Unfolding</title>
