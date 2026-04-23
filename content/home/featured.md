@@ -11,7 +11,7 @@ active: true
 weight: 80
 
 title: Books
-subtitle: "Updated Frequently"
+subtitle: "Updated Rarely"
 
 content:
   # Page type to display. E.g. post, talk, publication...
