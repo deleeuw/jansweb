@@ -62,11 +62,15 @@ change many times
 
 # Workshop (2026-04-24)
 
-On April 10, on occasion of my 80th birthday, my old department organized a [workshop](https://deleeuwworkshop.stat.ucla.edu) 
-
-> Algorithms & Innovations in Data Science
-> to celebrate the legacy of Jan de Leeuw 
-
-The presentations are now online
+On April 10, to celebrate my 80th birthday, my old department organized a [workshop](https://deleeuwworkshop.stat.ucla.edu) 
+he presentations are now online
 at <https://deleeuwworkshop.stat.ucla.edu/#schedule>. I once more, and probably for the last time, flew to LA. It was good to see old friends, to meet new faculty and students, and to mosey around
 in familiar surroundings. I had a good time.
+
+# Matrix Decomposition (2026-04-24)
+
+<https://github.com/deleeuw/decomp> has R code and paper for matrix 
+approximation of Y by X in the Kronecker norm
+tr R(Y-X)C(Y-X)', with R and C positive semi-definite matrices. 
+Subroutines for various choices of X, including low-rank
+approximation, are in provided.
