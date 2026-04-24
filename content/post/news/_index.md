@@ -70,7 +70,8 @@ in familiar surroundings. I had a good time.
 # Matrix Decomposition (2026-04-24)
 
 <https://github.com/deleeuw/decomp> has R code and paper for matrix 
-approximation of Y by X in the Kronecker norm
+decomposition of Y by X in the Kronecker norm
 tr R(Y-X)C(Y-X)', with R and C positive semi-definite matrices. 
-Subroutines for various choices of X, including low-rank
-approximation, are provided.
+Specifically we look at X of the form c + ae' + eb' + D. The four
+components define four Kronecker-orthogonal subspaces of matrix space.
+We project Y on these four subspaces, using the Kronecker metric.
