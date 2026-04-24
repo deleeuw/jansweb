@@ -73,4 +73,4 @@ in familiar surroundings. I had a good time.
 approximation of Y by X in the Kronecker norm
 tr R(Y-X)C(Y-X)', with R and C positive semi-definite matrices. 
 Subroutines for various choices of X, including low-rank
-approximation, are in provided.
+approximation, are provided.
