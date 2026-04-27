@@ -4,7 +4,7 @@ header:
   caption: ""
   image: ""
 title: "Matrix Decomposition (2026-04-24)"
-date: 2026-04-14
+date: 2026-04-24
 view: 1
 ---
 <https://github.com/deleeuw/decomp> has R code and paper for matrix 
