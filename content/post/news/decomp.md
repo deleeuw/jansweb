@@ -13,7 +13,7 @@ tr RXCX', with R and C positive semi-definite matrices.
 Specifically we look at decompositions of the form X = c + ae' + eb' + D. The four components are used to define four Kronecker-orthogonal subspaces of matrix space.
 We project X on these four subspaces, using the Kronecker metric. We discuss
 
-* Applications to matrix aproximation,
-* Generalizations to multidimensional arrays, 
-* Extensions to external variables that are different from vectors with all elements equal to one, and 
-* ML estimatyion for the matrix variate normal distribution.
+* applications to matrix approximation,
+* generalizations to multidimensional arrays, 
+* extensions to external or passive variables, and 
+* ML estimation for the matrix variate normal distribution.
