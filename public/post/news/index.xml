@@ -12,5 +12,107 @@
       <link>https://jansweb.netlify.app/post/news/</link>
     </image>
     
+    <item>
+      <title>Matrix Decomposition (2026-04-24)</title>
+      <link>https://jansweb.netlify.app/post/news/decomp/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/decomp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/deleeuw/decomp&#34;&gt;https://github.com/deleeuw/decomp&lt;/a&gt; has R code and paper for matrix
+decomposition of Y by X in the Kronecker norm
+tr R(Y-X)C(Y-X)&#39;, with R and C positive semi-definite matrices.
+Specifically we look at X of the form c + ae&#39; + eb&#39; + D. The four
+components define four Kronecker-orthogonal subspaces of matrix space.
+We project Y on these four subspaces, using the Kronecker metric.
+Generalizations to multidimensional arrays, to external variables
+different from vectors with all elements equal to one, and to
+the matrix variate normal distribution are
+discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop (2026-04-24)</title>
+      <link>https://jansweb.netlify.app/post/news/workshop/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/workshop/</guid>
+      <description>&lt;p&gt;On April 10, to celebrate my 80th birthday, my old department organized a &lt;a href=&#34;https://deleeuwworkshop.stat.ucla.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop&lt;/a&gt;.
+The presentations (overheads and videos) are now online at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://deleeuwworkshop.stat.ucla.edu/#schedule&#34;&gt;https://deleeuwworkshop.stat.ucla.edu/#schedule&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I once more, and probably for the last time, flew to LA. It was good to see old friends, to meet new faculty and students, and to mosey around
+in familiar surroundings. I had a good time.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-five-chairs-no-table&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figures/img.png&#34; alt=&#34;Five Chairs, No Table&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Five Chairs, No Table
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matrix Approximation (2026-04-22)</title>
+      <link>https://jansweb.netlify.app/post/news/triple/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/triple/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Matrix Approximation with Kronecker and Precision Weighting&amp;rdquo; by
+De Leeuw and Graffelman is at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jansweb.netlify.app/publication/deleeuw-graffelman-e-26-d/&#34;&gt;https://jansweb.netlify.app/publication/deleeuw-graffelman-e-26-d/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and the files are at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deleeuw/triple&#34;&gt;https://github.com/deleeuw/triple&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are two R programs (triple.R and nested.R) for minimizing the
+loss function trace(R(W*(Y-X))C(W*(Y-X))&#39;) over a set in matrix space
+(for example the matrices of rank ≤ p, or the Hankel matrices, or
+whatever). Here Y is the matrix to be approximated, X is the
+approximating matrix, R and C are psd weight matrices, W is a non-negative
+matrix of weights, and * is Hadamard (elementwise) multiplication.
+Both programs use majorization (MM), the function nested() uses
+a nice nested majorization. The type of approximation wanted is
+a parameter, the name of a function for unweighted least squares
+approximation (defaults to eckart-young()). The file auxiliary.R
+contains nine different approximation routines that can be used
+in both nested() and triple().&lt;/p&gt;
+&lt;p&gt;As always, everything is public domain, and both paper and code may
+change many timesApr 27, 2026&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repositories (2026-04-14)</title>
+      <link>https://jansweb.netlify.app/post/news/repo/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/repo/</guid>
+      <description>&lt;p&gt;Over the last couple of years I have written a large number of R codes for
+matrix approximation, multidimensional scaling, and multivariate analysis.
+The general approach is to write a stand-alone R program and in addition an R driver that
+uses .C() to call a shared library, which is by itself a stand-alone
+C program. The main recent projects are C versions of the smacof MDS
+majorization (MM) method with extensions to Sammon mapping, Elastic Scaling,
+strain, fStress, rStress &amp;ndash; all written in both R and C, all with both
+metric and non-metric versions.&lt;/p&gt;
+&lt;p&gt;The papers/manuals/vignettes, largely unpublished and often unfinished, are at
+&lt;a href=&#34;https://jansweb.netlify.app/publication&#34;&gt;https://jansweb.netlify.app/publication&lt;/a&gt; and the corresponding C, h, R, pdf,
+qmd, tex, bib files are at &lt;a href=&#34;https://github.com/deleeuw?tab=repositories&#34;&gt;https://github.com/deleeuw?tab=repositories&lt;/a&gt;. I am not
+interested in transforming these papers/codes to full-fledged publications,
+but in the current form they maybe useful to some. Everything in the repositories
+is open source with a CC0 license, so the files can be used in whatever way you see fit.
+Attribution is appreciated, but not required.
+On the other hand, all suggestions for improvement of paper and code are welcome.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
