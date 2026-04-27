@@ -30,4 +30,4 @@ contains nine different approximation routines that can be used
 in both nested() and triple().
 
 As always, everything is public domain, and both paper and code may
-change many timesApr 27, 2026
+change over time.
