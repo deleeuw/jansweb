@@ -15,5 +15,4 @@ The presentations (overheads and videos) are now online at
 I once more, and probably for the last time, flew to LA. It was good to see old friends, to meet new faculty and students, and to mosey around
 in familiar surroundings. I had a good time.
 
-{{< figure src="chairs.jpg" title="Five Chairs, No Table" >}}
-
+![Five Chairs, No Table](/media/chairs.jpg)
