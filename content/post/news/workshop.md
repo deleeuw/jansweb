@@ -17,9 +17,7 @@ in familiar surroundings. I had a good time.
 
 
 <figure>
-    <img src="chairs.jpg" alt="Alt text" />
+    <img src="/media/chairs.jpg" alt="Alt text" />
     <figcaption>Five Chairs, No Table</figcaption>
 </figure>
 
-
-![Five Chairs, No Table](/media/chairs.jpg)
