@@ -11,3 +11,5 @@ On April 10, to celebrate my 80th birthday, my old department organized a [works
 he presentations are now online
 at <https://deleeuwworkshop.stat.ucla.edu/#schedule>. I once more, and probably for the last time, flew to LA. It was good to see old friends, to meet new faculty and students, and to mosey around
 in familiar surroundings. I had a good time.
+
+![Five Chairs](img.png)
