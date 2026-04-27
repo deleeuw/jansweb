@@ -17,6 +17,6 @@ in familiar surroundings. I had a good time.
 
 <figure>
     <img src="/media/chairs.jpg" alt="Alt text" />
-    <figcaption style="font-size:14px; ">Five Chairs, No Table</figcaption>
+    <figcaption style="font-size:18px; ">Five Chairs, No Table</figcaption>
 </figure>
 
