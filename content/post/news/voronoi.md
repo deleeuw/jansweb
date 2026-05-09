@@ -12,14 +12,14 @@ Analysis (MCA), there are n *objects* and m *variables* that measure
 the objects. By "measure" we mean that each variable j maps
 the n objects into a set of k(j) possible values, the
 *categories* of the variable. The number of categories can be
-finite or infinite, the categories can be nominal, ordinal, or
+finite or infinite and the categories can be nominal, ordinal, or
 numerical. In actual data analysis the number of categories
 that are actually present in the data will necessarily be 
 finite.
 
-HA maps objects and categories into a low-dimensional Euclidean
-space. The numerical output is an n * p matrix X of *object scores*
-and $m$ matrices Y(j), of dimension k(j) * p, of *category 
+HA maps objects and categories into a p-dimensional Euclidean
+space. The numerical output is an n x p matrix X of *object scores*
+and m matrices Y(j), of dimension k(j) x p, of *category 
 quantifications* or *category transformations*. 
 One of the main graphical output are the *star plots*. 
 There is one star plot for
