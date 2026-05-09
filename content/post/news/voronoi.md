@@ -10,7 +10,7 @@ view: 1
 In Homogeneity Analysis (HA), better known as Multiple Correpondence
 Analysis (MCA), there are n *objects* and m *variables* that measure
 the objects. By "measure" we mean that each variable j maps
-the n objects into a set of k(j) possible values, the
+the n objects into a set of k<sub>j</sub> possible values, the
 *categories* of the variable. The number of categories can be
 finite or infinite and the categories can be nominal, ordinal, or
 numerical. In actual data analysis the number of categories
@@ -19,12 +19,12 @@ finite.
 
 HA maps objects and categories into a p-dimensional Euclidean
 space. The numerical output is an n x p matrix X of *object scores*
-and m matrices Y(j), of dimension k(j) x p, of *category 
+and m matrices Y<sub>j</sub>, of dimension k<sub>j</sub> x p, of *category 
 quantifications* for nominal and ordinal variables or *category transformations*
 for numerical variables. In HA, in the
 form in which it is implemented in Gifi (1990), we require
 that X is column-centered with X'X = nI. The category 
-quantifications Y(j) Y<sub>j</sub>
+quantifications Y<sub>j</sub>
 are the centroids of the scores of the
 objects in the category.
 
@@ -33,7 +33,7 @@ are joint plots
 of objects scores and category quantifications/transformations. 
 There is one star plot for each variable. In the star plot we
 draw stars by connecting each object with the categories the
-object is in. The resulting k(j) graphs are star-shaped, because
+object is in. The resulting k<sub>j</sub> graphs are star-shaped, because
 the category point is the centroid of "its" object points.
 
 In the paper 
