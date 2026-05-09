@@ -24,7 +24,8 @@ quantifications* for nominal and ordinal variables or *category transformations*
 for numerical variables. In HA, in the
 form in which it is implemented in Gifi (1990), we require
 that X is column-centered with X'X = nI. The category 
-quantifications Y(j) Y˜j˜ are the centroids of the scores of the
+quantifications Y(j) Y<sub>j</sub>
+are the centroids of the scores of the
 objects in the category.
 
 The most interesting graphical outputs of HA are the *star plots*, which
