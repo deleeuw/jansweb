@@ -20,10 +20,14 @@ finite.
 HA maps objects and categories into a p-dimensional Euclidean
 space. The numerical output is an n x p matrix X of *object scores*
 and m matrices Y(j), of dimension k(j) x p, of *category 
-quantifications* or *category transformations*. 
-One of the main graphical output are the *star plots*. 
+quantifications* or *category transformations*. In HA, in the
+form in which it is implmented in Gifi (1990), we require
+that X is column-centered with X'X = nI. The category 
+quatifications are the centroids of the scores of the
+objects in the category.
+
+The most interesting graphical outputs are the *star plots*. 
 There is one star plot for
 each variable. Star plots are joint plots of objects scores and
-category quantifications/transformations.
-Variable j has k(j)
-possible values, called *categories*. 
+category quantifications/transformations. 
+ 
