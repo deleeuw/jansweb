@@ -9,8 +9,10 @@ view: 1
 ---
 In the Gifi system the CRIMINALS name is used for Discriminant Analysis by
 Alternating Least Squares. The technique is briefly discussed in the 1990 
-Gifi book on pages 243--244 and applied on pages 477-485. The 2009 JSS
-paper on homals by De Leeuw and Mair mentions that the homals program can 
+Gifi book on pages 243--244 and applied on pages 477-485. No special purpose
+software was provided, however. The [2009
+homals paper](https://www.jstatsoft.org/article/view/v031i04) in the Journal of Statistical Software by De Leeuw and Mair 
+mentions that the homals program can 
 be used to perform discriminant analysis, but it does not go into details.
 It seems worthwhile to provide a stand-alone version of CRIMINALS that
 uses B-spline bases for the independent variables and provides special 
