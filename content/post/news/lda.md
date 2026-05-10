@@ -16,3 +16,12 @@ It seems worthwhile to provide a stand-alone version of CRIMINALS that
 uses B-spline bases for the independent variables
 and provides special purpose plotting routines.
 
+The paper (preliminary) is at
+
+<https://jansweb.netlify.app/publication/deleeuw-e-26-g/>
+
+and the files are at 
+
+<https://github.com/deleeuw/lda>
+
+

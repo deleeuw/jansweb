@@ -36,4 +36,24 @@ draw stars by connecting each object with the categories the
 object is in. The resulting k<sub>j</sub> graphs are star-shaped, because
 the category point is the centroid of "its" object points.
 
-In the paper 
+In the paper we first reformulate HA as a form of non-metric multidimensional
+scaling, using Kruskal's stress and requiring the distances between
+object-points and the category-points the objects are in to be zero.
+We then relax this to the requirement that the distance of an object-point
+to the point of the category the object is in must be less than or equal to
+the distance to the other category points of the same variable. We adapt the
+monotone regression routines and the normalization of the solution to
+this requirement.
+
+Geometrically the category-points of a variable define a partition of the space into Voronoi regions. Our new requirement is that all object-points 
+are in the Voronoi region of the category they are in.
+
+The paper is at
+
+<https://jansweb.netlify.app/publication/deleeuw-e-26-f/>
+
+and the files are at 
+
+<https://github.com/deleeuw/voronoi>
+
+
