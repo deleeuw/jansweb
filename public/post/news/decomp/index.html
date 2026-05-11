@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="https://github.com/deleeuw/decomp has R code and paper for matrix decomposition of Y by X in the Kronecker norm tr R(Y-X)C(Y-X)&#39;, with R and C positive semi-definite matrices. Specifically we look at X of the form c &#43; ae&#39; &#43; eb&#39; &#43; D." />
+  <meta name="description" content="https://github.com/deleeuw/decomp has R code and paper for matrix decomposition of X in the squared Kronecker norm tr RXCX&#39;, with R and C positive semi-definite matrices. Specifically we look at decompositions of the form X = c &#43; ae&#39; &#43; eb&#39; &#43; D." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://jansweb.netlify.app/post/news/decomp/" />
@@ -279,7 +279,7 @@
   <meta property="og:site_name" content="JansWeb" />
   <meta property="og:url" content="https://jansweb.netlify.app/post/news/decomp/" />
   <meta property="og:title" content="Matrix Decomposition (2026-04-24) | JansWeb" />
-  <meta property="og:description" content="https://github.com/deleeuw/decomp has R code and paper for matrix decomposition of Y by X in the Kronecker norm tr R(Y-X)C(Y-X)&#39;, with R and C positive semi-definite matrices. Specifically we look at X of the form c &#43; ae&#39; &#43; eb&#39; &#43; D." /><meta property="og:image" content="https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:description" content="https://github.com/deleeuw/decomp has R code and paper for matrix decomposition of X in the squared Kronecker norm tr RXCX&#39;, with R and C positive semi-definite matrices. Specifically we look at decompositions of the form X = c &#43; ae&#39; &#43; eb&#39; &#43; D." /><meta property="og:image" content="https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -332,7 +332,7 @@
       "url": "https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "https://github.com/deleeuw/decomp has R code and paper for matrix decomposition of Y by X in the Kronecker norm tr R(Y-X)C(Y-X)', with R and C positive semi-definite matrices. Specifically we look at X of the form c + ae' + eb' + D."
+  "description": "https://github.com/deleeuw/decomp has R code and paper for matrix decomposition of X in the squared Kronecker norm tr RXCX', with R and C positive semi-definite matrices. Specifically we look at decompositions of the form X = c + ae' + eb' + D."
 }
 </script>
 
@@ -538,6 +538,38 @@
 
         <li class="nav-item">
           <a class="nav-link " href="https://github.com/deleeuw" target="_blank" rel="noopener"><span>Github</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://deleeuwworkshop.stat.ucla.edu" target="_blank" rel="noopener"><span>Workshop</span></a>
         </li>
 
         
@@ -785,15 +817,16 @@
 
     <div class="article-style">
       <p><a href="https://github.com/deleeuw/decomp">https://github.com/deleeuw/decomp</a> has R code and paper for matrix
-decomposition of Y by X in the Kronecker norm
-tr R(Y-X)C(Y-X)', with R and C positive semi-definite matrices.
-Specifically we look at X of the form c + ae' + eb' + D. The four
-components define four Kronecker-orthogonal subspaces of matrix space.
-We project Y on these four subspaces, using the Kronecker metric.
-Generalizations to multidimensional arrays, to external variables
-different from vectors with all elements equal to one, and to
-the matrix variate normal distribution are
-discussed.</p>
+decomposition of X in the squared Kronecker norm
+tr RXCX', with R and C positive semi-definite matrices.
+Specifically we look at decompositions of the form X = c + ae' + eb' + D. The four components are used to define four Kronecker-orthogonal subspaces of matrix space.
+We project X on these four subspaces, using the Kronecker metric. We discuss</p>
+<ul>
+<li>applications to matrix approximation,</li>
+<li>generalizations to multidimensional arrays,</li>
+<li>extensions to external or passive variables, and</li>
+<li>ML estimation for the matrix variate normal distribution.</li>
+</ul>
 
     </div>
 

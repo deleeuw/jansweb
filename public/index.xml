@@ -5,7 +5,7 @@
     <link>https://jansweb.netlify.app/</link>
       <atom:link href="https://jansweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>JansWeb</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>JansWeb</title>
@@ -108,6 +108,98 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>CRIMINALS</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-26-g/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-26-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRIMINALS (2026-05-09)</title>
+      <link>https://jansweb.netlify.app/post/news/lda/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/lda/</guid>
+      <description>&lt;p&gt;In the Gifi system the CRIMINALS name is used for Discriminant Analysis by
+Alternating Least Squares. Like in all Gifi techniques the independent variables
+can have mixed measurement levels. The technique is briefly discussed in the 1990
+Gifi book on pages 243&amp;ndash;244 and applied on pages 477-485. No special purpose
+software was provided, however. The &lt;a href=&#34;https://www.jstatsoft.org/article/view/v031i04&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2009
+homals paper&lt;/a&gt; in the Journal of Statistical Software by De Leeuw and Mair
+mentions that the homals program can
+be used to perform discriminant analysis, but it does not go into details.
+It seems worthwhile to provide a stand-alone version of CRIMINALS that
+uses B-spline bases for the independent variables and provides special
+purpose plotting routines.&lt;/p&gt;
+&lt;p&gt;The paper (very preliminary) is at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jansweb.netlify.app/publication/deleeuw-e-26-g/&#34;&gt;https://jansweb.netlify.app/publication/deleeuw-e-26-g/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and the files are at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deleeuw/lda&#34;&gt;https://github.com/deleeuw/lda&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voronoi Homogeneity Analysis (2026-05-09)</title>
+      <link>https://jansweb.netlify.app/post/news/voronoi/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/voronoi/</guid>
+      <description>&lt;p&gt;In Homogeneity Analysis (HA), better known as Multiple Correpondence
+Analysis (MCA), there are n &lt;em&gt;objects&lt;/em&gt; and m &lt;em&gt;variables&lt;/em&gt; that measure
+the objects. By &amp;ldquo;measure&amp;rdquo; we mean that each variable j maps
+the n objects into a set of k&lt;sub&gt;j&lt;/sub&gt; possible values, the
+&lt;em&gt;categories&lt;/em&gt; of the variable. The number of categories can be
+finite or infinite and the categories can be nominal, ordinal, or
+numerical. In actual data analysis the number of categories
+that are actually present in the data will necessarily be
+finite.&lt;/p&gt;
+&lt;p&gt;HA maps objects and categories into a p-dimensional Euclidean
+space. The numerical output is an n x p matrix X of &lt;em&gt;object scores&lt;/em&gt;
+and m matrices Y&lt;sub&gt;j&lt;/sub&gt;, of dimension k&lt;sub&gt;j&lt;/sub&gt; x p, called &lt;em&gt;category
+quantifications&lt;/em&gt; for nominal and ordinal variables and &lt;em&gt;category transformations&lt;/em&gt;
+for numerical variables. In HA, in the
+form in which it is implemented in Gifi (1990), we require
+that X is column-centered with X&amp;rsquo;X = nI. The category
+quantifications Y&lt;sub&gt;j&lt;/sub&gt;
+are the centroids of the scores of the
+objects in the category (we also say that objects &amp;ldquo;belong to&amp;rdquo; a category
+or are &amp;ldquo;in&amp;rdquo; a category)&lt;/p&gt;
+&lt;p&gt;The most interesting graphical outputs of HA are the &lt;em&gt;star plots&lt;/em&gt;, which
+are joint plots
+of objects scores and category quantifications/transformations.
+There is one star plot for each variable. In the star plot we
+draw stars by connecting each object with the categories the
+object belongs to. The resulting k&lt;sub&gt;j&lt;/sub&gt; graphs are star-shaped, because
+the category point is the centroid of &amp;ldquo;its&amp;rdquo; object points.&lt;/p&gt;
+&lt;p&gt;In the paper we first reformulate HA as a form of non-metric multidimensional
+scaling, using Kruskal&amp;rsquo;s stress and requiring that the distances between
+object-points and the category-points the objects belong to are zero.
+We then relax this to the requirement that the distance of an object-point
+to the point of the category the object belongs to must be less than or equal to
+the distance to the other category points of the same variable. We adapt the
+monotone regression routines and the normalization of the solution to
+this requirement. The classical HA solution is used as an initial
+estimate of the smacof iterations.&lt;/p&gt;
+&lt;p&gt;Geometrically the category-points of a variable define a partition of the space into Voronoi regions. Our new requirement is that all object-points
+are in the Voronoi region of the category they belong to. For each variable the star
+graphs are replaced by regions partitioning the space. There is no centroid
+relation between category-points and object-points are more &amp;ndash; the object points
+can be anywhere in the Voronoi region of the category they belong to.&lt;/p&gt;
+&lt;p&gt;The paper is at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jansweb.netlify.app/publication/deleeuw-e-26-f/&#34;&gt;https://jansweb.netlify.app/publication/deleeuw-e-26-f/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and the files are at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deleeuw/voronoi&#34;&gt;https://github.com/deleeuw/voronoi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voronoi Analysis of Categorical Data</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-26-f/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-26-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Matrix Decomposition with Kronecker Weights</title>
       <link>https://jansweb.netlify.app/publication/deleeuw-e-26-e/</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
@@ -121,15 +213,16 @@ The variance of the distribution is $\sigma^{2}$.
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://jansweb.netlify.app/post/news/decomp/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/deleeuw/decomp&#34;&gt;https://github.com/deleeuw/decomp&lt;/a&gt; has R code and paper for matrix
-decomposition of Y by X in the Kronecker norm
-tr R(Y-X)C(Y-X)&#39;, with R and C positive semi-definite matrices.
-Specifically we look at X of the form c + ae&#39; + eb&#39; + D. The four
-components define four Kronecker-orthogonal subspaces of matrix space.
-We project Y on these four subspaces, using the Kronecker metric.
-Generalizations to multidimensional arrays, to external variables
-different from vectors with all elements equal to one, and to
-the matrix variate normal distribution are
-discussed.&lt;/p&gt;
+decomposition of X in the squared Kronecker norm
+tr RXCX&#39;, with R and C positive semi-definite matrices.
+Specifically we look at decompositions of the form X = c + ae&#39; + eb&#39; + D. The four components are used to define four Kronecker-orthogonal subspaces of matrix space.
+We project X on these four subspaces, using the Kronecker metric. We discuss&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;applications to matrix approximation,&lt;/li&gt;
+&lt;li&gt;generalizations to multidimensional arrays,&lt;/li&gt;
+&lt;li&gt;extensions to external or passive variables, and&lt;/li&gt;
+&lt;li&gt;ML estimation for the matrix variate normal distribution.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -143,26 +236,10 @@ The presentations (overheads and videos) are now online at&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://deleeuwworkshop.stat.ucla.edu/#schedule&#34;&gt;https://deleeuwworkshop.stat.ucla.edu/#schedule&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I once more, and probably for the last time, flew to LA. It was good to see old friends, to meet new faculty and students, and to mosey around
 in familiar surroundings. I had a good time.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-five-chairs-no-table&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figures/img.png&#34; alt=&#34;Five Chairs, No Table&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Five Chairs, No Table
-    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://jansweb.netlify.app/media/chairs.jpg&#34; alt=&#34;Alt text&#34; /&gt;
+    &lt;figcaption style=&#34;font-size:18px; &#34;&gt;Five Chairs, No Table&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -189,7 +266,7 @@ approximation (defaults to eckart-young()). The file auxiliary.R
 contains nine different approximation routines that can be used
 in both nested() and triple().&lt;/p&gt;
 &lt;p&gt;As always, everything is public domain, and both paper and code may
-change many timesApr 27, 2026&lt;/p&gt;
+change over time.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://jansweb.netlify.app/author/j.-de-leeuw/</link>
       <atom:link href="https://jansweb.netlify.app/author/j.-de-leeuw/index.xml" rel="self" type="application/rss+xml" />
     <description>J. De Leeuw</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jansweb.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>J. De Leeuw</title>
       <link>https://jansweb.netlify.app/author/j.-de-leeuw/</link>
     </image>
+    
+    <item>
+      <title>CRIMINALS</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-26-g/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-26-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voronoi Analysis of Categorical Data</title>
+      <link>https://jansweb.netlify.app/publication/deleeuw-e-26-f/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/publication/deleeuw-e-26-f/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> Matrix Decomposition with Kronecker Weights</title>
