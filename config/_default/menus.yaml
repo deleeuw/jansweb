@@ -16,15 +16,18 @@ main:
   - name: Github
     url: https://github.com/deleeuw
     weight: 35
+  - name: Workshop
+    url: https://deleeuwworkshop.stat.ucla.edu
+    weight: 40
   - name: YouTube
     url: https://www.youtube.com/c/JanDeleeuw/videos
-    weight: 40
+    weight: 45
   - name: Interview
     url: post/wijsen
-    weight: 45
+    weight: 50
   - name: 'Say My Name'
     url: post/name
-    weight: 50
+    weight: 55
   - name: 'SimpleAnalytics'
     url: https://dashboard.simpleanalytics.com/jansweb.netlify.app
     weight: 55
