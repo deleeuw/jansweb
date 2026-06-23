@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Voronoi Analysis of Categorical Data'
+title: 'Voronoi Homogeneity Analysis of Categorical Data'
 subtitle: ''
 summary: ''
 authors:
