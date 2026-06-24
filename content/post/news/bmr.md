@@ -8,9 +8,9 @@ date: 2026-06-24
 view: 1
 ---
 
-In
+In the file monotone.R in the github repository
 
-<https://github.com/deleeuw/voronoi/monotone.R>
+<https://github.com/deleeuw/voronoi>
 
 there is a new routine binaryMonotoneRegression()
 for the special case of least squares monotone
