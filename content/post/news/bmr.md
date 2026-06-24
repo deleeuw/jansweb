@@ -33,7 +33,7 @@ derivative at successive values until it changes sign,
 and then interpolate linearly to find the zero.
 
 The new function is used in the voronoiHomogeneityAnalysis(),
-voronoiCentroidAnalysis(), and voronoiSpericalAnalysis()
+voronoiCentroidAnalysis(), and voronoiSphericalAnalysis()
 functions for unfolding categorical data that can be
 found in the same github repository.
 
