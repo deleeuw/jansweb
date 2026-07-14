@@ -13,6 +13,74 @@
     </image>
     
     <item>
+      <title>Binary Monotone Regression (2026-06-24)</title>
+      <link>https://jansweb.netlify.app/post/news/bmr/</link>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/bmr/</guid>
+      <description>&lt;p&gt;In the file monotone.R in the github repository&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deleeuw/voronoi&#34;&gt;https://github.com/deleeuw/voronoi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;there is a new routine binaryMonotoneRegression()
+for the special case of least squares monotone
+regression in which the partial order is defined
+by a partition of the target into two sets.
+All elements in  the first set are required to be
+smaller than or equal to all elements in the second set.
+Previously I used Kruskal&amp;rsquo;s primary approach
+to ties to handle this case, which requires
+a lot of sorting and index manipulation in each
+iteration.&lt;/p&gt;
+&lt;p&gt;The new algorithm reduces the monotone regression
+problem to minimizing a differentiable and piecewise
+quadratic convex function of a single variable. We
+sort the target and use the fact that the function is quadratic
+between each interval of successive values in the sorted
+vector. We start at one end of the scale, evaluate the
+derivative at successive values until it changes sign,
+and then interpolate linearly to find the zero.&lt;/p&gt;
+&lt;p&gt;The new function is used in the voronoiHomogeneityAnalysis(),
+voronoiCentroidAnalysis(), and voronoiSphericalAnalysis()
+functions for unfolding categorical data that can be
+found in the same github repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More Voronoi Homogeneity Analysis (2026-06-04)</title>
+      <link>https://jansweb.netlify.app/post/news/vha/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://jansweb.netlify.app/post/news/vha/</guid>
+      <description>&lt;p&gt;My brief introductory remarks for the April 10 workshop&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://deleeuwworkshop.stat.ucla.edu/#schedule&#34;&gt;https://deleeuwworkshop.stat.ucla.edu/#schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;had the title &amp;ldquo;A Tale of Two Loss Functions&amp;rdquo;. The
+two loss functions were, of course, the Gifi meet-loss
+of homogeneity analysis (MCA) and the stress of smacof.
+Patrick&amp;rsquo;s presentation at the workshop uses the same
+two chapters to discuss my work in &amp;ldquo;dimension reduction&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;I am currently working on the paper &amp;ldquo;Voronoi Homogeneity Analysis&amp;rdquo;,
+latest version at&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deleeuw/voronoi&#34;&gt;https://github.com/deleeuw/voronoi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In the
+introductory section there is a new derivation of the fact
+that homogeneity analysis is a special case of non-metric
+smacof (and that consequently the Gifi system can be embedded
+in smacof with restrictions). More specifically for m
+variables MCA consists of m linked nonmetric unfolding problems,
+which are linked because they have the same X but
+different Y_j. Thus it is now &amp;ldquo;A Tale of one Loss Function&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Voronoi MCA relaxes the ordinal constraints on the disparities.
+As a consequence, as in unfolding, there are the usual
+degenerate solutions with perfect fit. But because
+of the weak ordinal constraints other perfect fit solutions exist,
+which are not necessarily degenerate (or only partly degenerate).&lt;/p&gt;
+&lt;p&gt;The paper has software and examples to illustrate the
+workings of the algorithm and the influence of various
+constraints (some of which emulate MCA properties).
+The appendix introduces MALS, which is Majorized
+Alternating Least Squares.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CRIMINALS (2026-05-09)</title>
       <link>https://jansweb.netlify.app/post/news/lda/</link>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
